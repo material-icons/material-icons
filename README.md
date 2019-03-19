@@ -31,10 +31,8 @@ Unfortunately some icons from version 3 are not available in updated version. Th
 * content-copy
 * content-cut
 * content-paste
-* do-not-disturb
 * do-not-disturb-alt
 * do-not-disturb-off
-* do-not-disturb-on
 * file-download
 * file-upload
 * lightbulb-outline
