@@ -40,25 +40,6 @@ Unfortunately some icons from version 3 are not available in updated version. Th
 * system-update-alt
 
 
-## Adding new icons
-
-This is a new repository. Currently it includes only official Google Material Design Icons.
-
-However if there is need for additional icons, this repository will be duplicated into 2 branches: "master" for official + custom icons and "official" for only official icons.
-
-### CLA
-
-If you want to add icons, you need to sign Google's Contributor License Agreement. Why Google's CLA? Maybe one day these icons will be merged into official repository.
-
-See [CONTRIBUTING.md](https://github.com/google/.github/blob/master/CONTRIBUTING.md)
-
-### Custom icons
-
-All contributed icons must be 24x24, must have all 5 variations and must match [material design guidelines](https://material.io/design/).
-
-If contributed icon does not fit into existing category, such as "AV", "Editor", new category will have to be created. For new category to be added there needs to be large enough number of icons that cover that category.
-
-
 ## Getting started
 
 This readme explains how to use updated icons set in your projects.
@@ -141,6 +122,25 @@ import home from "@iconify/react/ic/twotone-home";
 <Icon icon={home} />
 <p>This is some text with <InlineIcon icon={face} /></p>
 ```
+
+
+## Adding new icons
+
+This is a new repository. Currently it includes only official Google Material Design Icons.
+
+However if there is need for additional icons, this repository will be duplicated into 2 branches: "master" for official + custom icons and "official" for only official icons.
+
+### CLA
+
+If you want to add icons, you need to sign Google's Contributor License Agreement. Why Google's CLA? Maybe one day these icons will be merged into official repository.
+
+See [CONTRIBUTING.md](https://github.com/google/.github/blob/master/CONTRIBUTING.md)
+
+### Custom icons
+
+All contributed icons must be 24x24, must have all 5 variations and must match [material design guidelines](https://material.io/design/).
+
+If contributed icon does not fit into existing category, such as "AV", "Editor", new category will have to be created. For new category to be added there needs to be large enough number of icons that cover that category.
 
 
 ## License
