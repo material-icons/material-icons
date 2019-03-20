@@ -33,7 +33,6 @@ Unfortunately some icons from version 3 are not available in updated version. Th
 * content-paste
 * do-not-disturb-alt
 * do-not-disturb-off
-* file-download
 * file-upload
 * lightbulb-outline
 * sentiment-neutral
@@ -64,7 +63,7 @@ All icons are 24x24, cleaned up and optimized. If you need different size, chang
 
 Web font is not available.
 
-Many of new icons are no longer simple shapes, which makes it hard to convert them to font. I suspect it might be one of reasons official repository is no longer updated.
+Many of new icons are no longer simple shapes, which makes it hard to convert them to font. Twotone icons cannot be implemented as web font. I suspect it might be one of reasons official repository is no longer updated.
 
 Also there are over 5000 icons. Imagine having them all as font - you will be wasting a lot of your visitor's bandwidth and page will load slower. Web font for such big icons set (or any icon set) is not a good idea.
 
