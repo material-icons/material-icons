@@ -71,7 +71,7 @@ All icons are available with [Iconify JavaScript framework](https://iconify.desi
 
 #### What is Iconify?
 
-Iconify project makes it easy to add SVG icons to websites and offers over 30,000 icons to choose from.
+Iconify project makes it easy to add SVG icons to websites and offers over 40,000 icons to choose from.
 
 You can use Iconify not only with this icon set, but also [Templarian's Material Design Icons](https://iconify.design/icon-sets/mdi/), [Material Design Light](https://iconify.design/icon-sets/mdi-light/), [FontAwesome 5](https://iconify.design/icon-sets/fa-regular/) and many other icon sets on same page without loading massive fonts.
 
@@ -84,7 +84,7 @@ Iconify is designed to be as easy to use as possible. It uses icon placeholder s
 Add this line to your page to load Iconify:
 
 ```
-<script src="https://code.iconify.design/1/1.0.0-rc7/iconify.min.js"></script>
+<script src="https://code.iconify.design/1/1.0.0/iconify.min.js"></script>
 ```
 
 you can add it to ```<head>``` section of page or before ```</body>```.
