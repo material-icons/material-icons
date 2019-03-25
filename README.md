@@ -124,15 +124,17 @@ import home from "@iconify/react/ic/twotone-home";
 ```
 
 
-## Adding new icons
+## Branches
 
-This is a new repository. Currently it includes only official Google Material Design Icons.
+There are 2 branches of this repository: official and master.
 
-However if there is need for additional icons, this repository will be duplicated into 2 branches: "master" for official + custom icons and "official" for only official icons.
+Official branch includes only icons from material.io with some bug fixes.
+
+Master branch includes few custom icons as well as fixed icons that were slightly modified (such as "outline" icon being changed to actually have outline).
 
 ### CLA
 
-If you want to add icons, you need to sign Google's Contributor License Agreement. Why Google's CLA? Maybe one day these icons will be merged into official repository.
+If you want to add icons to master branch, you need to sign Google's Contributor License Agreement. Why Google's CLA? Maybe one day these icons will be merged into official repository.
 
 See [CONTRIBUTING.md](https://github.com/google/.github/blob/master/CONTRIBUTING.md)
 
