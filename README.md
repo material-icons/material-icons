@@ -34,7 +34,6 @@ Unfortunately some icons from version 3 are not available in updated version. Th
 * do-not-disturb-alt
 * do-not-disturb-off
 * file-upload
-* lightbulb-outline
 * sentiment-neutral
 * system-update-alt
 
