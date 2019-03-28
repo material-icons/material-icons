@@ -36,7 +36,6 @@ Unfortunately some icons from version 3 are not available in updated version. Th
 * file-upload
 * lightbulb-outline
 * sentiment-neutral
-* sim-card-alert
 * system-update-alt
 
 
