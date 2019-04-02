@@ -26,10 +26,6 @@ This repository includes several variations for each icon:
 
 Unlike old repository, this repository for now includes only SVG files. If you need PNG files, please open issue on this repository and specify what size/color you need PNG files.
 
-Unfortunately some icons from version 3 are not available in updated version. Those icons are still available if you use this icon set with Iconify, but they are not included in this repository. List of icons that have disappeared:
-
-* system-update-alt
-
 
 ## Getting started
 
