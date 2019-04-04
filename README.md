@@ -24,7 +24,13 @@ This repository includes several variations for each icon:
 * round
 * twotone
 
-Unlike old repository, this repository for now includes only SVG files. If you need PNG files, please open issue on this repository and specify what size/color you need PNG files.
+This repository for now includes icons in following formats:
+* SVG
+* PNG
+
+PNG icons are available as black (in png/black) and white (in png/white) in 24x24, 48x48 and 96x96.
+
+If you need other format, please open issue on this repository and specify what format, size and color you need.
 
 Unfortunately some icons from version 3 are not available in updated version. Those icons are still available if you use this icon set with Iconify, but they are not included in this repository. List of icons that have disappeared:
 
