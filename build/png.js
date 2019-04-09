@@ -5,6 +5,8 @@
  * Before running this script make sure you have PhantomJS installed.
  *
  * On OSX you can easily install PhantomJS with HomeBrew: brew install phantomjs
+ *
+ * Script will build only missing files. Add --overwrite to command line to rebuild all files.
  */
 "use strict";
 
@@ -32,6 +34,9 @@ const sizes = [{
 
 const queueLimit = colors.length * sizes.length * 5;
 
+// Options
+let overwrite = process.argv.length === 3 && process.argv.slice(2).indexOf('--overwrite') !== -1;
+
 // Get data
 const data = JSON.parse(fs.readFileSync(root + '/data.json', 'utf8'));
 
@@ -51,6 +56,21 @@ colors.forEach(color => {
 let categories = Object.keys(data.categories);
 
 let queue = [];
+
+/**
+ * Check if file exists
+ *
+ * @param file
+ * @return {boolean}
+ */
+let fileExists = file => {
+    try {
+        fs.statSync(file);
+    } catch (e) {
+        return false;
+    }
+    return true;
+};
 
 /**
  * Parse queue
@@ -118,8 +138,8 @@ let nextCategory = () => {
                 nextCategory();
                 return;
             }
-            console.log('Exporting', category + '/' + key);
 
+            let logFile = category + '/' + key;
             let svg = collection.items[key];
 
             // Change palette
@@ -153,8 +173,20 @@ let nextCategory = () => {
                             return;
                         }
 
-                        // Export icon
+                        // Get file name, check if file already exists
                         let file = color + '/' + category + '/' + key + size.suffix + '.png';
+                        if (!overwrite && fileExists(outputDir + '/' + file)) {
+                            nextSize();
+                            return;
+                        }
+
+                        // Log export
+                        if (logFile) {
+                            console.log('Exporting', logFile);
+                            logFile = null;
+                        }
+
+                        // Export icon
                         tools.ExportPNG(svg, outputDir + '/' + file, {
                             height: size.size,
                             color: color,
