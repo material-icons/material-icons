@@ -45,6 +45,7 @@ Unfortunately some icons from version 3 are not available in updated version. Th
 * sim-card-alert
 * system-update-alt
 
+All missing icons are available in "master" branch of this repository. You are currently browsing "official" branch that contains only official Google icons, "master" branch contains icons were not updated by Google team and few custom icons.
 
 ## Getting started
 
@@ -90,7 +91,7 @@ Iconify is designed to be as easy to use as possible. It uses icon placeholder s
 Add this line to your page to load Iconify:
 
 ```
-<script src="https://code.iconify.design/1/1.0.0/iconify.min.js"></script>
+<script src="https://code.iconify.design/1/1.0.1/iconify.min.js"></script>
 ```
 
 you can add it to ```<head>``` section of page or before ```</body>```.
@@ -102,8 +103,9 @@ To add any icon, write something like this:
 ```
 or this:
 ```
-<iconify-icon class="iconify" data-icon="ic:twotone-account-circle"></iconify-icon>
+<iconify-icon data-icon="ic:twotone-account-circle"></iconify-icon>
 ```
+There are 2 small differences in icon names when using Iconify: icons have "ic:" prefix and underscores in icon name have been replaced by dash.
 
 See [how to use Iconify](https://iconify.design/docs/iconify-in-pages/) tutorial and [browse MDI icons list](https://iconify.design/icon-sets/ic/) to get code for each icon.
 
