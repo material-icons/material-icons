@@ -1103,7 +1103,11 @@
         ],
         "math": [
             "divide",
-            "percentage"
+            "equals",
+            "minus",
+            "not_equal",
+            "percentage",
+            "plus"
         ],
         "shopping": [
             "barcode",
