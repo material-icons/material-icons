@@ -1101,6 +1101,10 @@
             "toggle_off",
             "toggle_on"
         ],
+        "math": [
+            "divide",
+            "percentage"
+        ],
         "shopping": [
             "barcode",
             "qrcode"
