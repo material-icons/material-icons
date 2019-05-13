@@ -91,7 +91,7 @@ Iconify is designed to be as easy to use as possible. It uses icon placeholder s
 Add this line to your page to load Iconify:
 
 ```
-<script src="https://code.iconify.design/1/1.0.1/iconify.min.js"></script>
+<script src="https://code.iconify.design/1/1.0.2/iconify.min.js"></script>
 ```
 
 you can add it to ```<head>``` section of page or before ```</body>```.
@@ -112,7 +112,7 @@ See [how to use Iconify](https://iconify.design/docs/iconify-in-pages/) tutorial
 
 ### React components
 
-No need to reinvent components. See [Iconify for React](https://github.com/iconify-design/iconify-react).
+No need to reinvent components. See [Iconify for React](https://github.com/iconify/iconify-react).
 
 How to use it:
 
