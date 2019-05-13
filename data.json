@@ -1104,10 +1104,16 @@
         "math": [
             "divide",
             "equals",
+            "greater_than",
+            "greater_than_equal",
+            "less_than",
+            "less_than_equal",
             "minus",
             "not_equal",
             "percentage",
-            "plus"
+            "plus",
+            "plus_minus",
+            "plus_minus_alt"
         ],
         "shopping": [
             "barcode",
