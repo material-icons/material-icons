@@ -103,13 +103,13 @@ No need to reinvent components. See [Iconify for React](https://github.com/iconi
 How to use it:
 
 ```
-npm install @iconify/react
+npm install @iconify/react @iconify/icons-ic
 ```
 
 ```
 import { Icon, InlineIcon } from "@iconify/react";
-import face from "@iconify/react/ic/baseline-face";
-import home from "@iconify/react/ic/twotone-home";
+import face from "@iconify/icons-ic/baseline-face";
+import home from "@iconify/icons-ic/twotone-home";
 ```
 
 ```
