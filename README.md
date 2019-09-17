@@ -5,7 +5,7 @@ Material design icons is the official [icon set](https://www.google.com/design/s
 
 ### Updated set
 
-This is updated version of icons, directly from [material.io](https://material.io/tools/icons/).
+This is updated version of icons, directly from [material.io](https://material.io/resources/icons/).
 
 You can find older version of this icons set in [google/material-design-icons](https://github.com/google/material-design-icons) repository.
 
@@ -24,26 +24,21 @@ This repository includes several variations for each icon:
 * round
 * twotone
 
-This repository for now includes icons in following formats:
-* SVG
-* PNG
-
-PNG icons are available as black (in png/black) and white (in png/white) in 24x24, 48x48 and 96x96.
+This repository includes only icons in SVG format. Icons are available in PNG format in [cyberalien/material-design-icons-updated-png](https://github.com/cyberalien/material-design-icons-updated-png) repository.
 
 If you need other format, please open issue on this repository and specify what format, size and color you need.
 
 Unfortunately some icons from version 3 are not available in updated version. Those icons are still available if you use this icon set with Iconify, but they are not included in this repository. List of icons that have disappeared:
 
-* content-copy
-* content-cut
-* content-paste
-* do-not-disturb-alt
-* do-not-disturb-off
-* file-upload
-* lightbulb-outline
-* sentiment-neutral
-* sim-card-alert
-* system-update-alt
+* content_copy
+* content_cut
+* content_paste
+* do_not_disturb_alt
+* do_not_disturb_off
+* file_upload
+* lightbulb_outline
+* sentiment_neutral
+* sim_card_alert
 
 All missing icons are available in "master" branch of this repository. You are currently browsing "official" branch that contains only official Google icons, "master" branch contains icons were not updated by Google team and few custom icons.
 
@@ -56,7 +51,7 @@ This repository does not use same build process as official Google MDI repositor
 
 ### Using SVG
 
-SVG are available in directory "svg", followed by icon category. Icon name starts with icon variation, then "-", then icon name.
+SVG are available in directory "svg", followed by icon name. Each directory contains up to 5 SVG files, one for each icon variation.
 
 All icons are 24x24, cleaned up and optimized. If you need different size, change width and height attributes in icon. SVG are scalable, duplicating them for different sizes is pointless.
 
@@ -91,7 +86,7 @@ Iconify is designed to be as easy to use as possible. It uses icon placeholder s
 Add this line to your page to load Iconify:
 
 ```
-<script src="https://code.iconify.design/1/1.0.2/iconify.min.js"></script>
+<script src="https://code.iconify.design/1/1.0.3/iconify.min.js"></script>
 ```
 
 you can add it to ```<head>``` section of page or before ```</body>```.
@@ -131,6 +126,16 @@ import home from "@iconify/icons-ic/twotone-home";
 <p>This is some text with <InlineIcon icon={face} /></p>
 ```
 
+### Linking to SVG
+
+This repository is available on github.io. You can link to any SVG file like this:
+
+```
+https://cyberalien.github.io/google-material-design-icons-updated/svg/{name}/{family}.svg
+```
+
+
+where {name} is icon name, {family} is icon variation.
 
 ## Branches
 
@@ -140,20 +145,27 @@ Official branch includes only icons from material.io with some bug fixes.
 
 Master branch includes few custom icons as well as fixed icons that were slightly modified (such as "outline" icon being changed to actually have outline).
 
-### CLA
+## Icon categories/tags
+
+Icon categories, tags and version numbers are available in [data.json](https://cyberalien.github.io/google-material-design-icons-updated/data.json)
+
+Format is similar to meta data Google provides for latest icons.
+
+## CLA
 
 If you want to add icons to master branch, you need to sign Google's Contributor License Agreement. Why Google's CLA? Maybe one day these icons will be merged into official repository.
 
 See [CONTRIBUTING.md](https://github.com/google/.github/blob/master/CONTRIBUTING.md)
 
-### Custom icons
+## Custom icons
 
 All contributed icons must be 24x24, must have all 5 variations and must match [material design guidelines](https://material.io/design/).
 
 If contributed icon does not fit into existing category, such as "AV", "Editor", new category will have to be created. For new category to be added there needs to be large enough number of icons that cover that category.
 
-
 ## License
+
+(copied from Google's repository)
 
 We have made these icons available for you to incorporate into your products under the [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt). Feel free to remix and re-share these icons and documentation in your products.
 We'd love attribution in your app's *about* screen, but it's not required. The only thing we ask is that you not re-sell these icons.
