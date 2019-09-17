@@ -17,11 +17,5 @@
   "bugs": {
     "url": "https://github.com/cyberalien/google-material-design-icons-updated/issues"
   },
-  "homepage": "https://github.com/cyberalien/google-material-design-icons-updated",
-  "scripts": {
-    "build": "node build/png.js"
-  },
-  "devDependencies": {
-    "@iconify/tools": "^1.3.3"
-  }
+  "homepage": "https://github.com/cyberalien/google-material-design-icons-updated"
 }
