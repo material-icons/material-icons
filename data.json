@@ -5315,6 +5315,11 @@
         {
             "name": "greater_than",
             "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
             "categories": [
                 "math"
             ]
