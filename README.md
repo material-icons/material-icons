@@ -24,7 +24,10 @@ This repository includes several variations for each icon:
 * round
 * twotone
 
-This repository includes only icons in SVG format. Icons are available in PNG format in [cyberalien/material-design-icons-updated-png](https://github.com/cyberalien/material-design-icons-updated-png) repository.
+This repository includes only icons in SVG format. Other available formats are in different repositories:
+
+* PNG: [material-icons-png](https://github.com/material-icons/material-icons-png)
+* Font: [material-icons-font](https://github.com/material-icons/material-icons-font)
 
 If you need other format, please open issue on this repository and specify what format, size and color you need.
 
@@ -45,11 +48,9 @@ All icons are 24x24, cleaned up and optimized. If you need different size, chang
 
 ### Web font
 
-Web font is not available.
+Web font is is available in [material-icons-font](https://github.com/material-icons/material-icons-font) repository.
 
-Many of new icons are no longer simple shapes, which makes it hard to convert them to font. Twotone icons cannot be implemented as web font. I suspect it might be one of reasons official repository is no longer updated.
-
-Also there are over 5000 icons. Imagine having them all as font - you will be wasting a lot of your visitor's bandwidth and page will load slower. Web font for such big icons set (or any icon set) is not a good idea.
+However you should avoid using font if you can. Font loads all icons that take a while to load and quite big stylesheet. Also fonts render with blurred ugly edges on some operating systems, worst offender is Windows.
 
 Good news, all icons are available as modern JavaScript framework that replaces glyph fonts. See below.
 
@@ -118,7 +119,7 @@ import home from "@iconify/icons-ic/twotone-home";
 This repository is available on github.io. You can link to any SVG file like this:
 
 ```
-https://cyberalien.github.io/google-material-design-icons-updated/svg/{name}/{family}.svg
+https://material-icons.github.io/material-icons/svg/{name}/{family}.svg
 ```
 
 
@@ -128,13 +129,13 @@ where {name} is icon name, {family} is icon variation.
 
 There are 2 branches of this repository: official and master.
 
-Official branch includes only icons from material.io with some bug fixes.
+Original branch includes only icons from material.io with some bug fixes.
 
 Master branch includes few custom icons as well as fixed icons that were slightly modified (such as "outline" icon being changed to actually have outline).
 
 ## Icon categories/tags
 
-Icon categories, tags and version numbers are available in [data.json](https://cyberalien.github.io/google-material-design-icons-updated/data.json)
+Icon categories, tags and version numbers are available in [data.json](https://material-icons.github.io/material-icons/data.json)
 
 Format is similar to meta data Google provides for latest icons.
 
@@ -149,6 +150,8 @@ See [CONTRIBUTING.md](https://github.com/google/.github/blob/master/CONTRIBUTING
 All contributed icons must be 24x24, must have all 5 variations and must match [material design guidelines](https://material.io/design/).
 
 If contributed icon does not fit into existing category, such as "AV", "Editor", new category will have to be created. For new category to be added there needs to be large enough number of icons that cover that category.
+
+See https://github.com/material-icons/build
 
 ## License
 
