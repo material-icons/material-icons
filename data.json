@@ -720,6 +720,11 @@
         {
             "name": "arrow_back_ios",
             "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
             "categories": [
                 "navigation"
             ]
