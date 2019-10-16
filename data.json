@@ -1,6 +1,6 @@
 {
     "root": "https://material-icons.github.io/material-icons/svg/",
-    "asset_url_pattern": "{family}/{icon}.svg",
+    "asset_url_pattern": "{icon}/{family}.svg",
     "icons": [
         {
             "name": "360",
