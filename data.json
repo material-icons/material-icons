@@ -772,6 +772,11 @@
         {
             "name": "arrow_forward_ios",
             "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
             "categories": [
                 "navigation"
             ]
@@ -11176,7 +11181,8 @@
             "name": "system_update_alt",
             "version": 1,
             "unsupported_families": [
-                "outline"
+                "outline",
+                "twotone"
             ],
             "categories": [
                 "action"
