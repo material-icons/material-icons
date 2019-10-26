@@ -11175,6 +11175,9 @@
         {
             "name": "system_update_alt",
             "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
             "categories": [
                 "action"
             ]
