@@ -1,10 +1,10 @@
 {
-  "name": "material-design-icons-updated",
+  "name": "@material-icons/svg",
   "description": "Material Design icons by Google, updated",
-  "main": "index.js",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cyberalien/google-material-design-icons-updated"
+    "url": "https://github.com/material-icons/material-icons"
   },
   "keywords": [
     "icons",
@@ -15,7 +15,7 @@
   "author": "Material Design Authors",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/cyberalien/google-material-design-icons-updated/issues"
+    "url": "https://github.com/material-icons/material-icons/issues"
   },
-  "homepage": "https://github.com/cyberalien/google-material-design-icons-updated"
+  "homepage": "https://github.com/material-icons/material-icons"
 }
