@@ -41,7 +41,7 @@ SVG files are available in the directory "svg", followed by icon name. Each dire
 
 All icons are 24x24, cleaned up and optimized. If you need a different size, change width and height attributes in the icon. SVG files are scalable, duplicating them for different sizes is pointless.
 
-To get SVG files, you can either [clone GitHub repository](https://github.com/material-icons/material-icons-font) or install `@material-icons/svg` NPM package.
+To get SVG files, you can either [clone GitHub repository](https://github.com/material-icons/material-icons) or install `@material-icons/svg` NPM package.
 
 ### Web font
 
