@@ -1,6 +1,7 @@
 {
   "name": "@material-icons/svg",
-  "description": "Material Design icons by Google, updated",
+  "private": true,
+  "description": "Material Design icons by Google, updated. Only official icons.",
   "version": "0.0.1",
   "repository": {
     "type": "git",
