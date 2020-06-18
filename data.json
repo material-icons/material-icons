@@ -2496,6 +2496,16 @@
             ]
         },
         {
+            "name": "bento",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "places"
+            ]
+        },
+        {
             "name": "bike_scooter",
             "version": 5,
             "unsupported_families": [
@@ -3946,6 +3956,13 @@
             ]
         },
         {
+            "name": "carpenter",
+            "version": 1,
+            "categories": [
+                "places"
+            ]
+        },
+        {
             "name": "casino",
             "version": 6,
             "unsupported_families": [
@@ -4501,6 +4518,13 @@
             ]
         },
         {
+            "name": "closed_caption_disabled",
+            "version": 3,
+            "categories": [
+                "av"
+            ]
+        },
+        {
             "name": "cloud",
             "version": 6,
             "unsupported_families": [
@@ -5020,6 +5044,63 @@
             ]
         },
         {
+            "name": "content_copy",
+            "version": 7,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "content"
+            ],
+            "tags": [
+                "content",
+                "copy",
+                "cut",
+                "doc",
+                "document",
+                "duplicate",
+                "file",
+                "multiple",
+                "past"
+            ]
+        },
+        {
+            "name": "content_cut",
+            "version": 7,
+            "categories": [
+                "content"
+            ],
+            "tags": [
+                "content",
+                "copy",
+                "cut",
+                "doc",
+                "document",
+                "file",
+                "past",
+                "scissors",
+                "trim"
+            ]
+        },
+        {
+            "name": "content_paste",
+            "version": 7,
+            "categories": [
+                "content"
+            ],
+            "tags": [
+                "clipboard",
+                "content",
+                "copy",
+                "cut",
+                "doc",
+                "document",
+                "file",
+                "multiple",
+                "past"
+            ]
+        },
+        {
             "name": "control_camera",
             "version": 6,
             "categories": [
@@ -5096,6 +5177,16 @@
             "unsupported_families": [
                 "sharp",
                 "outline"
+            ],
+            "categories": [
+                "places"
+            ]
+        },
+        {
+            "name": "countertops",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
             ],
             "categories": [
                 "places"
@@ -6613,6 +6704,18 @@
             ]
         },
         {
+            "name": "east",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "navigation"
+            ]
+        },
+        {
             "name": "eco",
             "version": 5,
             "unsupported_families": [
@@ -7818,6 +7921,17 @@
             ]
         },
         {
+            "name": "fence",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "places"
+            ]
+        },
+        {
             "name": "fiber_dvr",
             "version": 7,
             "categories": [
@@ -8502,6 +8616,17 @@
             ]
         },
         {
+            "name": "fire_extinguisher",
+            "version": 2,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "places"
+            ]
+        },
+        {
             "name": "fireplace",
             "version": 5,
             "categories": [
@@ -8944,6 +9069,16 @@
                 "symbol",
                 "text",
                 "type"
+            ]
+        },
+        {
+            "name": "food_bank",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "places"
             ]
         },
         {
@@ -9643,6 +9778,17 @@
             ]
         },
         {
+            "name": "foundation",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "places"
+            ]
+        },
+        {
             "name": "free_breakfast",
             "version": 5,
             "categories": [
@@ -10063,6 +10209,18 @@
                 "recording",
                 "sound",
                 "voice"
+            ]
+        },
+        {
+            "name": "grass",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "places"
             ]
         },
         {
@@ -10863,6 +11021,17 @@
                 "residence",
                 "residential",
                 "shelter"
+            ]
+        },
+        {
+            "name": "house_siding",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "places"
             ]
         },
         {
@@ -11893,6 +12062,16 @@
                 "overlay",
                 "pages",
                 "slash"
+            ]
+        },
+        {
+            "name": "leaderboard",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -13451,6 +13630,13 @@
             ]
         },
         {
+            "name": "microwave",
+            "version": 1,
+            "categories": [
+                "places"
+            ]
+        },
+        {
             "name": "military_tech",
             "version": 5,
             "categories": [
@@ -14249,6 +14435,16 @@
             ]
         },
         {
+            "name": "near_me_disabled",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "network_cell",
             "categories": [
                 "device"
@@ -14389,6 +14585,13 @@
             ]
         },
         {
+            "name": "night_shelter",
+            "version": 1,
+            "categories": [
+                "places"
+            ]
+        },
+        {
             "name": "nights_stay",
             "version": 5,
             "unsupported_families": [
@@ -14462,6 +14665,18 @@
             ]
         },
         {
+            "name": "no_meals",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "no_meeting_room",
             "version": 5,
             "categories": [
@@ -14514,6 +14729,49 @@
             "version": 3,
             "categories": [
                 "places"
+            ]
+        },
+        {
+            "name": "no_transfer",
+            "version": 2,
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "north",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "navigation"
+            ]
+        },
+        {
+            "name": "north_east",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "navigation"
+            ]
+        },
+        {
+            "name": "north_west",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "navigation"
             ]
         },
         {
@@ -17061,6 +17319,18 @@
             ]
         },
         {
+            "name": "qr_code_scanner",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "communication"
+            ]
+        },
+        {
             "name": "query_builder",
             "version": 7,
             "categories": [
@@ -17902,6 +18172,16 @@
             ]
         },
         {
+            "name": "rice_bowl",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "places"
+            ]
+        },
+        {
             "name": "ring_volume",
             "version": 7,
             "categories": [
@@ -17916,6 +18196,17 @@
                 "ringer",
                 "sound",
                 "volume"
+            ]
+        },
+        {
+            "name": "roofing",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "places"
             ]
         },
         {
@@ -18758,6 +19049,13 @@
                 "smiling",
                 "survey",
                 "very"
+            ]
+        },
+        {
+            "name": "set_meal",
+            "version": 1,
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -19973,6 +20271,42 @@
             ]
         },
         {
+            "name": "south",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "navigation"
+            ]
+        },
+        {
+            "name": "south_east",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "navigation"
+            ]
+        },
+        {
+            "name": "south_west",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "navigation"
+            ]
+        },
+        {
             "name": "spa",
             "version": 6,
             "unsupported_families": [
@@ -20188,6 +20522,13 @@
                 "sports",
                 "warning",
                 "whistle"
+            ]
+        },
+        {
+            "name": "sports_bar",
+            "version": 1,
+            "categories": [
+                "places"
             ]
         },
         {
@@ -20815,6 +21156,13 @@
                 "primary",
                 "stay",
                 "tablet"
+            ]
+        },
+        {
+            "name": "sticky_note_2",
+            "version": 1,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -21815,6 +22163,13 @@
                 "tap",
                 "to",
                 "wireless"
+            ]
+        },
+        {
+            "name": "tapas",
+            "version": 1,
+            "categories": [
+                "places"
             ]
         },
         {
@@ -23956,6 +24311,16 @@
             ]
         },
         {
+            "name": "water_damage",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "places"
+            ]
+        },
+        {
             "name": "waves",
             "version": 5,
             "unsupported_families": [
@@ -24168,6 +24533,18 @@
             ]
         },
         {
+            "name": "west",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "navigation"
+            ]
+        },
+        {
             "name": "whatshot",
             "version": 6,
             "unsupported_families": [
@@ -24353,6 +24730,16 @@
                 "tethering",
                 "wifi",
                 "wireless"
+            ]
+        },
+        {
+            "name": "wine_bar",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
