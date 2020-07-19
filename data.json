@@ -80,6 +80,17 @@
             ]
         },
         {
+            "name": "6_ft_apart",
+            "version": 2,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "ac_unit",
             "version": 6,
             "categories": [
@@ -2777,6 +2788,13 @@
             ]
         },
         {
+            "name": "book_online",
+            "version": 2,
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "bookmark",
             "version": 6,
             "categories": [
@@ -4438,6 +4456,13 @@
             ]
         },
         {
+            "name": "clean_hands",
+            "version": 2,
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "cleaning_services",
             "version": 7,
             "categories": [
@@ -4927,6 +4952,17 @@
             ]
         },
         {
+            "name": "connect_without_contact",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "construction",
             "version": 5,
             "unsupported_families": [
@@ -5182,6 +5218,16 @@
                 "symbol",
                 "text",
                 "type"
+            ]
+        },
+        {
+            "name": "coronavirus",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -6870,6 +6916,18 @@
                 "player",
                 "remove",
                 "triangle"
+            ]
+        },
+        {
+            "name": "elderly",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -9126,6 +9184,17 @@
                 "star",
                 "starred",
                 "storage"
+            ]
+        },
+        {
+            "name": "follow_the_signs",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -12214,6 +12283,13 @@
             ]
         },
         {
+            "name": "leave_bags_at_home",
+            "version": 1,
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "legend_toggle",
             "version": 3,
             "unsupported_families": [
@@ -12720,6 +12796,24 @@
             ]
         },
         {
+            "name": "local_fire_department",
+            "version": 6,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "maps"
+            ],
+            "tags": [
+                "911",
+                "department",
+                "fire",
+                "firefighter",
+                "flame",
+                "hot"
+            ]
+        },
+        {
             "name": "local_florist",
             "version": 6,
             "unsupported_families": [
@@ -12958,6 +13052,21 @@
             "version": 6,
             "categories": [
                 "maps"
+            ]
+        },
+        {
+            "name": "local_police",
+            "version": 7,
+            "categories": [
+                "maps"
+            ],
+            "tags": [
+                "911",
+                "badge",
+                "law",
+                "officer",
+                "police",
+                "security"
             ]
         },
         {
@@ -13560,6 +13669,16 @@
                 "receive",
                 "send",
                 "unread"
+            ]
+        },
+        {
+            "name": "masks",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -14228,6 +14347,52 @@
                 "three",
                 "vert",
                 "vertical"
+            ]
+        },
+        {
+            "name": "motion_photos_on",
+            "version": 10,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "image"
+            ],
+            "tags": [
+                "animation",
+                "circle",
+                "disabled",
+                "enabled",
+                "motion",
+                "off",
+                "on",
+                "photos",
+                "play",
+                "slash",
+                "video"
+            ]
+        },
+        {
+            "name": "motion_photos_paused",
+            "version": 10,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "image"
+            ],
+            "tags": [
+                "animation",
+                "circle",
+                "motion",
+                "pause",
+                "paused",
+                "photos",
+                "video"
             ]
         },
         {
@@ -17912,6 +18077,18 @@
             ]
         },
         {
+            "name": "reduce_capacity",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "refresh",
             "version": 6,
             "unsupported_families": [
@@ -18713,6 +18890,16 @@
             ]
         },
         {
+            "name": "sanitizer",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "satellite",
             "version": 6,
             "categories": [
@@ -19155,7 +19342,7 @@
         },
         {
             "name": "send",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "content"
             ],
@@ -19836,7 +20023,7 @@
         },
         {
             "name": "shuffle",
-            "version": 6,
+            "version": 8,
             "unsupported_families": [
                 "sharp",
                 "outline"
@@ -19881,6 +20068,16 @@
                 "time",
                 "timer",
                 "watch"
+            ]
+        },
+        {
+            "name": "sick",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
