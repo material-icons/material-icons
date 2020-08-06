@@ -286,7 +286,7 @@
         },
         {
             "name": "account_circle",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "round"
@@ -369,7 +369,7 @@
         },
         {
             "name": "add",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -644,6 +644,18 @@
                 "payment",
                 "plus",
                 "shopping"
+            ]
+        },
+        {
+            "name": "add_task",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -1321,7 +1333,7 @@
         },
         {
             "name": "announcement",
-            "version": 7,
+            "version": 8,
             "categories": [
                 "action"
             ],
@@ -1482,7 +1494,7 @@
         },
         {
             "name": "archive",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "content"
             ],
@@ -1495,7 +1507,7 @@
         },
         {
             "name": "arrow_back",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -1573,7 +1585,7 @@
         },
         {
             "name": "arrow_drop_down",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "navigation"
             ],
@@ -1865,7 +1877,7 @@
         },
         {
             "name": "assignment_turned_in",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -1968,7 +1980,7 @@
         },
         {
             "name": "attach_file",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline"
@@ -1988,7 +2000,7 @@
         },
         {
             "name": "attach_money",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline"
@@ -2015,7 +2027,7 @@
         },
         {
             "name": "attachment",
-            "version": 5,
+            "version": 6,
             "categories": [
                 "file"
             ],
@@ -2789,9 +2801,9 @@
         },
         {
             "name": "book_online",
-            "version": 2,
+            "version": 5,
             "categories": [
-                "social"
+                "action"
             ]
         },
         {
@@ -3478,7 +3490,7 @@
         },
         {
             "name": "business_center",
-            "version": 5,
+            "version": 6,
             "categories": [
                 "places"
             ],
@@ -3591,7 +3603,7 @@
         },
         {
             "name": "call",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "communication"
             ],
@@ -4255,7 +4267,7 @@
         },
         {
             "name": "check_box",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "toggle"
             ],
@@ -4278,7 +4290,7 @@
         },
         {
             "name": "check_box_outline_blank",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "outline",
                 "twotone"
@@ -4349,7 +4361,7 @@
         },
         {
             "name": "chevron_left",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "navigation"
             ],
@@ -4363,7 +4375,7 @@
         },
         {
             "name": "chevron_right",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "navigation"
             ],
@@ -4507,7 +4519,7 @@
         },
         {
             "name": "close",
-            "version": 7,
+            "version": 8,
             "categories": [
                 "navigation"
             ],
@@ -4768,7 +4780,7 @@
         },
         {
             "name": "color_lens",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "round"
@@ -5006,6 +5018,13 @@
                 "person",
                 "profile",
                 "user"
+            ]
+        },
+        {
+            "name": "contact_page",
+            "version": 1,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -5752,7 +5771,7 @@
         },
         {
             "name": "delete",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -5922,7 +5941,7 @@
         },
         {
             "name": "details",
-            "version": 6,
+            "version": 9,
             "unsupported_families": [
                 "sharp",
                 "outline"
@@ -6048,7 +6067,7 @@
         },
         {
             "name": "devices",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "outline"
             ],
@@ -6360,6 +6379,16 @@
             ]
         },
         {
+            "name": "disabled_by_default",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "disc_full",
             "version": 6,
             "unsupported_families": [
@@ -6491,7 +6520,7 @@
         },
         {
             "name": "domain",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline"
@@ -6556,7 +6585,7 @@
         },
         {
             "name": "done",
-            "version": 8,
+            "version": 9,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -6656,7 +6685,7 @@
         },
         {
             "name": "drafts",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "content"
             ],
@@ -6691,7 +6720,7 @@
         },
         {
             "name": "drag_indicator",
-            "version": 5,
+            "version": 6,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -7472,7 +7501,7 @@
         },
         {
             "name": "event",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -7492,7 +7521,7 @@
         },
         {
             "name": "event_available",
-            "version": 7,
+            "version": 8,
             "categories": [
                 "notification"
             ],
@@ -7509,7 +7538,7 @@
         },
         {
             "name": "event_busy",
-            "version": 8,
+            "version": 10,
             "categories": [
                 "notification"
             ],
@@ -7877,6 +7906,19 @@
             ]
         },
         {
+            "name": "facebook",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "fact_check",
             "version": 8,
             "categories": [
@@ -7896,7 +7938,7 @@
         },
         {
             "name": "fast_forward",
-            "version": 7,
+            "version": 9,
             "unsupported_families": [
                 "sharp"
             ],
@@ -8082,7 +8124,7 @@
         },
         {
             "name": "fiber_manual_record",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "round"
@@ -9818,7 +9860,7 @@
         },
         {
             "name": "forum",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "communication"
             ],
@@ -9834,7 +9876,7 @@
         },
         {
             "name": "forward",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "content"
             ],
@@ -10257,7 +10299,7 @@
         },
         {
             "name": "grade",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -10436,7 +10478,7 @@
         },
         {
             "name": "group",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "social"
             ],
@@ -10459,7 +10501,7 @@
         },
         {
             "name": "group_add",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "social"
             ],
@@ -10502,6 +10544,16 @@
                 "teamwork",
                 "together",
                 "work"
+            ]
+        },
+        {
+            "name": "groups",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -10954,7 +11006,7 @@
         },
         {
             "name": "home",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -11012,7 +11064,7 @@
         },
         {
             "name": "horizontal_split",
-            "version": 5,
+            "version": 6,
             "unsupported_families": [
                 "sharp"
             ],
@@ -11104,7 +11156,7 @@
         },
         {
             "name": "hourglass_empty",
-            "version": 5,
+            "version": 6,
             "unsupported_families": [
                 "sharp",
                 "outline"
@@ -11126,7 +11178,7 @@
         },
         {
             "name": "hourglass_full",
-            "version": 5,
+            "version": 6,
             "unsupported_families": [
                 "sharp",
                 "outline"
@@ -11266,7 +11318,7 @@
         },
         {
             "name": "https",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -11291,7 +11343,7 @@
         },
         {
             "name": "image",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "image"
             ],
@@ -11416,7 +11468,7 @@
         },
         {
             "name": "inbox",
-            "version": 5,
+            "version": 6,
             "categories": [
                 "content"
             ],
@@ -11431,7 +11483,7 @@
         },
         {
             "name": "indeterminate_check_box",
-            "version": 8,
+            "version": 9,
             "categories": [
                 "toggle"
             ],
@@ -11454,7 +11506,7 @@
         },
         {
             "name": "info",
-            "version": 8,
+            "version": 9,
             "unsupported_families": [
                 "sharp"
             ],
@@ -11547,7 +11599,7 @@
         },
         {
             "name": "insert_drive_file",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "editor"
             ],
@@ -11765,7 +11817,7 @@
         },
         {
             "name": "keyboard_arrow_down",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -11783,7 +11835,7 @@
         },
         {
             "name": "keyboard_arrow_left",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -11801,7 +11853,7 @@
         },
         {
             "name": "keyboard_arrow_right",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -11819,7 +11871,7 @@
         },
         {
             "name": "keyboard_arrow_up",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "hardware"
             ],
@@ -11916,7 +11968,7 @@
         },
         {
             "name": "keyboard_voice",
-            "version": 7,
+            "version": 8,
             "unsupported_families": [
                 "sharp"
             ],
@@ -11981,7 +12033,7 @@
         },
         {
             "name": "label",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -11995,7 +12047,7 @@
         },
         {
             "name": "label_important",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -12473,7 +12525,7 @@
         },
         {
             "name": "link",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "content"
             ],
@@ -12956,7 +13008,7 @@
         },
         {
             "name": "local_offer",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "maps"
             ],
@@ -13540,8 +13592,15 @@
             ]
         },
         {
+            "name": "luggage",
+            "version": 2,
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "mail",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "content"
             ],
@@ -14328,7 +14387,7 @@
         },
         {
             "name": "more_vert",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -14351,9 +14410,8 @@
         },
         {
             "name": "motion_photos_on",
-            "version": 10,
+            "version": 11,
             "unsupported_families": [
-                "sharp",
                 "outline",
                 "twotone"
             ],
@@ -14372,6 +14430,16 @@
                 "play",
                 "slash",
                 "video"
+            ]
+        },
+        {
+            "name": "motion_photos_pause",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "image"
             ]
         },
         {
@@ -14873,7 +14941,7 @@
         },
         {
             "name": "next_plan",
-            "version": 5,
+            "version": 6,
             "unsupported_families": [
                 "sharp",
                 "round"
@@ -14950,6 +15018,13 @@
             ]
         },
         {
+            "name": "no_backpack",
+            "version": 1,
+            "categories": [
+                "places"
+            ]
+        },
+        {
             "name": "no_cell",
             "version": 3,
             "categories": [
@@ -14995,6 +15070,13 @@
             "version": 3,
             "categories": [
                 "places"
+            ]
+        },
+        {
+            "name": "no_luggage",
+            "version": 2,
+            "categories": [
+                "social"
             ]
         },
         {
@@ -15252,7 +15334,7 @@
         },
         {
             "name": "notifications",
-            "version": 5,
+            "version": 8,
             "categories": [
                 "social"
             ],
@@ -15474,7 +15556,7 @@
         },
         {
             "name": "open_in_new",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "outline",
                 "twotone"
@@ -15508,6 +15590,16 @@
                 "expand",
                 "move",
                 "open"
+            ]
+        },
+        {
+            "name": "outbond",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -15871,7 +15963,7 @@
         },
         {
             "name": "pending",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "round"
@@ -15892,7 +15984,7 @@
         },
         {
             "name": "people",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "social"
             ],
@@ -16112,7 +16204,7 @@
         },
         {
             "name": "person",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp"
             ],
@@ -16131,7 +16223,7 @@
         },
         {
             "name": "person_add",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp"
             ],
@@ -17551,7 +17643,7 @@
         },
         {
             "name": "print",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -17706,6 +17798,17 @@
                 "publish",
                 "up",
                 "upload"
+            ]
+        },
+        {
+            "name": "published_with_changes",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "twotone"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -18090,7 +18193,7 @@
         },
         {
             "name": "refresh",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -18111,7 +18214,7 @@
         },
         {
             "name": "remove",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -18233,7 +18336,7 @@
         },
         {
             "name": "reorder",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -18381,7 +18484,7 @@
         },
         {
             "name": "reply",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -18403,7 +18506,7 @@
         },
         {
             "name": "reply_all",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -18427,7 +18530,7 @@
         },
         {
             "name": "report",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "content"
             ],
@@ -18500,6 +18603,13 @@
                 "symbol",
                 "triangle",
                 "warning"
+            ]
+        },
+        {
+            "name": "request_page",
+            "version": 2,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -19227,7 +19337,7 @@
         },
         {
             "name": "search",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -19342,7 +19452,7 @@
         },
         {
             "name": "send",
-            "version": 7,
+            "version": 8,
             "categories": [
                 "content"
             ],
@@ -19522,7 +19632,7 @@
         },
         {
             "name": "settings",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -20555,7 +20665,7 @@
         },
         {
             "name": "smartphone",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "outline",
                 "round"
@@ -20825,7 +20935,7 @@
         },
         {
             "name": "speaker",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "round"
             ],
@@ -21402,6 +21512,18 @@
             ]
         },
         {
+            "name": "stacked_line_chart",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "stairs",
             "version": 3,
             "categories": [
@@ -21410,7 +21532,7 @@
         },
         {
             "name": "star",
-            "version": 7,
+            "version": 8,
             "categories": [
                 "toggle"
             ],
@@ -21429,7 +21551,7 @@
         },
         {
             "name": "star_border",
-            "version": 7,
+            "version": 8,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -21455,7 +21577,7 @@
         },
         {
             "name": "star_half",
-            "version": 8,
+            "version": 9,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -22596,7 +22718,7 @@
         },
         {
             "name": "tag_faces",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "outline"
             ],
@@ -22912,7 +23034,7 @@
         },
         {
             "name": "thumb_down",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -22955,7 +23077,7 @@
         },
         {
             "name": "thumb_up",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -23199,7 +23321,7 @@
         },
         {
             "name": "today",
-            "version": 6,
+            "version": 7,
             "categories": [
                 "action"
             ],
@@ -23688,7 +23810,7 @@
         },
         {
             "name": "tv",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "outline"
             ],
@@ -23853,6 +23975,16 @@
                 "list",
                 "more",
                 "unfold"
+            ]
+        },
+        {
+            "name": "unpublished",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -24040,7 +24172,7 @@
         },
         {
             "name": "vertical_split",
-            "version": 5,
+            "version": 6,
             "unsupported_families": [
                 "sharp"
             ],
@@ -24774,7 +24906,7 @@
         },
         {
             "name": "watch_later",
-            "version": 7,
+            "version": 8,
             "unsupported_families": [
                 "sharp"
             ],
