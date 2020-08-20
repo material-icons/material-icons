@@ -1187,6 +1187,78 @@
             ]
         },
         {
+            "name": "align_horizontal_center",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
+            "name": "align_horizontal_left",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
+            "name": "align_horizontal_right",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
+            "name": "align_vertical_bottom",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
+            "name": "align_vertical_center",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
+            "name": "align_vertical_top",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "all_inbox",
             "version": 5,
             "categories": [
@@ -11051,6 +11123,18 @@
             ]
         },
         {
+            "name": "horizontal_distribute",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "horizontal_rule",
             "version": 8,
             "unsupported_families": [
@@ -17830,6 +17914,18 @@
             ]
         },
         {
+            "name": "qr_code_2",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "communication"
+            ]
+        },
+        {
             "name": "qr_code_scanner",
             "version": 2,
             "unsupported_families": [
@@ -24023,6 +24119,17 @@
             ]
         },
         {
+            "name": "update_disabled",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "upgrade",
             "version": 7,
             "unsupported_families": [
@@ -24168,6 +24275,18 @@
                 "type",
                 "up",
                 "writing"
+            ]
+        },
+        {
+            "name": "vertical_distribute",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
             ]
         },
         {
