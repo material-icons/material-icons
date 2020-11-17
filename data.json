@@ -28,6 +28,7 @@
                 "action"
             ],
             "tags": [
+                "3",
                 "3d",
                 "D",
                 "alphabet",
@@ -77,6 +78,26 @@
             "version": 7,
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "5g",
+                "alphabet",
+                "cellular",
+                "character",
+                "data",
+                "digit",
+                "font",
+                "letter",
+                "mobile",
+                "network",
+                "number",
+                "phone",
+                "signal",
+                "speed",
+                "symbol",
+                "text",
+                "type",
+                "wifi"
             ]
         },
         {
@@ -87,6 +108,18 @@
                 "twotone"
             ],
             "categories": [
+                "social"
+            ],
+            "tags": [
+                "6",
+                "apart",
+                "body",
+                "distance",
+                "feet",
+                "ft",
+                "human",
+                "people",
+                "person",
                 "social"
             ]
         },
@@ -196,7 +229,8 @@
                 "handicap",
                 "help",
                 "human",
-                "person"
+                "person",
+                "wheelchair"
             ]
         },
         {
@@ -212,7 +246,8 @@
                 "handicap",
                 "help",
                 "human",
-                "person"
+                "person",
+                "wheelchair"
             ]
         },
         {
@@ -420,14 +455,18 @@
                 "alert"
             ],
             "tags": [
+                "active",
                 "add",
                 "alarm",
                 "alert",
                 "bell",
+                "chime",
+                "increase",
                 "notifications",
                 "notify",
                 "plus",
                 "reminder",
+                "ringing",
                 "sound"
             ]
         },
@@ -531,15 +570,6 @@
             "version": 6,
             "categories": [
                 "communication"
-            ],
-            "tags": [
-                "add",
-                "call",
-                "contact",
-                "device",
-                "mobile",
-                "phone",
-                "plus"
             ]
         },
         {
@@ -656,6 +686,22 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "+",
+                "add",
+                "approve",
+                "check",
+                "circle",
+                "completed",
+                "increase",
+                "mark",
+                "ok",
+                "plus",
+                "select",
+                "task",
+                "tick",
+                "yes"
             ]
         },
         {
@@ -1163,6 +1209,7 @@
                 "notification",
                 "ready",
                 "start",
+                "tick",
                 "time"
             ]
         },
@@ -1196,6 +1243,20 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "align",
+                "alignment",
+                "center",
+                "format",
+                "horizontal",
+                "layout",
+                "lines",
+                "paragraph",
+                "rule",
+                "rules",
+                "style",
+                "text"
             ]
         },
         {
@@ -1208,6 +1269,20 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "align",
+                "alignment",
+                "format",
+                "horizontal",
+                "layout",
+                "left",
+                "lines",
+                "paragraph",
+                "rule",
+                "rules",
+                "style",
+                "text"
             ]
         },
         {
@@ -1220,6 +1295,20 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "align",
+                "alignment",
+                "format",
+                "horizontal",
+                "layout",
+                "lines",
+                "paragraph",
+                "right",
+                "rule",
+                "rules",
+                "style",
+                "text"
             ]
         },
         {
@@ -1232,6 +1321,20 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "align",
+                "alignment",
+                "bottom",
+                "format",
+                "layout",
+                "lines",
+                "paragraph",
+                "rule",
+                "rules",
+                "style",
+                "text",
+                "vertical"
             ]
         },
         {
@@ -1244,6 +1347,20 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "align",
+                "alignment",
+                "center",
+                "format",
+                "layout",
+                "lines",
+                "paragraph",
+                "rule",
+                "rules",
+                "style",
+                "text",
+                "vertical"
             ]
         },
         {
@@ -1256,6 +1373,20 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "align",
+                "alignment",
+                "format",
+                "layout",
+                "lines",
+                "paragraph",
+                "rule",
+                "rules",
+                "style",
+                "text",
+                "top",
+                "vertical"
             ]
         },
         {
@@ -1318,6 +1449,19 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "alternate",
+                "arrows",
+                "direction",
+                "maps",
+                "navigation",
+                "options",
+                "other",
+                "route",
+                "routes",
+                "split",
+                "symbol"
             ]
         },
         {
@@ -1387,6 +1531,11 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "anchor",
+                "google",
+                "logo"
             ]
         },
         {
@@ -1469,6 +1618,13 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "api",
+                "developer",
+                "development",
+                "enterprise",
+                "software"
             ]
         },
         {
@@ -1624,6 +1780,11 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrow",
+                "circle",
+                "down"
             ]
         },
         {
@@ -1635,6 +1796,11 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrow",
+                "circle",
+                "up"
             ]
         },
         {
@@ -1959,7 +2125,8 @@
                 "clipboard",
                 "complete",
                 "done",
-                "finished"
+                "finished",
+                "tick"
             ]
         },
         {
@@ -2142,6 +2309,7 @@
                 "delete",
                 "garbage",
                 "removal bin",
+                "schedule",
                 "time",
                 "trash"
             ]
@@ -2196,6 +2364,9 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "baby_changing_station"
             ]
         },
         {
@@ -2203,6 +2374,17 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "back",
+                "backpack",
+                "bag",
+                "book",
+                "bookbag",
+                "knapsack",
+                "pack",
+                "storage",
+                "travel"
             ]
         },
         {
@@ -2236,6 +2418,7 @@
                 "backup",
                 "cloud",
                 "point",
+                "storage",
                 "up",
                 "upload"
             ]
@@ -2311,6 +2494,13 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "batch",
+                "bulb",
+                "idea",
+                "light",
+                "prediction"
             ]
         },
         {
@@ -2600,6 +2790,8 @@
                 "local",
                 "location",
                 "mark",
+                "ok",
+                "tick",
                 "verified"
             ]
         },
@@ -2611,6 +2803,13 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "bento",
+                "box",
+                "food",
+                "meal",
+                "takeout"
             ]
         },
         {
@@ -2867,8 +3066,11 @@
             "tags": [
                 "book",
                 "bookmark",
+                "favorite",
                 "read",
-                "reading"
+                "reading",
+                "remember",
+                "save"
             ]
         },
         {
@@ -2876,6 +3078,25 @@
             "version": 5,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "Android",
+                "OS",
+                "admission",
+                "appointment",
+                "book",
+                "cell",
+                "device",
+                "event",
+                "hardware",
+                "iOS",
+                "mobile",
+                "online",
+                "pass",
+                "phone",
+                "reservation",
+                "tablet",
+                "ticket"
             ]
         },
         {
@@ -2917,6 +3138,7 @@
             "tags": [
                 "bookmark",
                 "bookmarks",
+                "favorite",
                 "remember",
                 "save",
                 "stack"
@@ -3224,7 +3446,7 @@
             ],
             "tags": [
                 "brightness",
-                "cirlce",
+                "circle",
                 "control",
                 "level",
                 "moon",
@@ -3242,7 +3464,7 @@
             ],
             "tags": [
                 "brightness",
-                "cirlce",
+                "circle",
                 "control",
                 "level",
                 "moon",
@@ -3257,7 +3479,7 @@
             ],
             "tags": [
                 "brightness",
-                "cirlce",
+                "circle",
                 "control",
                 "level",
                 "moon",
@@ -3275,7 +3497,7 @@
             ],
             "tags": [
                 "brightness",
-                "cirlce",
+                "circle",
                 "control",
                 "level",
                 "screen",
@@ -3293,7 +3515,7 @@
             ],
             "tags": [
                 "brightness",
-                "cirlce",
+                "circle",
                 "control",
                 "level",
                 "screen",
@@ -3311,7 +3533,7 @@
             ],
             "tags": [
                 "brightness",
-                "cirlce",
+                "circle",
                 "control",
                 "level",
                 "screen",
@@ -3329,7 +3551,7 @@
             ],
             "tags": [
                 "brightness",
-                "cirlce",
+                "circle",
                 "control",
                 "level",
                 "screen",
@@ -3441,6 +3663,23 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "browser",
+                "disabled",
+                "enabled",
+                "internet",
+                "not",
+                "off",
+                "on",
+                "page",
+                "screen",
+                "site",
+                "slash",
+                "supported",
+                "web",
+                "website",
+                "www"
             ]
         },
         {
@@ -3501,6 +3740,7 @@
                 "bug",
                 "file",
                 "insect",
+                "issue",
                 "report"
             ]
         },
@@ -3511,7 +3751,9 @@
                 "action"
             ],
             "tags": [
+                "adjust",
                 "build",
+                "fix",
                 "tool",
                 "wrench"
             ]
@@ -3521,6 +3763,14 @@
             "version": 9,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "adjust",
+                "build",
+                "circle",
+                "fix",
+                "tool",
+                "wrench"
             ]
         },
         {
@@ -3590,10 +3840,13 @@
                 "action"
             ],
             "tags": [
-                "arrow",
+                "arrows",
                 "cache",
                 "cached",
                 "inprogress",
+                "load",
+                "loading",
+                "refresh",
                 "renew",
                 "rotate"
             ]
@@ -3651,6 +3904,7 @@
                 "month",
                 "remember",
                 "reminder",
+                "schedule",
                 "today",
                 "week"
             ]
@@ -3669,6 +3923,7 @@
                 "month",
                 "remember",
                 "reminder",
+                "schedule",
                 "today",
                 "week"
             ]
@@ -3855,8 +4110,10 @@
             "tags": [
                 "camera",
                 "enhance",
+                "image",
                 "lens",
                 "photo",
+                "photography",
                 "picture",
                 "quality"
             ]
@@ -4075,6 +4332,15 @@
             "version": 1,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "building",
+                "carpenter",
+                "construction",
+                "cutting",
+                "repair",
+                "saw",
+                "tool"
             ]
         },
         {
@@ -4265,6 +4531,24 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "Android",
+                "OS",
+                "battery",
+                "bolt",
+                "cell",
+                "charging",
+                "device",
+                "electric",
+                "hardware",
+                "iOS",
+                "lightning",
+                "mobile",
+                "phone",
+                "station",
+                "tablet",
+                "thunderbolt"
             ]
         },
         {
@@ -4333,7 +4617,10 @@
                 "done",
                 "enter",
                 "mark",
+                "ok",
+                "okay",
                 "select",
+                "tick",
                 "yes"
             ]
         },
@@ -4352,9 +4639,11 @@
                 "control",
                 "form",
                 "mark",
+                "ok",
                 "select",
                 "selected",
                 "selection",
+                "tick",
                 "toggle",
                 "ui",
                 "yes"
@@ -4384,6 +4673,7 @@
                 "select",
                 "selection",
                 "square",
+                "tick",
                 "toggle",
                 "ui"
             ]
@@ -4402,7 +4692,9 @@
                 "circle",
                 "complete",
                 "done",
-                "finished"
+                "finished",
+                "ok",
+                "tick"
             ]
         },
         {
@@ -4417,7 +4709,9 @@
                 "complete",
                 "done",
                 "finished",
-                "outline"
+                "ok",
+                "outline",
+                "tick"
             ]
         },
         {
@@ -4429,6 +4723,13 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "checkroom",
+                "closet",
+                "clothes",
+                "coat check",
+                "hanger"
             ]
         },
         {
@@ -4544,6 +4845,17 @@
             "version": 2,
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "bacteria",
+                "clean",
+                "disinfect",
+                "germs",
+                "gesture",
+                "hand",
+                "hands",
+                "sanitize",
+                "sanitizer"
             ]
         },
         {
@@ -4551,6 +4863,13 @@
             "version": 7,
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "clean",
+                "cleaning",
+                "dust",
+                "services",
+                "sweep"
             ]
         },
         {
@@ -4613,6 +4932,18 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "action",
+                "arrow",
+                "arrows",
+                "close",
+                "collapse",
+                "direction",
+                "full",
+                "fullscreen",
+                "minimize",
+                "screen"
             ]
         },
         {
@@ -4644,6 +4975,28 @@
             "version": 3,
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "accessible",
+                "alphabet",
+                "caption",
+                "cc",
+                "character",
+                "closed",
+                "decoder",
+                "disabled",
+                "enabled",
+                "font",
+                "language",
+                "letter",
+                "off",
+                "on",
+                "slash",
+                "subtitle",
+                "subtitles",
+                "symbol",
+                "text",
+                "type"
             ]
         },
         {
@@ -4694,7 +5047,9 @@
                 "done",
                 "internet",
                 "network",
+                "ok",
                 "sky",
+                "tick",
                 "upload",
                 "uploaded"
             ]
@@ -4911,10 +5266,13 @@
                 "bank",
                 "bookmark",
                 "bubble",
+                "chat",
                 "comment",
+                "communicate",
                 "doc",
                 "document",
-                "note"
+                "note",
+                "saved"
             ]
         },
         {
@@ -4934,8 +5292,7 @@
                 "train",
                 "transportation",
                 "trip",
-                "vehicle",
-                "work"
+                "vehicle"
             ]
         },
         {
@@ -4977,7 +5334,6 @@
                 "action"
             ],
             "tags": [
-                "arrow",
                 "arrows",
                 "compare",
                 "facing",
@@ -5044,6 +5400,17 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "communicating",
+                "connect",
+                "contact",
+                "distance",
+                "people",
+                "signal",
+                "social",
+                "socialize",
+                "without"
             ]
         },
         {
@@ -5097,6 +5464,29 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "account",
+                "avatar",
+                "contact",
+                "data",
+                "doc",
+                "document",
+                "drive",
+                "face",
+                "file",
+                "folder",
+                "folders",
+                "human",
+                "page",
+                "people",
+                "person",
+                "profile",
+                "sheet",
+                "slide",
+                "storage",
+                "user",
+                "writing"
             ]
         },
         {
@@ -5133,10 +5523,14 @@
                 "alert",
                 "announcement",
                 "bubble",
+                "chat",
+                "communicate",
+                "contact",
                 "help",
                 "info",
                 "information",
-                "question mark",
+                "mark",
+                "question",
                 "speech",
                 "support"
             ]
@@ -5319,6 +5713,16 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "19",
+                "bacteria",
+                "coronavirus",
+                "covid",
+                "disease",
+                "germs",
+                "illness",
+                "sick"
             ]
         },
         {
@@ -5330,6 +5734,20 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "architecture",
+                "building",
+                "business",
+                "corporate",
+                "estate",
+                "fare",
+                "organization",
+                "place",
+                "real",
+                "residence",
+                "residential",
+                "shelter"
             ]
         },
         {
@@ -5340,6 +5758,15 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "counter",
+                "countertops",
+                "home",
+                "kitchen",
+                "sink",
+                "table",
+                "tops"
             ]
         },
         {
@@ -5792,8 +6219,11 @@
                 "day",
                 "event",
                 "month",
+                "range",
                 "remember",
                 "reminder",
+                "schedule",
+                "time",
                 "today",
                 "week"
             ]
@@ -5866,6 +6296,7 @@
                 "bin",
                 "can",
                 "delete",
+                "forever",
                 "garbage",
                 "remove",
                 "trash",
@@ -6191,7 +6622,7 @@
                 "vr",
                 "watch",
                 "wearables",
-                "winodw"
+                "window"
             ]
         },
         {
@@ -6340,6 +6771,20 @@
             "version": 7,
             "categories": [
                 "notification"
+            ],
+            "tags": [
+                "arrow",
+                "direction",
+                "disabled",
+                "enabled",
+                "maps",
+                "off",
+                "on",
+                "right",
+                "route",
+                "sign",
+                "slash",
+                "traffic"
             ]
         },
         {
@@ -6458,6 +6903,16 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "box",
+                "close",
+                "default",
+                "disabled",
+                "exit",
+                "off",
+                "square",
+                "x"
             ]
         },
         {
@@ -6515,7 +6970,8 @@
                 "list",
                 "lookup",
                 "name",
-                "server"
+                "server",
+                "system"
             ]
         },
         {
@@ -6555,6 +7011,21 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "boot",
+                "disabled",
+                "do",
+                "enabled",
+                "feet",
+                "foot",
+                "not",
+                "off",
+                "on",
+                "shoe",
+                "slash",
+                "sneaker",
+                "step"
             ]
         },
         {
@@ -6562,6 +7033,19 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "disabled",
+                "do",
+                "enabled",
+                "fingers",
+                "gesture",
+                "hand",
+                "not",
+                "off",
+                "on",
+                "slash",
+                "touch"
             ]
         },
         {
@@ -6604,7 +7088,7 @@
                 "apartment",
                 "architecture",
                 "building",
-                "buisiness",
+                "business",
                 "domain",
                 "estate",
                 "home",
@@ -6671,7 +7155,9 @@
                 "complete",
                 "done",
                 "finished",
-                "mark"
+                "mark",
+                "ok",
+                "tick"
             ]
         },
         {
@@ -6691,7 +7177,9 @@
                 "done",
                 "finished",
                 "mark",
-                "multiple"
+                "multiple",
+                "ok",
+                "tick"
             ]
         },
         {
@@ -6706,7 +7194,9 @@
                 "done",
                 "finished",
                 "mark",
-                "outline"
+                "ok",
+                "outline",
+                "tick"
             ]
         },
         {
@@ -6719,7 +7209,8 @@
                 "complete",
                 "donut",
                 "graph",
-                "inprogress"
+                "inprogress",
+                "large"
             ]
         },
         {
@@ -6732,7 +7223,8 @@
                 "complete",
                 "donut",
                 "graph",
-                "inprogress"
+                "inprogress",
+                "small"
             ]
         },
         {
@@ -6803,7 +7295,7 @@
                 "action"
             ],
             "tags": [
-                "circle",
+                "circles",
                 "dots",
                 "drag",
                 "drop",
@@ -6841,6 +7333,14 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "air",
+                "dry",
+                "dryer",
+                "fingers",
+                "gesture",
+                "hand"
             ]
         },
         {
@@ -6903,6 +7403,13 @@
             "version": 2,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "code",
+                "dynamic",
+                "form",
+                "lists",
+                "questionnaire"
             ]
         },
         {
@@ -6915,6 +7422,12 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "arrow",
+                "directional",
+                "east",
+                "right"
             ]
         },
         {
@@ -6965,7 +7478,9 @@
             "tags": [
                 "attribution",
                 "check",
-                "edit"
+                "edit",
+                "ok",
+                "tick"
             ]
         },
         {
@@ -7029,6 +7544,16 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "body",
+                "cane",
+                "elderly",
+                "human",
+                "old",
+                "people",
+                "person",
+                "senior"
             ]
         },
         {
@@ -7118,6 +7643,16 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "charge",
+                "cord",
+                "electric",
+                "electrical",
+                "plug",
+                "power",
+                "services",
+                "wire"
             ]
         },
         {
@@ -7125,6 +7660,15 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "body",
+                "down",
+                "elevator",
+                "human",
+                "people",
+                "person",
+                "up"
             ]
         },
         {
@@ -7490,6 +8034,12 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "down",
+                "escalator",
+                "staircase",
+                "up"
             ]
         },
         {
@@ -7501,6 +8051,17 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "body",
+                "child",
+                "escalator",
+                "human",
+                "kid",
+                "parent",
+                "people",
+                "person",
+                "warning"
             ]
         },
         {
@@ -7604,7 +8165,9 @@
                 "date",
                 "event",
                 "mark",
+                "ok",
                 "schedule",
+                "tick",
                 "time"
             ]
         },
@@ -7670,10 +8233,13 @@
                 "action"
             ],
             "tags": [
+                "app",
                 "arrow",
                 "back",
                 "exit",
+                "export",
                 "leave",
+                "move",
                 "pointing",
                 "right"
             ]
@@ -7965,6 +8531,7 @@
                 "face",
                 "human",
                 "lock",
+                "log",
                 "login",
                 "logout",
                 "people",
@@ -7988,6 +8555,14 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "application",
+                "apps",
+                "f",
+                "facebook",
+                "logo",
+                "post"
             ]
         },
         {
@@ -7995,6 +8570,20 @@
             "version": 8,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "approve",
+                "check",
+                "complete",
+                "done",
+                "fact",
+                "list",
+                "mark",
+                "ok",
+                "select",
+                "tick",
+                "verified",
+                "yes"
             ]
         },
         {
@@ -8006,6 +8595,15 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "bathroom",
+                "child",
+                "children",
+                "family",
+                "kids",
+                "parents",
+                "restroom"
             ]
         },
         {
@@ -8168,6 +8766,14 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "barrier",
+                "boundaries",
+                "boundary",
+                "fence",
+                "home",
+                "protection"
             ]
         },
         {
@@ -8814,8 +9420,9 @@
                 "doc",
                 "document",
                 "find",
+                "glass",
                 "look",
-                "magnifying glass",
+                "magnifying",
                 "page",
                 "paper",
                 "search",
@@ -8834,12 +9441,14 @@
                 "action"
             ],
             "tags": [
-                "arrow",
                 "arrows",
                 "find",
                 "inprogress",
+                "load",
+                "loading",
                 "look",
                 "magnifying glass",
+                "progress",
                 "refresh",
                 "replace",
                 "rotate",
@@ -8873,6 +9482,10 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "extinguisher",
+                "fire"
             ]
         },
         {
@@ -8958,6 +9571,25 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "approve",
+                "check",
+                "close",
+                "complete",
+                "contrast",
+                "done",
+                "exit",
+                "flaky",
+                "mark",
+                "no",
+                "ok",
+                "select",
+                "stop",
+                "tick",
+                "verified",
+                "x",
+                "yes"
             ]
         },
         {
@@ -9099,9 +9731,9 @@
                 "departing",
                 "flight",
                 "fly",
-                "land",
                 "landing",
                 "plane",
+                "takeoff",
                 "transportation",
                 "travel"
             ]
@@ -9309,6 +9941,17 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "arrow",
+                "body",
+                "directional",
+                "follow",
+                "human",
+                "people",
+                "person",
+                "right",
+                "signs"
             ]
         },
         {
@@ -9339,6 +9982,25 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "architecture",
+                "bank",
+                "building",
+                "charity",
+                "eat",
+                "estate",
+                "food",
+                "fork",
+                "house",
+                "knife",
+                "meal",
+                "place",
+                "real",
+                "residence",
+                "residential",
+                "shelter",
+                "utensils"
             ]
         },
         {
@@ -10035,6 +10697,18 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "arrow",
+                "email",
+                "envelop",
+                "forward",
+                "inbox",
+                "letter",
+                "mail",
+                "message",
+                "note",
+                "send"
             ]
         },
         {
@@ -10046,6 +10720,19 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "architecture",
+                "base",
+                "basis",
+                "building",
+                "construction",
+                "estate",
+                "foundation",
+                "home",
+                "place",
+                "real",
+                "residential"
             ]
         },
         {
@@ -10137,6 +10824,7 @@
             ],
             "tags": [
                 "emblem",
+                "g",
                 "google",
                 "language",
                 "logo",
@@ -10247,6 +10935,7 @@
                 "download",
                 "downloads",
                 "drive",
+                "export",
                 "install",
                 "play",
                 "upload"
@@ -10265,8 +10954,10 @@
                 "bitmap",
                 "character",
                 "font",
+                "format",
                 "gif",
-                "graphics interchange format",
+                "graphics",
+                "interchange",
                 "letter",
                 "symbol",
                 "text",
@@ -10417,13 +11108,17 @@
                 "action"
             ],
             "tags": [
-                "approved",
+                "approve",
+                "check",
                 "document",
                 "feedback",
                 "grade",
                 "grading",
                 "review",
-                "reviewed"
+                "reviewed",
+                "select",
+                "tick",
+                "yes"
             ]
         },
         {
@@ -10481,6 +11176,15 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "fodder",
+                "grass",
+                "ground",
+                "home",
+                "lawn",
+                "plant",
+                "turf"
             ]
         },
         {
@@ -10613,6 +11317,7 @@
                 "collaboration",
                 "group",
                 "partnership",
+                "team",
                 "teamwork",
                 "together",
                 "work"
@@ -10626,6 +11331,16 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "body",
+                "collaboration",
+                "gathering",
+                "groups",
+                "human",
+                "people",
+                "person",
+                "teams"
             ]
         },
         {
@@ -10633,6 +11348,15 @@
             "version": 7,
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "build",
+                "construction",
+                "hammer",
+                "handyman",
+                "screw",
+                "screwdriver",
+                "tools"
             ]
         },
         {
@@ -10849,6 +11573,24 @@
             ],
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "accessibility",
+                "accessible",
+                "aid",
+                "disabled",
+                "ear",
+                "enabled",
+                "handicap",
+                "hearing",
+                "hearing disabled",
+                "help",
+                "impaired",
+                "listen",
+                "off",
+                "on",
+                "slash",
+                "sound"
             ]
         },
         {
@@ -10893,10 +11635,12 @@
                 "?",
                 "alert",
                 "announcement",
+                "assistance",
                 "help",
                 "info",
                 "information",
-                "question mark",
+                "mark",
+                "question",
                 "support",
                 "symbol"
             ]
@@ -10906,6 +11650,16 @@
             "version": 3,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "?",
+                "center",
+                "help",
+                "info",
+                "information",
+                "question mark",
+                "support",
+                "symbol"
             ]
         },
         {
@@ -11074,6 +11828,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "clock",
+                "history",
+                "off",
+                "schedule",
+                "time",
+                "toggle"
             ]
         },
         {
@@ -11084,11 +11846,16 @@
             ],
             "tags": [
                 "address",
+                "architecture",
                 "building",
+                "estate",
                 "home",
                 "house",
                 "place",
+                "real",
                 "residence",
+                "residential",
+                "shelter",
                 "structure",
                 "unit"
             ]
@@ -11098,6 +11865,20 @@
             "version": 7,
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "box",
+                "equipment",
+                "home",
+                "kit",
+                "mechanic",
+                "repair",
+                "repairing",
+                "service",
+                "tool",
+                "toolbox",
+                "tools",
+                "workshop"
             ]
         },
         {
@@ -11132,6 +11913,19 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "alignment",
+                "distribute",
+                "format",
+                "horizontal",
+                "layout",
+                "lines",
+                "paragraph",
+                "rule",
+                "rules",
+                "style",
+                "text"
             ]
         },
         {
@@ -11144,6 +11938,13 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "gmail",
+                "horizontal",
+                "line",
+                "novitas",
+                "rule"
             ]
         },
         {
@@ -11158,6 +11959,7 @@
             "tags": [
                 "bars",
                 "horizontal",
+                "lines",
                 "split",
                 "stacked"
             ]
@@ -11236,6 +12038,22 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "countdown",
+                "disabled",
+                "empty",
+                "enabled",
+                "hourglass",
+                "loading",
+                "minute",
+                "minutes",
+                "off",
+                "on",
+                "slash",
+                "time",
+                "wait",
+                "waiting"
             ]
         },
         {
@@ -11318,7 +12136,7 @@
                 "architecture",
                 "building",
                 "estate",
-                "fmaily",
+                "family",
                 "home",
                 "homepage",
                 "house",
@@ -11338,6 +12156,20 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "architecture",
+                "building",
+                "construction",
+                "estate",
+                "exterior",
+                "facade",
+                "home",
+                "house",
+                "place",
+                "real",
+                "residential",
+                "siding"
             ]
         },
         {
@@ -11353,12 +12185,14 @@
                 "election",
                 "face",
                 "human",
+                "ok",
                 "people",
                 "person",
                 "poll",
                 "profile",
                 "register",
                 "registration",
+                "tick",
                 "user",
                 "vote"
             ]
@@ -11423,6 +12257,13 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "air",
+                "conditioning",
+                "heating",
+                "hvac",
+                "ventilation"
             ]
         },
         {
@@ -11466,6 +12307,22 @@
             "version": 8,
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "disabled",
+                "enabled",
+                "image",
+                "landscape",
+                "mountain",
+                "mountains",
+                "not",
+                "off",
+                "on",
+                "photo",
+                "photography",
+                "picture",
+                "slash",
+                "supported"
             ]
         },
         {
@@ -11538,7 +12395,7 @@
                 "Android",
                 "OS",
                 "desktop",
-                "device",
+                "devices",
                 "hardware",
                 "iOS",
                 "important",
@@ -11618,7 +12475,9 @@
             "tags": [
                 "arrow",
                 "box",
+                "download",
                 "input",
+                "move",
                 "right"
             ]
         },
@@ -11790,6 +12649,22 @@
             ],
             "categories": [
                 "content"
+            ],
+            "tags": [
+                "analytics",
+                "bar",
+                "bars",
+                "chart",
+                "data",
+                "diagram",
+                "graph",
+                "infographic",
+                "insights",
+                "measure",
+                "metrics",
+                "stars",
+                "statistics",
+                "tracking"
             ]
         },
         {
@@ -11819,7 +12694,7 @@
                 "action"
             ],
             "tags": [
-                "color",
+                "colors",
                 "drop",
                 "droplet",
                 "hue",
@@ -12378,6 +13253,21 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "analytics",
+                "bar",
+                "bars",
+                "chart",
+                "data",
+                "diagram",
+                "graph",
+                "infographic",
+                "leaderboard",
+                "measure",
+                "metrics",
+                "statistics",
+                "tracking"
             ]
         },
         {
@@ -12435,6 +13325,23 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "analytics",
+                "chart",
+                "data",
+                "diagram",
+                "graph",
+                "infographic",
+                "legend",
+                "lines",
+                "measure",
+                "metrics",
+                "monitoring",
+                "stackdriver",
+                "statistics",
+                "toggle",
+                "tracking"
             ]
         },
         {
@@ -12450,7 +13357,7 @@
             "tags": [
                 "circle",
                 "full",
-                "geomertry",
+                "geometry",
                 "moon"
             ]
         },
@@ -12500,14 +13407,18 @@
                 "av"
             ],
             "tags": [
-                "Library",
                 "add",
+                "approve",
                 "check",
-                "checkmark",
-                "collection",
-                "music",
-                "plus",
-                "video"
+                "complete",
+                "done",
+                "library",
+                "mark",
+                "ok",
+                "select",
+                "tick",
+                "verified",
+                "yes"
             ]
         },
         {
@@ -12580,6 +13491,7 @@
             "tags": [
                 "height",
                 "line",
+                "size",
                 "spacing",
                 "style",
                 "thickness",
@@ -12678,7 +13590,8 @@
                 "format",
                 "index",
                 "list",
-                "menu"
+                "menu",
+                "options"
             ]
         },
         {
@@ -13490,6 +14403,7 @@
                 "enter",
                 "input",
                 "left",
+                "log",
                 "login",
                 "sign in"
             ]
@@ -13680,6 +14594,15 @@
             "version": 2,
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "bag",
+                "baggage",
+                "carry",
+                "luggage",
+                "on",
+                "suitcase",
+                "travel"
             ]
         },
         {
@@ -13751,6 +14674,26 @@
             "version": 3,
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "approve",
+                "bubble",
+                "chat",
+                "check",
+                "comment",
+                "communicate",
+                "complete",
+                "done",
+                "mark",
+                "message",
+                "ok",
+                "read",
+                "select",
+                "sent",
+                "speech",
+                "tick",
+                "verified",
+                "yes"
             ]
         },
         {
@@ -13761,6 +14704,18 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "bubble",
+                "chat",
+                "circle",
+                "comment",
+                "communicate",
+                "mark",
+                "message",
+                "notification",
+                "speech",
+                "unread"
             ]
         },
         {
@@ -13768,6 +14723,26 @@
             "version": 3,
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "approve",
+                "check",
+                "complete",
+                "done",
+                "email",
+                "envelop",
+                "letter",
+                "mail",
+                "mark",
+                "message",
+                "note",
+                "ok",
+                "read",
+                "select",
+                "send",
+                "sent",
+                "tick",
+                "yes"
             ]
         },
         {
@@ -13775,6 +14750,20 @@
             "version": 3,
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "check",
+                "circle",
+                "email",
+                "envelop",
+                "letter",
+                "mail",
+                "mark",
+                "message",
+                "note",
+                "notification",
+                "send",
+                "unread"
             ]
         },
         {
@@ -13806,6 +14795,7 @@
                 "letter",
                 "mail",
                 "mailbox",
+                "mark",
                 "post",
                 "postal",
                 "postbox",
@@ -13822,6 +14812,18 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "air",
+                "cover",
+                "face",
+                "hospital",
+                "masks",
+                "medical",
+                "pollution",
+                "protection",
+                "respirator",
+                "sick"
             ]
         },
         {
@@ -13856,6 +14858,14 @@
             "version": 7,
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "aid",
+                "emergency",
+                "first",
+                "kit",
+                "medical",
+                "services"
             ]
         },
         {
@@ -14052,6 +15062,17 @@
             "version": 1,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "appliance",
+                "cooking",
+                "electric",
+                "heat",
+                "home",
+                "house",
+                "kitchen",
+                "machine",
+                "microwave"
             ]
         },
         {
@@ -14167,7 +15188,9 @@
                 "check",
                 "device",
                 "friendly",
-                "mobile"
+                "mobile",
+                "ok",
+                "tick"
             ]
         },
         {
@@ -14230,6 +15253,22 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrow",
+                "bulb",
+                "idea",
+                "inprogress",
+                "light",
+                "load",
+                "loading",
+                "model",
+                "refresh",
+                "renew",
+                "restore",
+                "reverse",
+                "rotate",
+                "training"
             ]
         },
         {
@@ -14696,6 +15735,17 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrows",
+                "directions",
+                "dots",
+                "left",
+                "maps",
+                "multiple",
+                "right",
+                "stop",
+                "symbol"
             ]
         },
         {
@@ -14927,6 +15977,23 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "destination",
+                "direction",
+                "disabled",
+                "enabled",
+                "location",
+                "maps",
+                "me",
+                "navigation",
+                "near",
+                "off",
+                "on",
+                "pin",
+                "place",
+                "point",
+                "slash"
             ]
         },
         {
@@ -14955,6 +16022,7 @@
                 "network",
                 "signal",
                 "speed",
+                "tick",
                 "wifi",
                 "wireless"
             ]
@@ -15032,6 +16100,15 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrow",
+                "calendar",
+                "circle",
+                "next",
+                "plan",
+                "right",
+                "schedule"
             ]
         },
         {
@@ -15074,6 +16151,19 @@
             "version": 1,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "architecture",
+                "bed",
+                "building",
+                "estate",
+                "homeless",
+                "house",
+                "night",
+                "place",
+                "real",
+                "shelter",
+                "sleep"
             ]
         },
         {
@@ -15106,6 +16196,23 @@
             "version": 1,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "back",
+                "backpack",
+                "bag",
+                "book",
+                "bookbag",
+                "disabled",
+                "enabled",
+                "knapsack",
+                "np",
+                "off",
+                "on",
+                "pack",
+                "slash",
+                "storage",
+                "travel"
             ]
         },
         {
@@ -15113,6 +16220,23 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "Android",
+                "OS",
+                "cell",
+                "device",
+                "disabled",
+                "enabled",
+                "hardware",
+                "iOS",
+                "mobile",
+                "no",
+                "off",
+                "on",
+                "phone",
+                "slash",
+                "tablet"
             ]
         },
         {
@@ -15120,6 +16244,18 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "alcohol",
+                "beverage",
+                "bottle",
+                "cocktail",
+                "drink",
+                "drinks",
+                "food",
+                "liquor",
+                "no",
+                "wine"
             ]
         },
         {
@@ -15147,6 +16283,23 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "bolt",
+                "camera",
+                "disabled",
+                "enabled",
+                "flash",
+                "image",
+                "lightning",
+                "no",
+                "off",
+                "on",
+                "photo",
+                "photography",
+                "picture",
+                "slash",
+                "thunderbolt"
             ]
         },
         {
@@ -15154,6 +16307,19 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "disabled",
+                "drink",
+                "enabled",
+                "fastfood",
+                "food",
+                "hamburger",
+                "meal",
+                "no",
+                "off",
+                "on",
+                "slash"
             ]
         },
         {
@@ -15161,6 +16327,20 @@
             "version": 2,
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "bag",
+                "baggage",
+                "carry",
+                "disabled",
+                "enabled",
+                "luggage",
+                "no",
+                "off",
+                "on",
+                "slash",
+                "suitcase",
+                "travel"
             ]
         },
         {
@@ -15173,6 +16353,23 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "dining",
+                "disabled",
+                "eat",
+                "enabled",
+                "food",
+                "fork",
+                "knife",
+                "meal",
+                "meals",
+                "no",
+                "off",
+                "on",
+                "restaurant",
+                "slash",
+                "spoon"
             ]
         },
         {
@@ -15203,6 +16400,19 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "camera",
+                "disabled",
+                "enabled",
+                "image",
+                "no",
+                "off",
+                "on",
+                "photo",
+                "photography",
+                "picture",
+                "slash"
             ]
         },
         {
@@ -15228,6 +16438,25 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "baby",
+                "care",
+                "carriage",
+                "child",
+                "children",
+                "disabled",
+                "enabled",
+                "infant",
+                "kid",
+                "newborn",
+                "no",
+                "off",
+                "on",
+                "slash",
+                "stroller",
+                "toddler",
+                "young"
             ]
         },
         {
@@ -15235,6 +16464,24 @@
             "version": 2,
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "automobile",
+                "bus",
+                "car",
+                "cars",
+                "direction",
+                "disabled",
+                "enabled",
+                "maps",
+                "no",
+                "off",
+                "on",
+                "public",
+                "slash",
+                "transfer",
+                "transportation",
+                "vehicle"
             ]
         },
         {
@@ -15247,6 +16494,12 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "arrow",
+                "directional",
+                "north",
+                "up"
             ]
         },
         {
@@ -15259,6 +16512,13 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "arrow",
+                "east",
+                "noth",
+                "right",
+                "up"
             ]
         },
         {
@@ -15271,6 +16531,14 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "arrow",
+                "directional",
+                "left",
+                "north",
+                "up",
+                "west"
             ]
         },
         {
@@ -15278,6 +16546,17 @@
             "version": 8,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "accessibility",
+                "accessible",
+                "body",
+                "handicap",
+                "help",
+                "human",
+                "not",
+                "person",
+                "wheelchair"
             ]
         },
         {
@@ -15342,6 +16621,13 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "circle",
+                "not",
+                "pause",
+                "play",
+                "started"
             ]
         },
         {
@@ -15397,11 +16683,13 @@
             ],
             "tags": [
                 "!",
+                "active",
                 "alarm",
                 "alert",
                 "attention",
                 "bell",
                 "caution",
+                "chime",
                 "danger",
                 "error",
                 "exclamation",
@@ -15411,6 +16699,7 @@
                 "notifications",
                 "notify",
                 "reminder",
+                "ringing",
                 "sound",
                 "symbol",
                 "warning"
@@ -15527,6 +16816,7 @@
                 "circle",
                 "flash",
                 "lightning",
+                "offline",
                 "spark"
             ]
         },
@@ -15540,10 +16830,16 @@
                 "action"
             ],
             "tags": [
+                "approve",
+                "check",
                 "checkmark",
                 "circle",
                 "offline",
-                "pin"
+                "ok",
+                "pin",
+                "select",
+                "tick",
+                "yes"
             ]
         },
         {
@@ -15582,6 +16878,17 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "bulb",
+                "connection",
+                "idea",
+                "light",
+                "network",
+                "online",
+                "prediction",
+                "signal",
+                "wireless"
             ]
         },
         {
@@ -15636,6 +16943,17 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "action",
+                "arrow",
+                "arrows",
+                "expand",
+                "full",
+                "grow",
+                "in",
+                "move",
+                "open"
             ]
         },
         {
@@ -15651,6 +16969,7 @@
             "tags": [
                 "arrow",
                 "box",
+                "export",
                 "new",
                 "open",
                 "window"
@@ -15673,7 +16992,9 @@
                 "direction",
                 "expand",
                 "move",
-                "open"
+                "open",
+                "pan",
+                "with"
             ]
         },
         {
@@ -15709,6 +17030,15 @@
             "version": 2,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "circuit",
+                "electrical",
+                "electricity",
+                "outlet",
+                "plugs",
+                "sockets",
+                "wall"
             ]
         },
         {
@@ -15757,10 +17087,12 @@
                 "doc",
                 "document",
                 "find",
-                "magnifying glass",
+                "glass",
+                "magnifying",
                 "page",
                 "paper",
-                "search"
+                "search",
+                "view"
             ]
         },
         {
@@ -16064,6 +17396,18 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "actions",
+                "clipboard",
+                "clock",
+                "doc",
+                "file",
+                "pending",
+                "remember",
+                "save",
+                "schedule",
+                "time"
             ]
         },
         {
@@ -16154,9 +17498,13 @@
             ],
             "tags": [
                 "camera",
-                "mic",
+                "image",
                 "microphone",
+                "min",
+                "perm",
                 "photo",
+                "photography",
+                "picture",
                 "speaker"
             ]
         },
@@ -16170,12 +17518,16 @@
                 "account",
                 "calendar",
                 "contact",
+                "date",
                 "face",
                 "human",
                 "information",
                 "people",
+                "perm",
                 "person",
                 "profile",
+                "schedule",
+                "time",
                 "user"
             ]
         },
@@ -16190,6 +17542,7 @@
                 "gear",
                 "info",
                 "information",
+                "perm",
                 "settings"
             ]
         },
@@ -16208,10 +17561,10 @@
                 "hardware",
                 "i",
                 "iOS",
-                "important",
                 "info",
                 "information",
                 "mobile",
+                "perm",
                 "phone",
                 "tablet"
             ]
@@ -16240,12 +17593,22 @@
             ],
             "tags": [
                 "collection",
+                "data",
+                "doc",
+                "document",
+                "file",
                 "folder",
                 "folders",
-                "images",
+                "image",
+                "landscape",
                 "media",
                 "mountain",
-                "save"
+                "mountains",
+                "perm",
+                "photo",
+                "photography",
+                "picture",
+                "storage"
             ]
         },
         {
@@ -16256,12 +17619,20 @@
             ],
             "tags": [
                 "bubble",
+                "call",
+                "cell",
                 "chat",
+                "comment",
+                "communicate",
+                "contact",
+                "device",
                 "message",
+                "msg",
+                "perm",
                 "phone",
                 "recording",
-                "save",
                 "speech",
+                "telephone",
                 "voice"
             ]
         },
@@ -16277,13 +17648,17 @@
             "tags": [
                 "alert",
                 "announcement",
+                "connection",
                 "info",
                 "information",
                 "internet",
                 "network",
+                "perm",
                 "scan",
                 "service",
-                "wifi"
+                "signal",
+                "wifi",
+                "wireless"
             ]
         },
         {
@@ -16467,6 +17842,22 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "account",
+                "avatar",
+                "face",
+                "find",
+                "glass",
+                "human",
+                "look",
+                "magnify",
+                "magnifying",
+                "people",
+                "person",
+                "profile",
+                "search",
+                "user"
             ]
         },
         {
@@ -16505,6 +17896,13 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "bug",
+                "control",
+                "exterminator",
+                "insects",
+                "pest"
             ]
         },
         {
@@ -16512,6 +17910,13 @@
             "version": 7,
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "control",
+                "exterminator",
+                "mice",
+                "pest",
+                "rodent"
             ]
         },
         {
@@ -16528,6 +17933,7 @@
             ],
             "tags": [
                 "animal",
+                "cat",
                 "dog",
                 "hand",
                 "paw",
@@ -17120,6 +18526,7 @@
                 "overlap",
                 "photo",
                 "picture",
+                "position",
                 "shape"
             ]
         },
@@ -17135,6 +18542,7 @@
                 "overlap",
                 "photo",
                 "picture",
+                "position",
                 "shape"
             ]
         },
@@ -17226,8 +18634,9 @@
                 "doc",
                 "document",
                 "find",
+                "glass",
                 "look",
-                "magnifying glass",
+                "magnifying",
                 "page",
                 "paper",
                 "plagiarism",
@@ -17352,7 +18761,9 @@
                 "collection",
                 "list",
                 "music",
-                "play"
+                "ok",
+                "play",
+                "tick"
             ]
         },
         {
@@ -17382,6 +18793,12 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "fix",
+                "plumbing",
+                "tool",
+                "wrench"
             ]
         },
         {
@@ -17445,6 +18862,22 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "checkout",
+                "cost",
+                "machine",
+                "merchant",
+                "money",
+                "of",
+                "pay",
+                "payment",
+                "point",
+                "pos",
+                "retail",
+                "sale",
+                "system",
+                "transaction"
             ]
         },
         {
@@ -17694,7 +19127,7 @@
                 "people",
                 "person",
                 "pregnant",
-                "woman"
+                "women"
             ]
         },
         {
@@ -17723,6 +19156,18 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "composer",
+                "eye",
+                "final",
+                "output",
+                "preview",
+                "reveal",
+                "see",
+                "show",
+                "view",
+                "window"
             ]
         },
         {
@@ -17794,6 +19239,25 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "!",
+                "alert",
+                "attention",
+                "caution",
+                "certified",
+                "danger",
+                "error",
+                "exclamation",
+                "important",
+                "mark",
+                "notification",
+                "privacy",
+                "security",
+                "shield",
+                "symbol",
+                "tip",
+                "warning"
             ]
         },
         {
@@ -17863,6 +19327,24 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "disabled",
+                "earth",
+                "enabled",
+                "global",
+                "globe",
+                "map",
+                "network",
+                "off",
+                "on",
+                "planet",
+                "public",
+                "slash",
+                "social",
+                "space",
+                "web",
+                "world"
             ]
         },
         {
@@ -17893,6 +19375,26 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "approve",
+                "arrow",
+                "changes",
+                "check",
+                "completed",
+                "inprogress",
+                "load",
+                "loading",
+                "mark",
+                "ok",
+                "published",
+                "refresh",
+                "renew",
+                "replace",
+                "rotate",
+                "select",
+                "tick",
+                "yes"
             ]
         },
         {
@@ -17900,6 +19402,15 @@
             "version": 8,
             "categories": [
                 "content"
+            ],
+            "tags": [
+                "location",
+                "marker",
+                "pin",
+                "place",
+                "push",
+                "remember",
+                "save"
             ]
         },
         {
@@ -17911,6 +19422,19 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "barcode",
+                "camera",
+                "code",
+                "media",
+                "product",
+                "qr",
+                "quick",
+                "response",
+                "smartphone",
+                "url",
+                "urls"
             ]
         },
         {
@@ -17923,6 +19447,19 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "barcode",
+                "camera",
+                "code",
+                "media",
+                "product",
+                "qr",
+                "quick",
+                "response",
+                "smartphone",
+                "url",
+                "urls"
             ]
         },
         {
@@ -17935,6 +19472,20 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "barcode",
+                "camera",
+                "code",
+                "media",
+                "product",
+                "qr",
+                "quick",
+                "response",
+                "scanner",
+                "smartphone",
+                "url",
+                "urls"
             ]
         },
         {
@@ -18048,6 +19599,19 @@
             "version": 7,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "bolt",
+                "bubble",
+                "chat",
+                "comment",
+                "communicate",
+                "fast",
+                "lightning",
+                "message",
+                "quickreply",
+                "speech",
+                "thunderbolt"
             ]
         },
         {
@@ -18143,6 +19707,12 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "arrow",
+                "more",
+                "read",
+                "text"
             ]
         },
         {
@@ -18210,9 +19780,11 @@
                 "account",
                 "face",
                 "human",
+                "over",
                 "people",
                 "person",
                 "profile",
+                "record",
                 "recording",
                 "speak",
                 "speaking",
@@ -18285,6 +19857,17 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "arrow",
+                "body",
+                "capacity",
+                "decrease",
+                "down",
+                "human",
+                "people",
+                "person",
+                "reduce"
             ]
         },
         {
@@ -18419,15 +20002,26 @@
                 "action"
             ],
             "tags": [
+                "card",
                 "cart",
+                "cash",
                 "checkout",
+                "coin",
+                "commerce",
+                "credit",
+                "currency",
                 "disabled",
+                "dollars",
                 "enabled",
                 "off",
                 "on",
+                "online",
+                "pay",
+                "payment",
                 "remove",
                 "shopping",
-                "slash"
+                "slash",
+                "tick"
             ]
         },
         {
@@ -18713,6 +20307,26 @@
             "version": 2,
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "bill",
+                "card",
+                "cash",
+                "coin",
+                "commerce",
+                "cost",
+                "credit",
+                "currency",
+                "document",
+                "dollars",
+                "file",
+                "money",
+                "online",
+                "pay",
+                "payment",
+                "price",
+                "quote",
+                "symbol"
             ]
         },
         {
@@ -18784,11 +20398,12 @@
             ],
             "tags": [
                 "arrow",
+                "bin",
                 "can",
                 "delete",
                 "garbage",
                 "remove",
-                "restore",
+                "restore_from",
                 "trash",
                 "up"
             ]
@@ -18801,11 +20416,16 @@
             ],
             "tags": [
                 "arrow",
+                "data",
+                "doc",
+                "file",
                 "page",
                 "paper",
                 "refresh",
                 "restore",
-                "rotate"
+                "rotate",
+                "sheet",
+                "storage"
             ]
         },
         {
@@ -18816,6 +20436,12 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "bowl",
+                "food",
+                "meal",
+                "rice"
             ]
         },
         {
@@ -18851,6 +20477,22 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "architecture",
+                "building",
+                "chimney",
+                "construction",
+                "estate",
+                "home",
+                "house",
+                "real",
+                "residence",
+                "residential",
+                "roof",
+                "roofing",
+                "service",
+                "shelter"
             ]
         },
         {
@@ -18880,6 +20522,13 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "door",
+                "gear",
+                "preferences",
+                "room",
+                "settings"
             ]
         },
         {
@@ -18973,7 +20622,9 @@
                 "action"
             ],
             "tags": [
+                "adjust",
                 "corner",
+                "edit",
                 "rounded",
                 "shape",
                 "square",
@@ -19012,6 +20663,7 @@
                 "human",
                 "people",
                 "person",
+                "row",
                 "rowing",
                 "sport",
                 "water"
@@ -19045,6 +20697,24 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "approve",
+                "check",
+                "completed",
+                "composer",
+                "incomplete",
+                "line",
+                "mark",
+                "missing",
+                "no",
+                "ok",
+                "rule",
+                "select",
+                "tick",
+                "visibility",
+                "x",
+                "yes"
             ]
         },
         {
@@ -19052,6 +20722,29 @@
             "version": 2,
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "approve",
+                "check",
+                "close",
+                "code",
+                "complete",
+                "composer",
+                "data",
+                "done",
+                "file",
+                "folder",
+                "mark",
+                "ok",
+                "remove",
+                "rule",
+                "select",
+                "storage",
+                "tick",
+                "verified",
+                "visibility",
+                "x",
+                "yes"
             ]
         },
         {
@@ -19062,6 +20755,16 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "body",
+                "circle",
+                "exercise",
+                "human",
+                "people",
+                "person",
+                "run",
+                "running"
             ]
         },
         {
@@ -19103,6 +20806,15 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "bacteria",
+                "bottle",
+                "clean",
+                "disinfect",
+                "germs",
+                "pump",
+                "sanitizer"
             ]
         },
         {
@@ -19406,7 +21118,7 @@
             "tags": [
                 "camera",
                 "card",
-                "digitial",
+                "digital",
                 "memory",
                 "photos",
                 "sd",
@@ -19463,16 +21175,21 @@
                 "action"
             ],
             "tags": [
+                "cancel",
+                "close",
                 "disabled",
                 "enabled",
-                "filter",
+                "find",
+                "glass",
                 "look",
-                "look up",
                 "magnify",
-                "magnifying glass",
+                "magnifying",
                 "off",
                 "on",
                 "search",
+                "see",
+                "slash",
+                "stop",
                 "x"
             ]
         },
@@ -19724,6 +21441,15 @@
             "version": 1,
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "chopsticks",
+                "fish",
+                "food",
+                "meal",
+                "restaurant",
+                "set",
+                "teishoku"
             ]
         },
         {
@@ -19734,11 +21460,13 @@
             ],
             "tags": [
                 "application",
+                "change",
                 "details",
+                "gear",
                 "info",
                 "information",
+                "options",
                 "personal",
-                "save",
                 "service",
                 "settings"
             ]
@@ -19751,11 +21479,13 @@
             ],
             "tags": [
                 "application",
+                "change",
                 "details",
+                "gear",
                 "info",
                 "information",
+                "options",
                 "personal",
-                "save",
                 "service",
                 "settings"
             ]
@@ -19799,8 +21529,10 @@
                 "connect",
                 "connection",
                 "connectivity",
+                "device",
                 "settings",
-                "wifi"
+                "signal",
+                "symbol"
             ]
         },
         {
@@ -19815,8 +21547,10 @@
             "tags": [
                 "brightness",
                 "dark",
+                "filter",
                 "light",
                 "mode",
+                "setting",
                 "settings"
             ]
         },
@@ -19832,6 +21566,7 @@
             "tags": [
                 "Android",
                 "OS",
+                "cell",
                 "device",
                 "hardware",
                 "iOS",
@@ -19854,11 +21589,14 @@
             ],
             "tags": [
                 "arrows",
+                "computer",
                 "connect",
                 "connection",
                 "connectivity",
                 "dots",
                 "ethernet",
+                "internet",
+                "network",
                 "settings",
                 "wifi"
             ]
@@ -19875,12 +21613,23 @@
                 "action"
             ],
             "tags": [
+                "airplay",
                 "antenna",
+                "arrows",
+                "cast",
+                "computer",
                 "connect",
                 "connection",
                 "connectivity",
+                "dots",
                 "input",
-                "settings"
+                "internet",
+                "network",
+                "screencast",
+                "settings",
+                "stream",
+                "wifi",
+                "wireless"
             ]
         },
         {
@@ -19890,13 +21639,21 @@
                 "action"
             ],
             "tags": [
+                "audio",
+                "av",
+                "cable",
+                "cables",
                 "component",
+                "connect",
                 "connection",
                 "connectivity",
                 "input",
+                "internet",
                 "plug",
                 "points",
-                "settings"
+                "settings",
+                "video",
+                "wifi"
             ]
         },
         {
@@ -19922,14 +21679,19 @@
                 "action"
             ],
             "tags": [
+                "cable",
                 "connection",
                 "connectivity",
+                "definition",
                 "hdmi",
+                "high",
                 "input",
                 "plug",
                 "plugin",
                 "points",
-                "settings"
+                "settings",
+                "video",
+                "wire"
             ]
         },
         {
@@ -19944,14 +21706,18 @@
                 "action"
             ],
             "tags": [
+                "cable",
                 "connection",
                 "connectivity",
+                "definition",
                 "input",
                 "plug",
                 "plugin",
                 "points",
                 "settings",
-                "svideo"
+                "standard",
+                "svideo",
+                "video"
             ]
         },
         {
@@ -19980,11 +21746,15 @@
                 "action"
             ],
             "tags": [
+                "call",
                 "cell",
+                "contact",
                 "device",
+                "hardware",
                 "mobile",
                 "phone",
-                "settings"
+                "settings",
+                "telephone"
             ]
         },
         {
@@ -20017,9 +21787,14 @@
             ],
             "tags": [
                 "bluetooth",
+                "connection",
+                "connectivity",
+                "device",
                 "remote",
                 "settings",
-                "wifi"
+                "signal",
+                "wifi",
+                "wireless"
             ]
         },
         {
@@ -20083,7 +21858,7 @@
                 "action"
             ],
             "tags": [
-                "add",
+                "bag",
                 "bill",
                 "buy",
                 "card",
@@ -20101,7 +21876,8 @@
                 "payment",
                 "play",
                 "shop",
-                "shopping"
+                "shopping",
+                "store"
             ]
         },
         {
@@ -20130,6 +21906,29 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "action",
+                "bag",
+                "bill",
+                "business",
+                "buy",
+                "card",
+                "cart",
+                "cash",
+                "coin",
+                "commerce",
+                "credit",
+                "currency",
+                "dollars",
+                "money",
+                "online",
+                "pay",
+                "payment",
+                "shop",
+                "shopping",
+                "store",
+                "storefront"
             ]
         },
         {
@@ -20140,6 +21939,7 @@
             ],
             "tags": [
                 "add",
+                "basket",
                 "bill",
                 "buy",
                 "card",
@@ -20284,6 +22084,22 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "discomfort",
+                "emotions",
+                "expressions",
+                "face",
+                "feelings",
+                "fever",
+                "flu",
+                "ill",
+                "mood",
+                "pain",
+                "person",
+                "sick",
+                "survey",
+                "upset"
             ]
         },
         {
@@ -20757,6 +22573,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "action",
+                "auto",
+                "button",
+                "composer",
+                "function",
+                "smart"
             ]
         },
         {
@@ -20882,6 +22706,15 @@
             "version": 2,
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "composer",
+                "content",
+                "data",
+                "file",
+                "folder",
+                "snippet",
+                "storage"
             ]
         },
         {
@@ -20905,6 +22738,14 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "clean",
+                "fingers",
+                "gesture",
+                "hand",
+                "soap",
+                "wash"
             ]
         },
         {
@@ -20953,6 +22794,15 @@
             "version": 2,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "code",
+                "composer",
+                "content",
+                "creation",
+                "mode",
+                "source",
+                "view"
             ]
         },
         {
@@ -20965,6 +22815,12 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "arrow",
+                "directional",
+                "down",
+                "south"
             ]
         },
         {
@@ -20977,6 +22833,14 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "arrow",
+                "directional",
+                "down",
+                "east",
+                "right",
+                "south"
             ]
         },
         {
@@ -20989,6 +22853,14 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "arrow",
+                "directional",
+                "down",
+                "left",
+                "south",
+                "west"
             ]
         },
         {
@@ -21078,14 +22950,16 @@
             ],
             "tags": [
                 "bubble",
-                "cards",
+                "chat",
                 "comment",
+                "communicate",
                 "format",
                 "list",
-                "note",
+                "message",
                 "notes",
                 "speaker",
-                "speech"
+                "speech",
+                "text"
             ]
         },
         {
@@ -21096,19 +22970,21 @@
             ],
             "tags": [
                 "bubble",
-                "cards",
+                "chat",
                 "comment",
+                "communicate",
                 "disabled",
                 "enabled",
                 "format",
                 "list",
-                "note",
+                "message",
                 "notes",
                 "off",
                 "on",
                 "slash",
                 "speaker",
-                "speech"
+                "speech",
+                "text"
             ]
         },
         {
@@ -21168,19 +23044,24 @@
             "tags": [
                 "a",
                 "alphabet",
+                "approve",
                 "character",
                 "check",
-                "checkmark",
-                "edit",
                 "font",
                 "letter",
+                "mark",
+                "ok",
                 "processor",
+                "select",
                 "spell",
+                "spellcheck",
                 "symbol",
                 "text",
+                "tick",
                 "type",
                 "word",
-                "write"
+                "write",
+                "yes"
             ]
         },
         {
@@ -21214,6 +23095,16 @@
             "version": 1,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "alcohol",
+                "bar",
+                "beer",
+                "drink",
+                "liquor",
+                "pint",
+                "pub",
+                "sports"
             ]
         },
         {
@@ -21617,6 +23508,20 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "analytics",
+                "chart",
+                "data",
+                "diagram",
+                "graph",
+                "infographic",
+                "line",
+                "measure",
+                "metrics",
+                "stacked",
+                "statistics",
+                "tracking"
             ]
         },
         {
@@ -21624,6 +23529,10 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "staircase",
+                "stairs"
             ]
         },
         {
@@ -21860,6 +23769,17 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "2",
+                "bookmark",
+                "mark",
+                "message",
+                "note",
+                "paper",
+                "sticky",
+                "text",
+                "writing"
             ]
         },
         {
@@ -21977,11 +23897,7 @@
             ],
             "tags": [
                 "directory",
-                "front",
                 "mall",
-                "place",
-                "shop",
-                "shopping",
                 "store"
             ]
         },
@@ -22073,6 +23989,19 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "baby",
+                "care",
+                "carriage",
+                "child",
+                "children",
+                "infant",
+                "kid",
+                "newborn",
+                "stroller",
+                "toddler",
+                "young"
             ]
         },
         {
@@ -22168,6 +24097,16 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "2",
+                "editor",
+                "gmail",
+                "novitas",
+                "subscript",
+                "symbol",
+                "text",
+                "x"
             ]
         },
         {
@@ -22213,6 +24152,7 @@
                 "accessible",
                 "caption",
                 "cc",
+                "closed",
                 "disabled",
                 "enabled",
                 "language",
@@ -22221,7 +24161,8 @@
                 "slash",
                 "subtitle",
                 "subtitles",
-                "translate"
+                "translate",
+                "video"
             ]
         },
         {
@@ -22256,6 +24197,16 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "2",
+                "editor",
+                "gmail",
+                "novitas",
+                "superscript",
+                "symbol",
+                "text",
+                "x"
             ]
         },
         {
@@ -22272,7 +24223,6 @@
                 "face",
                 "human",
                 "parental",
-                "parental control",
                 "parents",
                 "people",
                 "person",
@@ -22337,6 +24287,17 @@
             ],
             "categories": [
                 "notification"
+            ],
+            "tags": [
+                "agent",
+                "care",
+                "customer",
+                "face",
+                "headphone set",
+                "person",
+                "representative",
+                "service",
+                "support"
             ]
         },
         {
@@ -22391,8 +24352,9 @@
                 "arrow",
                 "arrows",
                 "back",
-                "direction",
-                "horizontal"
+                "forward",
+                "horizontal",
+                "swap"
             ]
         },
         {
@@ -22409,8 +24371,9 @@
                 "arrows",
                 "back",
                 "circle",
-                "direction",
-                "horizontal"
+                "forward",
+                "horizontal",
+                "swap"
             ]
         },
         {
@@ -22440,9 +24403,10 @@
             "tags": [
                 "arrow",
                 "arrows",
-                "back",
                 "circle",
-                "direction",
+                "down",
+                "swap",
+                "up",
                 "vertical"
             ]
         },
@@ -22471,6 +24435,14 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "arrow",
+                "directional",
+                "left",
+                "navigation",
+                "switch",
+                "toggle"
             ]
         },
         {
@@ -22482,6 +24454,14 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "arrow",
+                "directional",
+                "navigation",
+                "right",
+                "switch",
+                "toggle"
             ]
         },
         {
@@ -22643,18 +24623,12 @@
                 "action"
             ],
             "tags": [
-                "cell",
-                "cellphone",
-                "device",
+                "arrow",
+                "down",
                 "download",
-                "instal",
-                "installation",
-                "load",
-                "mobile",
+                "export",
                 "system",
-                "system update",
-                "update",
-                "web"
+                "update"
             ]
         },
         {
@@ -22669,9 +24643,11 @@
             ],
             "tags": [
                 "browser",
+                "computer",
                 "document",
                 "documents",
                 "folder",
+                "internet",
                 "tab",
                 "tabs",
                 "web",
@@ -22692,12 +24668,13 @@
             ],
             "tags": [
                 "browser",
+                "computer",
                 "document",
                 "documents",
                 "folder",
+                "internet",
                 "tab",
                 "tabs",
-                "unselect",
                 "unselected",
                 "web",
                 "website",
@@ -22729,12 +24706,19 @@
         },
         {
             "name": "table_rows",
-            "version": 7,
+            "version": 11,
             "unsupported_families": [
                 "sharp"
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "layout",
+                "lines",
+                "rows",
+                "stacked",
+                "table"
             ]
         },
         {
@@ -22745,6 +24729,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "format",
+                "grid",
+                "group",
+                "multiple",
+                "table",
+                "view"
             ]
         },
         {
@@ -22867,6 +24859,12 @@
             "version": 1,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "appetizer",
+                "food",
+                "snack",
+                "tapas"
             ]
         },
         {
@@ -22966,6 +24964,7 @@
                 "alphabet",
                 "arrow",
                 "character",
+                "down",
                 "field",
                 "font",
                 "letter",
@@ -23032,7 +25031,7 @@
                 "alphabet",
                 "arrow",
                 "character",
-                "down",
+                "dow",
                 "field",
                 "font",
                 "letter",
@@ -23070,6 +25069,19 @@
             "version": 2,
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "composer",
+                "content",
+                "data",
+                "doc",
+                "document",
+                "file",
+                "note",
+                "snippet",
+                "storage",
+                "text",
+                "writing"
             ]
         },
         {
@@ -23229,11 +25241,11 @@
                 "favorite",
                 "fingers",
                 "gesture",
-                "hand",
                 "hands",
                 "like",
                 "rate",
                 "rating",
+                "thumbs",
                 "up"
             ]
         },
@@ -23428,11 +25440,11 @@
                 "event",
                 "mark",
                 "month",
-                "range",
                 "remember",
                 "reminder",
-                "today",
-                "week"
+                "schedule",
+                "time",
+                "today"
             ]
         },
         {
@@ -23549,6 +25561,19 @@
             "version": 2,
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "articles",
+                "composer",
+                "content",
+                "data",
+                "drive",
+                "file",
+                "folder",
+                "folders",
+                "storage",
+                "topic",
+                "writing"
             ]
         },
         {
@@ -23558,13 +25583,13 @@
                 "action"
             ],
             "tags": [
-                "apps",
-                "arrow",
+                "app",
+                "command",
                 "fingers",
                 "gesture",
                 "hand",
-                "hands",
-                "swipe",
+                "press",
+                "tap",
                 "touch"
             ]
         },
@@ -23771,14 +25796,19 @@
                 "action"
             ],
             "tags": [
+                "analytics",
                 "arrow",
-                "change",
                 "data",
+                "diagram",
                 "down",
-                "metric",
+                "graph",
+                "infographic",
+                "measure",
+                "metrics",
                 "movement",
                 "rate",
-                "track",
+                "rating",
+                "statistics",
                 "tracking",
                 "trending"
             ]
@@ -23809,13 +25839,18 @@
                 "action"
             ],
             "tags": [
+                "analytics",
                 "arrow",
-                "change",
                 "data",
-                "metric",
+                "diagram",
+                "graph",
+                "infographic",
+                "measure",
+                "metrics",
                 "movement",
                 "rate",
-                "track",
+                "rating",
+                "statistics",
                 "tracking",
                 "trending",
                 "up"
@@ -23844,6 +25879,21 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "call",
+                "cell",
+                "contact",
+                "deaf",
+                "device",
+                "hardware",
+                "mobile",
+                "phone",
+                "speech-impaired",
+                "talk",
+                "telephone",
+                "text",
+                "tty"
             ]
         },
         {
@@ -23983,6 +26033,12 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "protection",
+                "rain",
+                "sun",
+                "umbrella"
             ]
         },
         {
@@ -24081,6 +26137,23 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "approve",
+                "check",
+                "circle",
+                "completed",
+                "disabled",
+                "enabled",
+                "mark",
+                "off",
+                "ok",
+                "on",
+                "select",
+                "slash",
+                "tick",
+                "unpublished",
+                "yes"
             ]
         },
         {
@@ -24110,10 +26183,13 @@
                 "back",
                 "backwards",
                 "clock",
+                "forward",
                 "history",
+                "load",
                 "refresh",
                 "reverse",
                 "rotate",
+                "schedule",
                 "time",
                 "update"
             ]
@@ -24127,6 +26203,26 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrow",
+                "back",
+                "backwards",
+                "clock",
+                "disabled",
+                "enabled",
+                "forward",
+                "history",
+                "load",
+                "off",
+                "on",
+                "refresh",
+                "reverse",
+                "rotate",
+                "schedule",
+                "slash",
+                "time",
+                "update"
             ]
         },
         {
@@ -24139,6 +26235,16 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrow",
+                "export",
+                "instal",
+                "line",
+                "replace",
+                "up",
+                "update",
+                "upgrade"
             ]
         },
         {
@@ -24170,7 +26276,9 @@
                 "certified",
                 "check",
                 "checkmark",
+                "ok",
                 "security",
+                "tick",
                 "user",
                 "verified"
             ]
@@ -24189,8 +26297,10 @@
                 "certified",
                 "check",
                 "checkmark",
+                "ok",
                 "security",
                 "shield",
+                "tick",
                 "user",
                 "verified"
             ]
@@ -24287,6 +26397,19 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "alignment",
+                "distribute",
+                "format",
+                "layout",
+                "lines",
+                "paragraph",
+                "rule",
+                "rules",
+                "style",
+                "text",
+                "vertical"
             ]
         },
         {
@@ -24299,12 +26422,14 @@
                 "action"
             ],
             "tags": [
+                "document",
                 "format",
                 "paragraph",
                 "split",
                 "text",
                 "vertical",
-                "website"
+                "website",
+                "writing"
             ]
         },
         {
@@ -24330,7 +26455,7 @@
                 "notification",
                 "phone",
                 "silence",
-                "slient",
+                "silent",
                 "tablet",
                 "vibrate",
                 "vibration"
@@ -24665,6 +26790,13 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "format",
+                "grid",
+                "layout",
+                "sidebar",
+                "view"
             ]
         },
         {
@@ -24796,6 +26928,7 @@
                 "human",
                 "off",
                 "on",
+                "over",
                 "people",
                 "person",
                 "profile",
@@ -24997,6 +27130,13 @@
             "version": 3,
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "clean",
+                "fingers",
+                "gesture",
+                "hand",
+                "wash"
             ]
         },
         {
@@ -25048,6 +27188,22 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "architecture",
+                "building",
+                "damage",
+                "drop",
+                "droplet",
+                "estate",
+                "house",
+                "leak",
+                "plumbing",
+                "real",
+                "residence",
+                "residential",
+                "shelter",
+                "water"
             ]
         },
         {
@@ -25272,6 +27428,12 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "arrow",
+                "directional",
+                "left",
+                "west"
             ]
         },
         {
@@ -25302,6 +27464,17 @@
             ],
             "categories": [
                 "places"
+            ],
+            "tags": [
+                "accessibility",
+                "accessible",
+                "body",
+                "handicap",
+                "help",
+                "human",
+                "person",
+                "pickup",
+                "wheelchair"
             ]
         },
         {
@@ -25316,8 +27489,10 @@
                 "checkmark",
                 "election",
                 "location",
+                "ok",
                 "pin",
                 "poll",
+                "tick",
                 "vote"
             ]
         },
@@ -25435,6 +27610,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "around",
+                "arrow",
+                "arrows",
+                "protected",
+                "setup",
+                "wifi"
             ]
         },
         {
@@ -25470,6 +27653,16 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "alcohol",
+                "bar",
+                "cocktail",
+                "cup",
+                "drink",
+                "glass",
+                "liquor",
+                "wine"
             ]
         },
         {
@@ -25484,6 +27677,7 @@
             ],
             "tags": [
                 "briefcase",
+                "business",
                 "job",
                 "suit",
                 "suitcase",
@@ -25577,6 +27771,19 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "composer",
+                "mode",
+                "site",
+                "software",
+                "system",
+                "view",
+                "visibility",
+                "web",
+                "website",
+                "window",
+                "wysiwyg"
             ]
         },
         {
@@ -25594,12 +27801,22 @@
                 "arrow",
                 "back",
                 "backwards",
+                "find",
+                "glass",
+                "history",
+                "inprogress",
+                "load",
+                "loading",
+                "look",
+                "magnify",
+                "magnifying",
                 "refresh",
+                "renew",
                 "restore",
                 "reverse",
                 "rotate",
                 "search",
-                "searched",
+                "see",
                 "youtube"
             ]
         },
@@ -25612,13 +27829,17 @@
             "tags": [
                 "big",
                 "bigger",
+                "find",
                 "glass",
                 "grow",
                 "in",
+                "look",
                 "magnify",
                 "magnifying",
                 "plus",
                 "scale",
+                "search",
+                "see",
                 "size",
                 "zoom"
             ]
@@ -25634,13 +27855,17 @@
                 "action"
             ],
             "tags": [
+                "find",
                 "glass",
+                "look",
                 "magnify",
                 "magnifying",
                 "minus",
                 "negative",
                 "out",
                 "scale",
+                "search",
+                "see",
                 "size",
                 "small",
                 "smaller",
