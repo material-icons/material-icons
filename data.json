@@ -630,6 +630,16 @@
             ]
         },
         {
+            "name": "add_reaction",
+            "version": 4,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "add_road",
             "version": 5,
             "unsupported_families": [
@@ -702,6 +712,28 @@
                 "task",
                 "tick",
                 "yes"
+            ]
+        },
+        {
+            "name": "add_to_drive",
+            "version": 13,
+            "categories": [
+                "action"
+            ],
+            "tags": [
+                "+",
+                "add",
+                "app",
+                "backup",
+                "cloud",
+                "drive",
+                "files",
+                "folders",
+                "gdrive",
+                "google",
+                "plus",
+                "storage",
+                "to"
             ]
         },
         {
@@ -1769,6 +1801,18 @@
                 "ios",
                 "left",
                 "previous"
+            ]
+        },
+        {
+            "name": "arrow_back_ios_new",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "navigation"
             ]
         },
         {
@@ -3219,8 +3263,24 @@
         },
         {
             "name": "border_color",
+            "version": 7,
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "border",
+                "color",
+                "doc",
+                "edit",
+                "editing",
+                "editor",
+                "sheet",
+                "spreadsheet",
+                "stroke",
+                "style",
+                "text",
+                "type",
+                "writing"
             ]
         },
         {
@@ -4469,8 +4529,18 @@
         },
         {
             "name": "cell_wifi",
+            "version": 6,
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "Wifi",
+                "cell",
+                "device",
+                "internet",
+                "network",
+                "phone",
+                "service"
             ]
         },
         {
@@ -4507,6 +4577,16 @@
                 "photography",
                 "weak",
                 "zoom"
+            ]
+        },
+        {
+            "name": "change_circle",
+            "version": 3,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "content"
             ]
         },
         {
@@ -5684,6 +5764,17 @@
                 "multiple",
                 "plus",
                 "point"
+            ]
+        },
+        {
+            "name": "copy_all",
+            "version": 2,
+            "unsupported_families": [
+                "outline",
+                "round"
+            ],
+            "categories": [
+                "content"
             ]
         },
         {
@@ -7611,6 +7702,22 @@
                 "transportation",
                 "vehicle",
                 "vespa"
+            ]
+        },
+        {
+            "name": "electric_rickshaw",
+            "version": 8,
+            "categories": [
+                "maps"
+            ],
+            "tags": [
+                "automobile",
+                "car",
+                "cars",
+                "india",
+                "maps",
+                "transportation",
+                "vehicle"
             ]
         },
         {
@@ -10159,8 +10266,24 @@
         },
         {
             "name": "format_color_fill",
+            "version": 7,
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "color",
+                "doc",
+                "edit",
+                "editing",
+                "editor",
+                "fill",
+                "paint",
+                "sheet",
+                "spreadsheet",
+                "style",
+                "text",
+                "type",
+                "writing"
             ]
         },
         {
@@ -10194,8 +10317,24 @@
         },
         {
             "name": "format_color_text",
+            "version": 7,
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "color",
+                "doc",
+                "edit",
+                "editing",
+                "editor",
+                "fill",
+                "paint",
+                "sheet",
+                "spreadsheet",
+                "style",
+                "text",
+                "type",
+                "writing"
             ]
         },
         {
@@ -11538,6 +11677,16 @@
                 "hospital",
                 "image",
                 "medicine"
+            ]
+        },
+        {
+            "name": "health_and_safety",
+            "version": 3,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -15998,8 +16147,21 @@
         },
         {
             "name": "network_cell",
+            "version": 8,
             "categories": [
                 "device"
+            ],
+            "tags": [
+                "cell",
+                "cellular",
+                "data",
+                "internet",
+                "mobile",
+                "network",
+                "phone",
+                "speed",
+                "wifi",
+                "wireless"
             ]
         },
         {
@@ -16058,8 +16220,21 @@
         },
         {
             "name": "network_wifi",
+            "version": 8,
             "categories": [
                 "device"
+            ],
+            "tags": [
+                "cell",
+                "cellular",
+                "data",
+                "internet",
+                "mobile",
+                "network",
+                "phone",
+                "speed",
+                "wifi",
+                "wireless"
             ]
         },
         {
@@ -17000,6 +17175,16 @@
         {
             "name": "outbond",
             "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "outbound",
+            "version": 5,
             "unsupported_families": [
                 "sharp"
             ],
@@ -19261,6 +19446,18 @@
             ]
         },
         {
+            "name": "production_quantity_limits",
+            "version": 3,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "psychology",
             "version": 5,
             "unsupported_families": [
@@ -20799,6 +20996,19 @@
             ]
         },
         {
+            "name": "safety_divider",
+            "version": 3,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "sanitizer",
             "version": 1,
             "unsupported_families": [
@@ -20861,6 +21071,13 @@
                 "floppy",
                 "multimedia",
                 "save"
+            ]
+        },
+        {
+            "name": "savings",
+            "version": 1,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -22104,8 +22321,34 @@
         },
         {
             "name": "signal_cellular_0_bar",
+            "version": 7,
             "categories": [
                 "device"
+            ],
+            "tags": [
+                "!",
+                "alert",
+                "attention",
+                "caution",
+                "cell",
+                "cellular",
+                "danger",
+                "data",
+                "error",
+                "exclamation",
+                "important",
+                "internet",
+                "mark",
+                "mobile",
+                "network",
+                "notification",
+                "phone",
+                "signal",
+                "speed",
+                "symbol",
+                "warning",
+                "wifi",
+                "wireless"
             ]
         },
         {
@@ -22180,8 +22423,34 @@
         },
         {
             "name": "signal_cellular_connected_no_internet_0_bar",
+            "version": 6,
             "categories": [
                 "device"
+            ],
+            "tags": [
+                "!",
+                "alert",
+                "attention",
+                "caution",
+                "cell",
+                "cellular",
+                "danger",
+                "data",
+                "error",
+                "exclamation",
+                "important",
+                "internet",
+                "mark",
+                "mobile",
+                "network",
+                "notification",
+                "phone",
+                "signal",
+                "speed",
+                "symbol",
+                "warning",
+                "wifi",
+                "wireless"
             ]
         },
         {
@@ -22318,13 +22587,22 @@
         },
         {
             "name": "signal_wifi_0_bar",
-            "unsupported_families": [
-                "sharp",
-                "outline",
-                "twotone"
-            ],
+            "version": 7,
             "categories": [
                 "device"
+            ],
+            "tags": [
+                "cell",
+                "cellular",
+                "data",
+                "internet",
+                "mobile",
+                "network",
+                "phone",
+                "signal",
+                "speed",
+                "wifi",
+                "wireless"
             ]
         },
         {
@@ -22746,6 +23024,17 @@
                 "hand",
                 "soap",
                 "wash"
+            ]
+        },
+        {
+            "name": "social_distance",
+            "version": 3,
+            "unsupported_families": [
+                "sharp",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -24868,6 +25157,18 @@
             ]
         },
         {
+            "name": "task_alt",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "terrain",
             "version": 6,
             "unsupported_families": [
@@ -25787,6 +26088,18 @@
                 "translate",
                 "translator",
                 "words"
+            ]
+        },
+        {
+            "name": "travel_explore",
+            "version": 3,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
