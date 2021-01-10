@@ -2359,6 +2359,18 @@
             ]
         },
         {
+            "name": "auto_graph",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "autorenew",
             "version": 6,
             "unsupported_families": [
@@ -4495,6 +4507,18 @@
             ]
         },
         {
+            "name": "catching_pokemon",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "category",
             "version": 6,
             "unsupported_families": [
@@ -5230,6 +5254,18 @@
             ]
         },
         {
+            "name": "code_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "collections",
             "version": 6,
             "categories": [
@@ -5702,6 +5738,16 @@
             ]
         },
         {
+            "name": "content_paste_off",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "content"
+            ]
+        },
+        {
             "name": "control_camera",
             "version": 6,
             "categories": [
@@ -5906,6 +5952,13 @@
                 "money",
                 "pay",
                 "payment"
+            ]
+        },
+        {
+            "name": "credit_card_off",
+            "version": 1,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -6257,6 +6310,16 @@
             ]
         },
         {
+            "name": "dark_mode",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "dashboard",
             "version": 6,
             "unsupported_families": [
@@ -6557,6 +6620,16 @@
                 "hardware",
                 "microchip",
                 "processor"
+            ]
+        },
+        {
+            "name": "developer_board_off",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "hardware"
             ]
         },
         {
@@ -7284,6 +7357,18 @@
             ]
         },
         {
+            "name": "downhill_skiing",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "drafts",
             "version": 7,
             "categories": [
@@ -7536,6 +7621,27 @@
                 "pin",
                 "place",
                 "stop"
+            ]
+        },
+        {
+            "name": "edit_location_alt",
+            "version": 5,
+            "categories": [
+                "maps"
+            ],
+            "tags": [
+                "edit",
+                "location",
+                "pen",
+                "pencil",
+                "pin"
+            ]
+        },
+        {
+            "name": "edit_notifications",
+            "version": 1,
+            "categories": [
+                "social"
             ]
         },
         {
@@ -8555,6 +8661,13 @@
             ]
         },
         {
+            "name": "extension_off",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "face",
             "version": 6,
             "unsupported_families": [
@@ -8931,6 +9044,16 @@
                 "file",
                 "multiple",
                 "past"
+            ]
+        },
+        {
+            "name": "file_download_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "file"
             ]
         },
         {
@@ -9869,6 +9992,23 @@
             ]
         },
         {
+            "name": "flutter_dash",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round"
+            ],
+            "categories": [
+                "action"
+            ],
+            "tags": [
+                "bird",
+                "dash",
+                "flutter"
+            ]
+        },
+        {
             "name": "folder",
             "version": 6,
             "categories": [
@@ -10002,6 +10142,13 @@
                 "symbol",
                 "text",
                 "type"
+            ]
+        },
+        {
+            "name": "font_download_off",
+            "version": 1,
+            "categories": [
+                "content"
             ]
         },
         {
@@ -11824,6 +11971,17 @@
             ]
         },
         {
+            "name": "hiking",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "history",
             "version": 6,
             "categories": [
@@ -12315,6 +12473,13 @@
             ]
         },
         {
+            "name": "ice_skating",
+            "version": 1,
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "image",
             "version": 7,
             "categories": [
@@ -12736,6 +12901,25 @@
             ]
         },
         {
+            "name": "inventory_2",
+            "version": 6,
+            "categories": [
+                "content"
+            ],
+            "tags": [
+                "archive",
+                "box",
+                "file",
+                "inventory",
+                "organize",
+                "packages",
+                "product",
+                "stock",
+                "storage",
+                "supply"
+            ]
+        },
+        {
             "name": "invert_colors",
             "version": 6,
             "categories": [
@@ -12801,6 +12985,18 @@
                 "shutter",
                 "speed",
                 "subtract"
+            ]
+        },
+        {
+            "name": "kayaking",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -13036,6 +13232,17 @@
                 "place",
                 "refrigerator",
                 "storage"
+            ]
+        },
+        {
+            "name": "kitesurfing",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -13472,6 +13679,16 @@
                 "collection",
                 "music",
                 "song"
+            ]
+        },
+        {
+            "name": "light_mode",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "device"
             ]
         },
         {
@@ -15681,6 +15898,17 @@
             ]
         },
         {
+            "name": "moving",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "multiline_chart",
             "version": 6,
             "unsupported_families": [
@@ -16492,6 +16720,18 @@
             ]
         },
         {
+            "name": "nordic_walking",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "north",
             "version": 2,
             "unsupported_families": [
@@ -16668,6 +16908,13 @@
                 "document",
                 "note",
                 "text"
+            ]
+        },
+        {
+            "name": "notification_add",
+            "version": 2,
+            "categories": [
+                "social"
             ]
         },
         {
@@ -16971,6 +17218,17 @@
             ]
         },
         {
+            "name": "open_in_new_off",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "open_with",
             "version": 6,
             "unsupported_families": [
@@ -17232,6 +17490,16 @@
             ]
         },
         {
+            "name": "paragliding",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "party_mode",
             "version": 6,
             "categories": [
@@ -17263,6 +17531,16 @@
                 "controls",
                 "music",
                 "video"
+            ]
+        },
+        {
+            "name": "pause_circle",
+            "version": 6,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "av"
             ]
         },
         {
@@ -17727,6 +18005,16 @@
                 "profile",
                 "slash",
                 "user"
+            ]
+        },
+        {
+            "name": "person_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -18486,6 +18774,27 @@
             ]
         },
         {
+            "name": "piano",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "round"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
+            "name": "piano_off",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "picture_as_pdf",
             "version": 6,
             "categories": [
@@ -18635,6 +18944,16 @@
                 "controls",
                 "music",
                 "video"
+            ]
+        },
+        {
+            "name": "play_circle",
+            "version": 6,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "av"
             ]
         },
         {
@@ -19456,6 +19775,18 @@
                 "query",
                 "save",
                 "time"
+            ]
+        },
+        {
+            "name": "query_stats",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
             ]
         },
         {
@@ -20704,6 +21035,18 @@
             ]
         },
         {
+            "name": "running_with_errors",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "notification"
+            ]
+        },
+        {
             "name": "rv_hookup",
             "version": 6,
             "categories": [
@@ -20745,6 +21088,16 @@
             ],
             "categories": [
                 "social"
+            ]
+        },
+        {
+            "name": "sailing",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -20875,6 +21228,16 @@
                 "save",
                 "schedule",
                 "time"
+            ]
+        },
+        {
+            "name": "schema",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "editor"
             ]
         },
         {
@@ -21251,6 +21614,30 @@
             ],
             "categories": [
                 "home"
+            ]
+        },
+        {
+            "name": "sensors",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "sensors_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -21794,6 +22181,16 @@
             ]
         },
         {
+            "name": "share_arrival_time",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "shop",
             "version": 6,
             "categories": [
@@ -21820,6 +22217,13 @@
                 "shop",
                 "shopping",
                 "store"
+            ]
+        },
+        {
+            "name": "shop_2",
+            "version": 6,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -22487,6 +22891,16 @@
             ]
         },
         {
+            "name": "skateboarding",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "skip_next",
             "version": 6,
             "unsupported_families": [
@@ -22523,6 +22937,17 @@
                 "play",
                 "previous",
                 "video"
+            ]
+        },
+        {
+            "name": "sledding",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -22727,6 +23152,36 @@
                 "time",
                 "timer",
                 "z"
+            ]
+        },
+        {
+            "name": "snowboarding",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
+            "name": "snowmobile",
+            "version": 1,
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "snowshoeing",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -24305,6 +24760,17 @@
                 "representative",
                 "service",
                 "support"
+            ]
+        },
+        {
+            "name": "surfing",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -26293,6 +26759,18 @@
             ]
         },
         {
+            "name": "usb_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "verified",
             "version": 5,
             "unsupported_families": [
@@ -26608,6 +27086,13 @@
                 "gaming",
                 "playstation",
                 "video"
+            ]
+        },
+        {
+            "name": "videogame_asset_off",
+            "version": 1,
+            "categories": [
+                "hardware"
             ]
         },
         {
@@ -27367,6 +27852,18 @@
             ]
         },
         {
+            "name": "wb_twilight",
+            "version": 6,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "image"
+            ]
+        },
+        {
             "name": "wc",
             "version": 5,
             "unsupported_families": [
@@ -27427,6 +27924,16 @@
                 "video",
                 "website",
                 "www"
+            ]
+        },
+        {
+            "name": "web_asset_off",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "av"
             ]
         },
         {
@@ -27746,6 +28253,17 @@
                 "suit",
                 "suitcase",
                 "work"
+            ]
+        },
+        {
+            "name": "workspaces",
+            "version": 6,
+            "unsupported_families": [
+                "sharp",
+                "round"
+            ],
+            "categories": [
+                "file"
             ]
         },
         {
