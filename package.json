@@ -1,7 +1,7 @@
 {
   "name": "@material-icons/svg",
   "description": "Material Design icons by Google, updated.",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "repository": {
     "type": "git",
     "url": "https://github.com/material-icons/material-icons"
