@@ -19582,6 +19582,16 @@
             ]
         },
         {
+            "name": "interpreter_mode",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "av"
+            ]
+        },
+        {
             "name": "inventory",
             "version": 12,
             "categories": [
@@ -27971,6 +27981,26 @@
             ]
         },
         {
+            "name": "playlist_add_check_circle",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "av"
+            ]
+        },
+        {
+            "name": "playlist_add_circle",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "av"
+            ]
+        },
+        {
             "name": "playlist_play",
             "version": 13,
             "unsupported_families": [
@@ -34080,6 +34110,18 @@
             ]
         },
         {
+            "name": "south_america",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "south_east",
             "version": 6,
             "unsupported_families": [
@@ -38526,6 +38568,13 @@
                 "off",
                 "usb",
                 "wire"
+            ]
+        },
+        {
+            "name": "vaccines",
+            "version": 1,
+            "categories": [
+                "social"
             ]
         },
         {
