@@ -1754,7 +1754,7 @@
         },
         {
             "name": "add",
-            "version": 17,
+            "version": 19,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -27205,7 +27205,7 @@
         },
         {
             "name": "phone_locked",
-            "version": 16,
+            "version": 18,
             "categories": [
                 "notification"
             ],
@@ -27463,7 +27463,7 @@
         },
         {
             "name": "photo_album",
-            "version": 12,
+            "version": 13,
             "categories": [
                 "image"
             ],
@@ -39239,7 +39239,7 @@
         },
         {
             "name": "view_agenda",
-            "version": 12,
+            "version": 13,
             "unsupported_families": [
                 "round"
             ],
