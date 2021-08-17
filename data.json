@@ -2356,6 +2356,19 @@
             ]
         },
         {
+            "name": "adobe",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "ads_click",
             "version": 2,
             "unsupported_families": [
@@ -3372,6 +3385,19 @@
             ]
         },
         {
+            "name": "apple",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "approval",
             "version": 10,
             "unsupported_families": [
@@ -3584,6 +3610,26 @@
                 "direction",
                 "down",
                 "navigation"
+            ]
+        },
+        {
+            "name": "arrow_circle_left",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "arrow_circle_right",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -7280,7 +7326,7 @@
         },
         {
             "name": "cancel_presentation",
-            "version": 11,
+            "version": 13,
             "categories": [
                 "communication"
             ],
@@ -7605,6 +7651,13 @@
                 "web",
                 "window",
                 "wireless"
+            ]
+        },
+        {
+            "name": "castle",
+            "version": 1,
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -8161,6 +8214,13 @@
                 "read",
                 "reader",
                 "text"
+            ]
+        },
+        {
+            "name": "church",
+            "version": 1,
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -9293,6 +9353,16 @@
             ]
         },
         {
+            "name": "content_paste_go",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "content"
+            ]
+        },
+        {
             "name": "content_paste_off",
             "version": 3,
             "unsupported_families": [
@@ -9313,6 +9383,16 @@
                 "on",
                 "paste",
                 "slash"
+            ]
+        },
+        {
+            "name": "content_paste_search",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "content"
             ]
         },
         {
@@ -9370,6 +9450,16 @@
                 "plus",
                 "point",
                 "symbol"
+            ]
+        },
+        {
+            "name": "cookie",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -11258,6 +11348,19 @@
                 "storage",
                 "symbol",
                 "warning"
+            ]
+        },
+        {
+            "name": "discord",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -13222,7 +13325,7 @@
         },
         {
             "name": "euro",
-            "version": 10,
+            "version": 11,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -13255,7 +13358,7 @@
         },
         {
             "name": "euro_symbol",
-            "version": 11,
+            "version": 12,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -15098,6 +15201,19 @@
             ]
         },
         {
+            "name": "fitbit",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "fitness_center",
             "version": 11,
             "categories": [
@@ -15780,6 +15896,16 @@
             ]
         },
         {
+            "name": "forest",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "format_align_center",
             "version": 11,
             "unsupported_families": [
@@ -16456,6 +16582,13 @@
                 "under",
                 "underlined",
                 "writing"
+            ]
+        },
+        {
+            "name": "fort",
+            "version": 1,
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -18551,6 +18684,16 @@
             ]
         },
         {
+            "name": "hive",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "holiday_village",
             "version": 3,
             "unsupported_families": [
@@ -19099,6 +19242,17 @@
                 "safety",
                 "secure",
                 "security"
+            ]
+        },
+        {
+            "name": "hub",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "round"
+            ],
+            "categories": [
+                "communication"
             ]
         },
         {
@@ -19843,6 +19997,16 @@
                 "summer",
                 "travel",
                 "water"
+            ]
+        },
+        {
+            "name": "kebab_dining",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -20757,6 +20921,18 @@
                 "lightbulb",
                 "mode",
                 "on"
+            ]
+        },
+        {
+            "name": "line_axis",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
             ]
         },
         {
@@ -22675,6 +22851,13 @@
             ]
         },
         {
+            "name": "medication_liquid",
+            "version": 1,
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "meeting_room",
             "version": 16,
             "unsupported_families": [
@@ -23478,6 +23661,16 @@
             ]
         },
         {
+            "name": "monitor_heart",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "monitor_weight",
             "version": 9,
             "categories": [
@@ -23705,6 +23898,16 @@
                 "vertical",
                 "web",
                 "website"
+            ]
+        },
+        {
+            "name": "mosque",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -26342,6 +26545,19 @@
             ]
         },
         {
+            "name": "paypal",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "pedal_bike",
             "version": 13,
             "unsupported_families": [
@@ -27903,6 +28119,19 @@
             ]
         },
         {
+            "name": "pix",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "place",
             "version": 16,
             "categories": [
@@ -28990,6 +29219,13 @@
             ]
         },
         {
+            "name": "punch_clock",
+            "version": 1,
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "push_pin",
             "version": 12,
             "categories": [
@@ -29245,6 +29481,19 @@
                 "support",
                 "symbol",
                 "test"
+            ]
+        },
+        {
+            "name": "quora",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -29650,6 +29899,19 @@
             "unsupported_families": [
                 "sharp",
                 "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
+            "name": "reddit",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
                 "twotone"
             ],
             "categories": [
@@ -30720,6 +30982,13 @@
                 "photo",
                 "rotate",
                 "turn"
+            ]
+        },
+        {
+            "name": "rotate_90_degrees_cw",
+            "version": 1,
+            "categories": [
+                "image"
             ]
         },
         {
@@ -32699,6 +32968,16 @@
             ]
         },
         {
+            "name": "shield_moon",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "home"
+            ]
+        },
+        {
             "name": "shop",
             "version": 11,
             "categories": [
@@ -32751,6 +33030,19 @@
                 "shop",
                 "shopping",
                 "two"
+            ]
+        },
+        {
+            "name": "shopify",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -34079,6 +34371,19 @@
             ]
         },
         {
+            "name": "snapchat",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "snippet_folder",
             "version": 6,
             "categories": [
@@ -34608,6 +34913,17 @@
             ]
         },
         {
+            "name": "spoke",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "round"
+            ],
+            "categories": [
+                "communication"
+            ]
+        },
+        {
             "name": "sports",
             "version": 10,
             "unsupported_families": [
@@ -34643,7 +34959,7 @@
         },
         {
             "name": "sports_bar",
-            "version": 5,
+            "version": 6,
             "categories": [
                 "places"
             ],
@@ -36341,6 +36657,13 @@
             ]
         },
         {
+            "name": "synagogue",
+            "version": 1,
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "sync",
             "version": 15,
             "unsupported_families": [
@@ -36962,6 +37285,36 @@
             ]
         },
         {
+            "name": "telegram",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
+            "name": "temple_buddhist",
+            "version": 1,
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "temple_hindu",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "terrain",
             "version": 11,
             "unsupported_families": [
@@ -37456,6 +37809,19 @@
             ]
         },
         {
+            "name": "tiktok",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "time_to_leave",
             "version": 11,
             "categories": [
@@ -37804,6 +38170,16 @@
                 "ux",
                 "web",
                 "website"
+            ]
+        },
+        {
+            "name": "token",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -40340,6 +40716,19 @@
             ]
         },
         {
+            "name": "wechat",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "weekend",
             "version": 11,
             "categories": [
@@ -40375,6 +40764,19 @@
                 "maps",
                 "navigation",
                 "west"
+            ]
+        },
+        {
+            "name": "whatsapp",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -40761,6 +41163,32 @@
                 "glass",
                 "liquor",
                 "wine"
+            ]
+        },
+        {
+            "name": "woo_commerce",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
+            "name": "wordpress",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
