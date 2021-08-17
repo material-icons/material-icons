@@ -24,7 +24,6 @@ This repository includes several variations for each icon:
 
 This repository includes only icons in SVG format. Other available formats are in different repositories:
 
-- PNG: [material-icons-png](https://github.com/material-icons/material-icons-png)
 - Font: [material-icons-font](https://github.com/material-icons/material-icons-font)
 
 If you need another format, please open an issue on this repository and specify what format, size and colour you need.
@@ -59,70 +58,46 @@ All icons are 24x24, cleaned up and optimized. If you need a different size, cha
 
 Web font is is available in [material-icons-font](https://github.com/material-icons/material-icons-font) repository.
 
-However, you should avoid using font if you can. Font loads all icons that take a while to load and quite a big stylesheet. Also, fonts render with blurred ugly edges on some operating systems, worst offender is Windows.
+#### Avoid using web font!
 
-Good news, all icons are available as modern JavaScript framework that replaces glyph fonts. See below.
+Icon fonts are easy to use, but they are bad, very bad. They were a good idea many years ago when browsers had poor support for SVG, but in modern world avoid icon fonts like a plague. Why?
 
-### JavaScript framework
+- Icon fonts are ugly. When browser renders icon font glyph, it uses different algorythm than when rendering images. This results in blurry edges, bad alignment, it is especially bad when using Windows.
+- Fonts are for displaying text. If you want to display an image, use image.
+- Icon fonts contain lots of icons you do not use. Why load 5000 icons to display 5? It is a waste of bandwidth for visitors. It causes website to load slower, which also affects SEO.
 
-All icons are available with [Iconify JavaScript framework](https://iconify.design/).
+So what is the alternative? Use SVG!
+
+### Iconify
+
+All icons are available with [Iconify](https://iconify.design/).
 
 #### What is Iconify?
 
-Iconify project makes it easy to add SVG icons to websites and offers over 40,000 icons to choose from.
+Iconify project makes it easy to add SVG icons to websites and offers over 100,000 icons to choose from.
 
-You can use Iconify not only with this icon set, but also [Templarian's Material Design Icons](https://iconify.design/icon-sets/mdi/), [Material Design Light](https://iconify.design/icon-sets/mdi-light/), [FontAwesome 5](https://iconify.design/icon-sets/fa-regular/) and many other icon sets on the same page without loading massive fonts.
+Iconify project uses a new innovative approach to loading icons. Unlike fonts and SVG frameworks, Iconify only loads icons that are used on the current page. That means if you display 20 icons on page, visitor will load data only for those 20 icons, no extra stuff.
 
-How is it achieved? Iconify project uses a new innovative approach to loading icons. Unlike fonts and SVG frameworks, Iconify only loads icons that are used on the current page instead of loading entire fonts. How is it done? By serving icons dynamically from publicly available JSON API (you can make a copy of script and API if you prefer to keep everything on your servers).
+You are no longer limited to this icon set, but can choose various icons from other icon sets that follow Material Design guidelines:
 
-Iconify is designed to be as easy to use as possible. It uses icon placeholder syntax and icons inherit size and colour from the parent element, so they are easy to style with CSS.
+- [Templarian's Material Design Icons](https://icon-sets.iconify.design/mdi/)
+- [Material Design Light](https://https://icon-sets.iconify.design/mdi-light/)
+- [Unicons](https://icon-sets.iconify.design/uil/)
+- [Box Icons](https://icon-sets.iconify.design/bx/)
+- [Remix Icons](https://icon-sets.iconify.design/ri/)
+- [Jam Icons](https://icon-sets.iconify.design/jam/)
+
+and many other icon sets.
 
 #### How to use this icon set with Iconify?
 
-Add this line to your page to load Iconify:
+[Browse this icon set on Iconify website](https://icon-sets.iconify.design/ic/), click any icon (for example, [content-paste](https://icon-sets.iconify.design/ic/baseline-content-paste/)) and scroll down to see code.
 
-```
-<script src="https://code.iconify.design/1/1.0.4/iconify.min.js"></script>
-```
+Iconify offers multiple ways to use icons:
 
-you can add it to `<head>` section of the page or before `</body>`.
-
-To add any icon, write something like this:
-
-```
-<span class="iconify" data-icon="ic:baseline-access-time" data-inline="false"></span>
-```
-
-or this:
-
-```
-<iconify-icon data-icon="ic:twotone-account-circle"></iconify-icon>
-```
-
-There are 2 small differences in icon names when using Iconify: icons have "ic:" prefix and underscores in icon name have been replaced by the dash.
-
-See [how to use Iconify](https://iconify.design/docs/iconify-in-pages/) tutorial and [browse MDI icons list](https://iconify.design/icon-sets/ic/) to get code for each icon.
-
-### React components
-
-No need to reinvent components. See [Iconify for React](https://github.com/iconify/iconify-react).
-
-How to use it:
-
-```
-npm install @iconify/react @iconify/icons-ic
-```
-
-```js
-import { Icon, InlineIcon } from "@iconify/react";
-import face from "@iconify/icons-ic/baseline-face";
-import home from "@iconify/icons-ic/twotone-home";
-```
-
-```jsx
-<Icon icon={home} />
-<p>This is some text with <InlineIcon icon={face} /></p>
-```
+- Copy raw SVG.
+- [SVG Framework](https://docs.iconify.design/icon-components/svg-framework/) - replacement for icon fonts. Very easy to use, but without disadvantages of icon fonts.
+- [Various icon components](https://docs.iconify.design/icon-components/components/) for different frameworks.
 
 ### Linking to SVG
 
