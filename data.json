@@ -2292,6 +2292,13 @@
             ]
         },
         {
+            "name": "adf_scanner",
+            "version": 1,
+            "categories": [
+                "hardware"
+            ]
+        },
+        {
             "name": "adjust",
             "version": 11,
             "unsupported_families": [
@@ -7372,6 +7379,16 @@
             ]
         },
         {
+            "name": "candlestick_chart",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "car_rental",
             "version": 9,
             "categories": [
@@ -10199,10 +10216,33 @@
             ]
         },
         {
+            "name": "data_array",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "data_exploration",
             "version": 2,
             "categories": [
                 "action"
+            ]
+        },
+        {
+            "name": "data_object",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
             ]
         },
         {
@@ -10863,6 +10903,16 @@
                 "numbers",
                 "pad",
                 "phone"
+            ]
+        },
+        {
+            "name": "diamond",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -12739,6 +12789,27 @@
             ]
         },
         {
+            "name": "egg",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "egg_alt",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "round"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "eject",
             "version": 10,
             "categories": [
@@ -14143,6 +14214,13 @@
                 "remember",
                 "save",
                 "shape"
+            ]
+        },
+        {
+            "name": "fax",
+            "version": 1,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -18318,6 +18396,16 @@
             ]
         },
         {
+            "name": "heart_broken",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "height",
             "version": 10,
             "unsupported_families": [
@@ -19716,6 +19804,13 @@
             ]
         },
         {
+            "name": "insert_page_break",
+            "version": 1,
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "insert_photo",
             "version": 11,
             "categories": [
@@ -20010,6 +20105,24 @@
             ]
         },
         {
+            "name": "key",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "communication"
+            ],
+            "tags": [
+                "blackout",
+                "restricted",
+                "secret",
+                "unlock"
+            ]
+        },
+        {
             "name": "keyboard",
             "version": 12,
             "categories": [
@@ -20145,6 +20258,54 @@
                 "capslock",
                 "keyboard",
                 "up"
+            ]
+        },
+        {
+            "name": "keyboard_double_arrow_down",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "hardware"
+            ]
+        },
+        {
+            "name": "keyboard_double_arrow_left",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "hardware"
+            ]
+        },
+        {
+            "name": "keyboard_double_arrow_right",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "hardware"
+            ]
+        },
+        {
+            "name": "keyboard_double_arrow_up",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "hardware"
             ]
         },
         {
@@ -22047,6 +22208,19 @@
             ]
         },
         {
+            "name": "logo_dev",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "image"
+            ]
+        },
+        {
             "name": "logout",
             "version": 11,
             "categories": [
@@ -22419,6 +22593,17 @@
                 "man",
                 "social",
                 "symbol"
+            ]
+        },
+        {
+            "name": "man",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -25615,6 +25800,18 @@
             ]
         },
         {
+            "name": "numbers",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "offline_bolt",
             "version": 16,
             "unsupported_families": [
@@ -27223,6 +27420,17 @@
                 "hand",
                 "paw",
                 "pet"
+            ]
+        },
+        {
+            "name": "phishing",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "twotone"
+            ],
+            "categories": [
+                "device"
             ]
         },
         {
@@ -31056,6 +31264,16 @@
                 "shape",
                 "square",
                 "transform"
+            ]
+        },
+        {
+            "name": "route",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -36961,6 +37179,13 @@
             ]
         },
         {
+            "name": "table_bar",
+            "version": 1,
+            "categories": [
+                "search"
+            ]
+        },
+        {
             "name": "table_chart",
             "version": 11,
             "categories": [
@@ -36980,6 +37205,13 @@
                 "statistics",
                 "table",
                 "tracking"
+            ]
+        },
+        {
+            "name": "table_restaurant",
+            "version": 1,
+            "categories": [
+                "search"
             ]
         },
         {
@@ -41047,6 +41279,18 @@
             ]
         },
         {
+            "name": "wifi_tethering_error",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "wifi_tethering_error_rounded",
             "version": 9,
             "unsupported_families": [
@@ -41163,6 +41407,17 @@
                 "glass",
                 "liquor",
                 "wine"
+            ]
+        },
+        {
+            "name": "woman",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -41398,7 +41653,7 @@
                 "rotate",
                 "search",
                 "see",
-                "youtube"
+                "yt"
             ]
         },
         {
