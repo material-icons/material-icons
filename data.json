@@ -3392,6 +3392,13 @@
             ]
         },
         {
+            "name": "app_shortcut",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "apple",
             "version": 2,
             "unsupported_families": [
@@ -4788,6 +4795,17 @@
                 "croissant",
                 "dining",
                 "food"
+            ]
+        },
+        {
+            "name": "balance",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -8639,6 +8657,16 @@
             ]
         },
         {
+            "name": "cloud_sync",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "file"
+            ]
+        },
+        {
             "name": "cloud_upload",
             "version": 12,
             "unsupported_families": [
@@ -8664,6 +8692,16 @@
                 "storage",
                 "up",
                 "upload"
+            ]
+        },
+        {
+            "name": "co_present",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "communication"
             ]
         },
         {
@@ -8888,6 +8926,18 @@
             "version": 3,
             "categories": [
                 "communication"
+            ]
+        },
+        {
+            "name": "commit",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -9397,6 +9447,19 @@
             ],
             "categories": [
                 "content"
+            ]
+        },
+        {
+            "name": "contrast",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "image"
             ]
         },
         {
@@ -10115,6 +10178,90 @@
             ],
             "categories": [
                 "social"
+            ]
+        },
+        {
+            "name": "currency_franc",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "image"
+            ]
+        },
+        {
+            "name": "currency_lira",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "image"
+            ]
+        },
+        {
+            "name": "currency_pound",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "image"
+            ]
+        },
+        {
+            "name": "currency_ruble",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "image"
+            ]
+        },
+        {
+            "name": "currency_rupee",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "image"
+            ]
+        },
+        {
+            "name": "currency_yen",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "image"
+            ]
+        },
+        {
+            "name": "currency_yuan",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "image"
             ]
         },
         {
@@ -14522,6 +14669,13 @@
             ]
         },
         {
+            "name": "file_open",
+            "version": 1,
+            "categories": [
+                "file"
+            ]
+        },
+        {
             "name": "file_present",
             "version": 10,
             "categories": [
@@ -14886,6 +15040,13 @@
             ]
         },
         {
+            "name": "filter_alt_off",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "filter_b_and_w",
             "version": 13,
             "unsupported_families": [
@@ -15027,6 +15188,18 @@
                 "list",
                 "organize",
                 "sort"
+            ]
+        },
+        {
+            "name": "filter_list_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "content"
             ]
         },
         {
@@ -15290,6 +15463,16 @@
                 "nation",
                 "report",
                 "start"
+            ]
+        },
+        {
+            "name": "flag_circle",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "content"
             ]
         },
         {
@@ -15764,6 +15947,13 @@
             ]
         },
         {
+            "name": "folder_delete",
+            "version": 1,
+            "categories": [
+                "file"
+            ]
+        },
+        {
             "name": "folder_open",
             "version": 13,
             "unsupported_families": [
@@ -15841,6 +16031,13 @@
                 "special",
                 "star",
                 "storage"
+            ]
+        },
+        {
+            "name": "folder_zip",
+            "version": 1,
+            "categories": [
+                "file"
             ]
         },
         {
@@ -18472,6 +18669,16 @@
             ]
         },
         {
+            "name": "hexagon",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "hide_image",
             "version": 10,
             "categories": [
@@ -19999,6 +20206,54 @@
             ]
         },
         {
+            "name": "join_full",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "join_inner",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "join_left",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "join_right",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "kayaking",
             "version": 4,
             "unsupported_families": [
@@ -20202,6 +20457,31 @@
             ]
         },
         {
+            "name": "keyboard_command_key",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "hardware"
+            ]
+        },
+        {
+            "name": "keyboard_control_key",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "hardware"
+            ]
+        },
+        {
             "name": "keyboard_double_arrow_down",
             "version": 2,
             "unsupported_families": [
@@ -20266,6 +20546,18 @@
                 "keyboard",
                 "keypad",
                 "text"
+            ]
+        },
+        {
+            "name": "keyboard_option_key",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "hardware"
             ]
         },
         {
@@ -20459,6 +20751,16 @@
             ]
         },
         {
+            "name": "lan",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "landscape",
             "version": 12,
             "unsupported_families": [
@@ -20644,7 +20946,9 @@
                 "arrow",
                 "box",
                 "components",
+                "core",
                 "interface",
+                "internal",
                 "launch",
                 "new",
                 "open",
@@ -21448,7 +21752,7 @@
         },
         {
             "name": "local_dining",
-            "version": 19,
+            "version": 20,
             "unsupported_families": [
                 "sharp",
                 "outline"
@@ -22066,6 +22370,16 @@
                 "secure",
                 "security",
                 "unlocked"
+            ]
+        },
+        {
+            "name": "lock_reset",
+            "version": 1,
+            "unsupported_families": [
+                "twotone"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -26689,8 +27003,18 @@
             ]
         },
         {
+            "name": "pentagon",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "people",
-            "version": 21,
+            "version": 22,
             "categories": [
                 "social"
             ],
@@ -26758,6 +27082,13 @@
                 "social",
                 "team",
                 "users"
+            ]
+        },
+        {
+            "name": "percent",
+            "version": 1,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -28139,6 +28470,13 @@
             "unsupported_families": [
                 "twotone"
             ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "pinch",
+            "version": 1,
             "categories": [
                 "action"
             ]
@@ -29904,6 +30242,16 @@
             ]
         },
         {
+            "name": "rectangle",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "recycling",
             "version": 3,
             "unsupported_families": [
@@ -31431,6 +31779,13 @@
             ]
         },
         {
+            "name": "satellite_alt",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "save",
             "version": 12,
             "categories": [
@@ -32853,7 +33208,7 @@
         },
         {
             "name": "settings_suggest",
-            "version": 18,
+            "version": 19,
             "unsupported_families": [
                 "sharp"
             ],
@@ -35216,6 +35571,18 @@
             ]
         },
         {
+            "name": "sports_martial_arts",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "sports_mma",
             "version": 11,
             "categories": [
@@ -35377,6 +35744,16 @@
                 "social",
                 "sports",
                 "volleyball"
+            ]
+        },
+        {
+            "name": "square",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "editor"
             ]
         },
         {
@@ -35668,6 +36045,18 @@
                 "shape",
                 "special",
                 "star"
+            ]
+        },
+        {
+            "name": "start",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "hardware"
             ]
         },
         {
@@ -36560,6 +36949,81 @@
             ]
         },
         {
+            "name": "swipe_down",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "swipe_down_alt",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "swipe_left",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "swipe_left_alt",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "swipe_right",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "swipe_right_alt",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "swipe_up",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "swipe_up_alt",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "swipe_vertical",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "switch_access_shortcut",
             "version": 2,
             "unsupported_families": [
@@ -36751,6 +37215,18 @@
                 "slash",
                 "sync",
                 "turn"
+            ]
+        },
+        {
+            "name": "sync_lock",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "notification"
             ]
         },
         {
@@ -37158,7 +37634,7 @@
         },
         {
             "name": "takeout_dining",
-            "version": 14,
+            "version": 15,
             "categories": [
                 "maps"
             ],
@@ -37361,6 +37837,18 @@
             ]
         },
         {
+            "name": "text_decrease",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "text_fields",
             "version": 14,
             "unsupported_families": [
@@ -37407,6 +37895,17 @@
                 "symbol",
                 "text",
                 "type"
+            ]
+        },
+        {
+            "name": "text_increase",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "editor"
             ]
         },
         {
@@ -40404,6 +40903,16 @@
             ]
         },
         {
+            "name": "watch_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "hardware"
+            ]
+        },
+        {
             "name": "water",
             "version": 10,
             "unsupported_families": [
@@ -40971,6 +41480,16 @@
             ]
         },
         {
+            "name": "wifi_find",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "wifi_lock",
             "version": 13,
             "unsupported_families": [
@@ -41476,6 +41995,18 @@
                 "see",
                 "size",
                 "zoom"
+            ]
+        },
+        {
+            "name": "zoom_in_map",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
