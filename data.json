@@ -4193,6 +4193,16 @@
             ]
         },
         {
+            "name": "assured_workload",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "atm",
             "version": 12,
             "categories": [
@@ -5326,7 +5336,17 @@
         },
         {
             "name": "bedtime",
-            "version": 13,
+            "version": 14,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "image"
+            ]
+        },
+        {
+            "name": "bedtime_off",
+            "version": 1,
             "unsupported_families": [
                 "sharp"
             ],
@@ -6208,6 +6228,18 @@
                 "type",
                 "vertical",
                 "writing"
+            ]
+        },
+        {
+            "name": "boy",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -10194,6 +10226,18 @@
             ]
         },
         {
+            "name": "currency_exchange",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "currency_franc",
             "version": 1,
             "unsupported_families": [
@@ -10500,6 +10544,17 @@
                 "time",
                 "today",
                 "week"
+            ]
+        },
+        {
+            "name": "deblur",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "round"
+            ],
+            "categories": [
+                "image"
             ]
         },
         {
@@ -11898,6 +11953,17 @@
             ]
         },
         {
+            "name": "domain_add",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "domain_disabled",
             "version": 12,
             "categories": [
@@ -12992,6 +13058,18 @@
                 "people",
                 "person",
                 "senior"
+            ]
+        },
+        {
+            "name": "elderly_woman",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -16634,6 +16712,18 @@
             ]
         },
         {
+            "name": "format_overline",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "file"
+            ]
+        },
+        {
             "name": "format_paint",
             "version": 12,
             "categories": [
@@ -17344,6 +17434,18 @@
             "version": 3,
             "categories": [
                 "action"
+            ]
+        },
+        {
+            "name": "girl",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -20061,6 +20163,23 @@
                 "stars",
                 "statistics",
                 "tracking"
+            ]
+        },
+        {
+            "name": "install_desktop",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "install_mobile",
+            "version": 1,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -24552,6 +24671,17 @@
             ]
         },
         {
+            "name": "move_down",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "move_to_inbox",
             "version": 15,
             "categories": [
@@ -24570,6 +24700,17 @@
                 "message",
                 "move to",
                 "send"
+            ]
+        },
+        {
+            "name": "move_up",
+            "version": 2,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "editor"
             ]
         },
         {
@@ -32027,6 +32168,13 @@
             ]
         },
         {
+            "name": "save_as",
+            "version": 2,
+            "categories": [
+                "content"
+            ]
+        },
+        {
             "name": "saved_search",
             "version": 11,
             "categories": [
@@ -32072,6 +32220,16 @@
                 "piggy",
                 "savings",
                 "symbol"
+            ]
+        },
+        {
+            "name": "scale",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -35992,6 +36150,18 @@
             ]
         },
         {
+            "name": "ssid_chart",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "stacked_bar_chart",
             "version": 11,
             "categories": [
@@ -38630,10 +38800,7 @@
         },
         {
             "name": "timer",
-            "version": 12,
-            "unsupported_families": [
-                "sharp"
-            ],
+            "version": 13,
             "categories": [
                 "image"
             ],
@@ -38745,7 +38912,10 @@
         },
         {
             "name": "timer_off",
-            "version": 12,
+            "version": 13,
+            "unsupported_families": [
+                "sharp"
+            ],
             "categories": [
                 "image"
             ],
@@ -40453,6 +40623,13 @@
             ]
         },
         {
+            "name": "view_comfy_alt",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "view_compact",
             "version": 12,
             "unsupported_families": [
@@ -40468,6 +40645,20 @@
                 "pattern",
                 "squares",
                 "view"
+            ]
+        },
+        {
+            "name": "view_compact_alt",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "view_cozy",
+            "version": 1,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -41692,6 +41883,17 @@
             ]
         },
         {
+            "name": "wifi_channel",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "wifi_find",
             "version": 1,
             "unsupported_families": [
@@ -41755,6 +41957,13 @@
                 "slash",
                 "wifi",
                 "wireless"
+            ]
+        },
+        {
+            "name": "wifi_password",
+            "version": 1,
+            "categories": [
+                "device"
             ]
         },
         {
