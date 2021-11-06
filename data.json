@@ -80,6 +80,17 @@
             ]
         },
         {
+            "name": "123",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "12mp",
             "version": 10,
             "categories": [
@@ -1440,6 +1451,17 @@
             ]
         },
         {
+            "name": "abc",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "ac_unit",
             "version": 12,
             "categories": [
@@ -1861,6 +1883,17 @@
                 "shopping",
                 "store",
                 "storefront"
+            ]
+        },
+        {
+            "name": "add_card",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -4354,6 +4387,13 @@
                 "human",
                 "people",
                 "person"
+            ]
+        },
+        {
+            "name": "audio_file",
+            "version": 1,
+            "categories": [
+                "av"
             ]
         },
         {
@@ -10213,6 +10253,17 @@
             ]
         },
         {
+            "name": "css",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "currency_exchange",
             "version": 1,
             "unsupported_families": [
@@ -11102,6 +11153,13 @@
             ],
             "categories": [
                 "maps"
+            ]
+        },
+        {
+            "name": "difference",
+            "version": 1,
+            "categories": [
+                "file"
             ]
         },
         {
@@ -13755,6 +13813,13 @@
             ]
         },
         {
+            "name": "event_repeat",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "event_seat",
             "version": 18,
             "categories": [
@@ -16026,6 +16091,13 @@
         },
         {
             "name": "folder_delete",
+            "version": 1,
+            "categories": [
+                "file"
+            ]
+        },
+        {
+            "name": "folder_off",
             "version": 1,
             "categories": [
                 "file"
@@ -19032,6 +19104,28 @@
             ]
         },
         {
+            "name": "hls",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "hls_off",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "holiday_village",
             "version": 4,
             "unsupported_families": [
@@ -19537,6 +19631,17 @@
                 "poll",
                 "to",
                 "vote"
+            ]
+        },
+        {
+            "name": "html",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -20325,6 +20430,17 @@
             ]
         },
         {
+            "name": "javascript",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "join_full",
             "version": 1,
             "unsupported_families": [
@@ -20435,6 +20551,16 @@
                 "restricted",
                 "secret",
                 "unlock"
+            ]
+        },
+        {
+            "name": "key_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "communication"
             ]
         },
         {
@@ -25190,6 +25316,17 @@
             ]
         },
         {
+            "name": "newspaper",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "file"
+            ]
+        },
+        {
             "name": "next_plan",
             "version": 15,
             "unsupported_families": [
@@ -28401,6 +28538,17 @@
             ]
         },
         {
+            "name": "php",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "piano",
             "version": 4,
             "unsupported_families": [
@@ -28934,6 +29082,18 @@
                 "music",
                 "play",
                 "playlist"
+            ]
+        },
+        {
+            "name": "playlist_remove",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "av"
             ]
         },
         {
@@ -29861,6 +30021,18 @@
                 "question",
                 "speech",
                 "talk"
+            ]
+        },
+        {
+            "name": "question_mark",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -33660,6 +33832,17 @@
             ]
         },
         {
+            "name": "shopping_cart_checkout",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "short_text",
             "version": 15,
             "unsupported_families": [
@@ -34430,6 +34613,16 @@
                 "statusbar",
                 "wifi",
                 "wireless"
+            ]
+        },
+        {
+            "name": "signpost",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -35994,6 +36187,16 @@
                 "stacked",
                 "statistics",
                 "tracking"
+            ]
+        },
+        {
+            "name": "stadium",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -37988,6 +38191,16 @@
             ],
             "categories": [
                 "maps"
+            ]
+        },
+        {
+            "name": "terminal",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -40152,6 +40365,13 @@
             ]
         },
         {
+            "name": "video_file",
+            "version": 1,
+            "categories": [
+                "av"
+            ]
+        },
+        {
             "name": "video_label",
             "version": 11,
             "unsupported_families": [
@@ -40511,6 +40731,13 @@
             ]
         },
         {
+            "name": "view_kanban",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "view_list",
             "version": 14,
             "unsupported_families": [
@@ -40614,6 +40841,13 @@
                 "stream",
                 "view",
                 "website"
+            ]
+        },
+        {
+            "name": "view_timeline",
+            "version": 1,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -40919,6 +41153,16 @@
                 "password",
                 "unlock",
                 "vpn"
+            ]
+        },
+        {
+            "name": "vpn_key_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "communication"
             ]
         },
         {
@@ -41443,6 +41687,18 @@
                 "website",
                 "windows",
                 "www"
+            ]
+        },
+        {
+            "name": "webhook",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
