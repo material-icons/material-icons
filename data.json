@@ -7823,6 +7823,18 @@
             ]
         },
         {
+            "name": "cell_tower",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "communication"
+            ]
+        },
+        {
             "name": "cell_wifi",
             "version": 14,
             "categories": [
@@ -10552,6 +10564,13 @@
             ]
         },
         {
+            "name": "data_thresholding",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "data_usage",
             "version": 12,
             "unsupported_families": [
@@ -10737,6 +10756,42 @@
             ]
         },
         {
+            "name": "density_large",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "density_medium",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "density_small",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "departure_board",
             "version": 11,
             "categories": [
@@ -10782,6 +10837,17 @@
                 "slide",
                 "text",
                 "writing"
+            ]
+        },
+        {
+            "name": "deselect",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "content"
             ]
         },
         {
@@ -11671,6 +11737,16 @@
             ],
             "categories": [
                 "social"
+            ]
+        },
+        {
+            "name": "display_settings",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -14378,6 +14454,16 @@
             ]
         },
         {
+            "name": "factory",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "family_restroom",
             "version": 9,
             "unsupported_families": [
@@ -16325,6 +16411,30 @@
             "version": 2,
             "unsupported_families": [
                 "sharp"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "fork_left",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "fork_right",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
             ],
             "categories": [
                 "maps"
@@ -23397,6 +23507,13 @@
             ]
         },
         {
+            "name": "mark_unread_chat_alt",
+            "version": 1,
+            "categories": [
+                "communication"
+            ]
+        },
+        {
             "name": "markunread",
             "version": 12,
             "categories": [
@@ -23720,6 +23837,18 @@
                 "ux",
                 "web",
                 "website"
+            ]
+        },
+        {
+            "name": "merge",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -26888,6 +27017,13 @@
             ]
         },
         {
+            "name": "pan_tool_alt",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "panorama",
             "version": 16,
             "categories": [
@@ -29422,6 +29558,16 @@
             ]
         },
         {
+            "name": "polyline",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "editor"
+            ]
+        },
+        {
             "name": "polymer",
             "version": 12,
             "categories": [
@@ -30535,6 +30681,30 @@
                 "noodles",
                 "ramen",
                 "restaurant"
+            ]
+        },
+        {
+            "name": "ramp_left",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "ramp_right",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -31741,6 +31911,13 @@
             ]
         },
         {
+            "name": "rocket_launch",
+            "version": 1,
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "roofing",
             "version": 6,
             "unsupported_families": [
@@ -31904,6 +32081,28 @@
                 "right",
                 "rotate",
                 "turn"
+            ]
+        },
+        {
+            "name": "roundabout_left",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "roundabout_right",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -36936,6 +37135,18 @@
             ]
         },
         {
+            "name": "straight",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "straighten",
             "version": 12,
             "unsupported_families": [
@@ -39829,6 +40040,72 @@
             ]
         },
         {
+            "name": "turn_left",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "turn_right",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "turn_sharp_left",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "turn_sharp_right",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "turn_slight_left",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "turn_slight_right",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "turned_in",
             "version": 11,
             "unsupported_families": [
@@ -39953,6 +40230,30 @@
                 "travel",
                 "twom wheeler",
                 "vehicle"
+            ]
+        },
+        {
+            "name": "u_turn_left",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "u_turn_right",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -41440,6 +41741,16 @@
                 "photography",
                 "picture",
                 "wallpaper"
+            ]
+        },
+        {
+            "name": "warehouse",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
