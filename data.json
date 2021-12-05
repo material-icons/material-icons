@@ -6572,6 +6572,16 @@
             ]
         },
         {
+            "name": "browse_gallery",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "browser_not_supported",
             "version": 12,
             "unsupported_families": [
@@ -6947,6 +6957,16 @@
                 "count",
                 "finance calculator",
                 "math"
+            ]
+        },
+        {
+            "name": "calendar_month",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -10289,6 +10309,18 @@
             ]
         },
         {
+            "name": "currency_bitcoin",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "image"
+            ]
+        },
+        {
             "name": "currency_exchange",
             "version": 1,
             "unsupported_families": [
@@ -11737,6 +11769,16 @@
             ],
             "categories": [
                 "social"
+            ]
+        },
+        {
+            "name": "discount",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "device"
             ]
         },
         {
@@ -16211,6 +16253,13 @@
             ]
         },
         {
+            "name": "folder_copy",
+            "version": 1,
+            "categories": [
+                "file"
+            ]
+        },
+        {
             "name": "folder_delete",
             "version": 1,
             "categories": [
@@ -18331,6 +18380,16 @@
                 "stop",
                 "taxi",
                 "transportation"
+            ]
+        },
+        {
+            "name": "handshake",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -25509,6 +25568,18 @@
             ]
         },
         {
+            "name": "network_ping",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "network_wifi",
             "version": 16,
             "categories": [
@@ -26910,6 +26981,17 @@
                 "outlined",
                 "report",
                 "start"
+            ]
+        },
+        {
+            "name": "output",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -31918,6 +32000,13 @@
             ]
         },
         {
+            "name": "roller_skating",
+            "version": 1,
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "roofing",
             "version": 6,
             "unsupported_families": [
@@ -32776,6 +32865,13 @@
             ]
         },
         {
+            "name": "scoreboard",
+            "version": 1,
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "screen_lock_landscape",
             "version": 16,
             "categories": [
@@ -32933,6 +33029,18 @@
                 "screen",
                 "screenshot",
                 "tablet"
+            ]
+        },
+        {
+            "name": "scuba_diving",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -36256,6 +36364,18 @@
             ]
         },
         {
+            "name": "sports_gymnastics",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "sports_handball",
             "version": 11,
             "unsupported_families": [
@@ -39379,6 +39499,13 @@
             ]
         },
         {
+            "name": "tire_repair",
+            "version": 1,
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "title",
             "version": 11,
             "categories": [
@@ -40595,6 +40722,28 @@
             "version": 2,
             "categories": [
                 "social"
+            ]
+        },
+        {
+            "name": "vape_free",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "places"
+            ]
+        },
+        {
+            "name": "vaping_rooms",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "places"
             ]
         },
         {
