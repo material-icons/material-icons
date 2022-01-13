@@ -4983,10 +4983,50 @@
             ]
         },
         {
+            "name": "battery_0_bar",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
+            "name": "battery_1_bar",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
+            "name": "battery_2_bar",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "battery_20",
             "unsupported_families": [
                 "outline",
                 "twotone"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
+            "name": "battery_3_bar",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
             ],
             "categories": [
                 "device"
@@ -5003,10 +5043,40 @@
             ]
         },
         {
+            "name": "battery_4_bar",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
+            "name": "battery_5_bar",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "battery_50",
             "unsupported_families": [
                 "outline",
                 "twotone"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
+            "name": "battery_6_bar",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
             ],
             "categories": [
                 "device"
@@ -7486,6 +7556,13 @@
             ]
         },
         {
+            "name": "car_crash",
+            "version": 1,
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "car_rental",
             "version": 10,
             "categories": [
@@ -9930,6 +10007,18 @@
             ]
         },
         {
+            "name": "crisis_alert",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "crop",
             "version": 12,
             "unsupported_families": [
@@ -10401,6 +10490,17 @@
             ],
             "categories": [
                 "image"
+            ]
+        },
+        {
+            "name": "cyclone",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -11153,6 +11253,16 @@
                 "watch",
                 "wearable",
                 "web"
+            ]
+        },
+        {
+            "name": "devices_fold",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "device"
             ]
         },
         {
@@ -13374,6 +13484,23 @@
         {
             "name": "emergency",
             "version": 5,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "emergency_recording",
+            "version": 1,
+            "categories": [
+                "maps"
+            ]
+        },
+        {
+            "name": "emergency_share",
+            "version": 1,
             "unsupported_families": [
                 "sharp"
             ],
@@ -16109,6 +16236,16 @@
                 "order",
                 "sort",
                 "to"
+            ]
+        },
+        {
+            "name": "flood",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -21195,6 +21332,16 @@
             ]
         },
         {
+            "name": "landslide",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "language",
             "version": 12,
             "categories": [
@@ -21717,6 +21864,16 @@
                 "lightbulb",
                 "mode",
                 "on"
+            ]
+        },
+        {
+            "name": "lightbulb_circle",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -23249,6 +23406,18 @@
             ]
         },
         {
+            "name": "manage_history",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "manage_search",
             "version": 10,
             "unsupported_families": [
@@ -23625,6 +23794,13 @@
                 "negotiation",
                 "party",
                 "structure"
+            ]
+        },
+        {
+            "name": "medical_information",
+            "version": 1,
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -24008,6 +24184,13 @@
                 "ux",
                 "web",
                 "website"
+            ]
+        },
+        {
+            "name": "minor_crash",
+            "version": 1,
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -25480,6 +25663,40 @@
             ]
         },
         {
+            "name": "network_wifi_1_bar",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
+            "name": "network_wifi_2_bar",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
+            "name": "network_wifi_3_bar",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
             "name": "new_label",
             "version": 3,
             "categories": [
@@ -25767,6 +25984,13 @@
             ]
         },
         {
+            "name": "no_crash",
+            "version": 1,
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "no_drinks",
             "version": 8,
             "categories": [
@@ -26036,6 +26260,31 @@
                 "transfer",
                 "transportation",
                 "vehicle"
+            ]
+        },
+        {
+            "name": "noise_aware",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "noise_control_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
@@ -26542,6 +26791,13 @@
                 "right",
                 "share",
                 "tablet"
+            ]
+        },
+        {
+            "name": "on_device_training",
+            "version": 1,
+            "categories": [
+                "action"
             ]
         },
         {
@@ -31134,6 +31390,18 @@
             ]
         },
         {
+            "name": "remove_road",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "remove_shopping_cart",
             "version": 12,
             "categories": [
@@ -32290,6 +32558,16 @@
             ]
         },
         {
+            "name": "safety_check",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "safety_divider",
             "version": 7,
             "unsupported_families": [
@@ -32754,6 +33032,17 @@
                 "screen",
                 "tablet",
                 "turn"
+            ]
+        },
+        {
+            "name": "screen_rotation_alt",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
             ]
         },
         {
@@ -33908,6 +34197,18 @@
             ]
         },
         {
+            "name": "severe_cold",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "share",
             "version": 18,
             "categories": [
@@ -34341,6 +34642,13 @@
             ]
         },
         {
+            "name": "sign_language",
+            "version": 1,
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "signal_cellular_0_bar",
             "version": 15,
             "categories": [
@@ -34430,6 +34738,30 @@
                 "tracking",
                 "wifi",
                 "wireless"
+            ]
+        },
+        {
+            "name": "signal_cellular_alt_1_bar",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
+            "name": "signal_cellular_alt_2_bar",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "device"
             ]
         },
         {
@@ -35614,6 +35946,17 @@
             ]
         },
         {
+            "name": "sos",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "maps"
+            ]
+        },
+        {
             "name": "soup_kitchen",
             "version": 2,
             "categories": [
@@ -35759,6 +36102,36 @@
         {
             "name": "space_dashboard",
             "version": 3,
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "spatial_audio",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "spatial_audio_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "spatial_tracking",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
             "categories": [
                 "action"
             ]
@@ -39059,6 +39432,16 @@
             ]
         },
         {
+            "name": "thunderstorm",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "tiktok",
             "version": 2,
             "unsupported_families": [
@@ -39897,6 +40280,16 @@
                 "speech",
                 "star",
                 "try"
+            ]
+        },
+        {
+            "name": "tsunami",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -41485,6 +41878,16 @@
             ]
         },
         {
+            "name": "volcano",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "volume_down",
             "version": 13,
             "unsupported_families": [
@@ -42346,6 +42749,30 @@
                 "signal",
                 "wifi",
                 "wireless"
+            ]
+        },
+        {
+            "name": "wifi_1_bar",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "device"
+            ]
+        },
+        {
+            "name": "wifi_2_bar",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "device"
             ]
         },
         {
