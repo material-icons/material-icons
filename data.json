@@ -88,6 +88,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "1",
+                "2",
+                "3",
+                "digit",
+                "number",
+                "symbol"
             ]
         },
         {
@@ -1459,6 +1467,15 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alphabet",
+                "character",
+                "font",
+                "letter",
+                "symbol",
+                "text",
+                "type"
             ]
         },
         {
@@ -1561,6 +1578,7 @@
                 "handicap",
                 "help",
                 "human",
+                "new",
                 "people",
                 "person"
             ]
@@ -1788,8 +1806,6 @@
             "tags": [
                 "+",
                 "add",
-                "create",
-                "new",
                 "new symbol",
                 "plus",
                 "symbol"
@@ -1827,7 +1843,7 @@
         },
         {
             "name": "add_alert",
-            "version": 15,
+            "version": 16,
             "categories": [
                 "alert"
             ],
@@ -1875,14 +1891,29 @@
             "tags": [
                 "+",
                 "add",
+                "bill",
+                "building",
                 "business",
+                "card",
+                "cash",
+                "coin",
+                "commerce",
+                "company",
+                "credit",
+                "currency",
+                "dollars",
                 "market",
+                "money",
+                "new",
+                "online",
+                "pay",
+                "payment",
                 "plus",
-                "retail",
                 "shop",
                 "shopping",
                 "store",
-                "storefront"
+                "storefront",
+                "symbol"
             ]
         },
         {
@@ -1894,6 +1925,29 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "+",
+                "add",
+                "bill",
+                "card",
+                "cash",
+                "coin",
+                "commerce",
+                "cost",
+                "credit",
+                "currency",
+                "dollars",
+                "finance",
+                "money",
+                "new",
+                "online",
+                "pay",
+                "payment",
+                "plus",
+                "price",
+                "shopping",
+                "symbol"
             ]
         },
         {
@@ -1996,7 +2050,6 @@
                 "contact",
                 "device",
                 "hardware",
-                "ic",
                 "mobile",
                 "new",
                 "phone",
@@ -2209,19 +2262,13 @@
                 "action"
             ],
             "tags": [
-                "+",
                 "add",
-                "app",
                 "backup",
-                "cloud",
+                "data",
                 "drive",
-                "files",
-                "folders",
-                "gdrive",
                 "google",
-                "plus",
-                "storage",
-                "to"
+                "recovery",
+                "storage"
             ]
         },
         {
@@ -2308,7 +2355,8 @@
                 "action"
             ],
             "tags": [
-                "add",
+                "+",
+                "addchart",
                 "analytics",
                 "bar",
                 "bars",
@@ -2319,8 +2367,10 @@
                 "infographic",
                 "measure",
                 "metrics",
+                "new",
                 "plus",
                 "statistics",
+                "symbol",
                 "tracking"
             ]
         },
@@ -2329,6 +2379,15 @@
             "version": 2,
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "adf",
+                "document",
+                "feeder",
+                "machine",
+                "office",
+                "scan",
+                "scanner"
             ]
         },
         {
@@ -2348,20 +2407,11 @@
                 "center",
                 "circle",
                 "circles",
-                "control",
                 "dot",
-                "edit",
-                "filter",
                 "fix",
                 "image",
-                "mix",
                 "move",
-                "setting",
-                "slider",
-                "sort",
-                "switch",
-                "target",
-                "tune"
+                "target"
             ]
         },
         {
@@ -2418,6 +2468,17 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "ads",
+                "browser",
+                "click",
+                "clicks",
+                "cursor",
+                "internet",
+                "target",
+                "traffic",
+                "web"
             ]
         },
         {
@@ -2667,6 +2728,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "airline",
+                "arrow",
+                "destination",
+                "direction",
+                "layover",
+                "location",
+                "maps",
+                "place",
+                "stops",
+                "transportation",
+                "travel",
+                "trip"
             ]
         },
         {
@@ -2677,6 +2752,16 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "airlines",
+                "airplane",
+                "airport",
+                "flight",
+                "plane",
+                "transportation",
+                "travel",
+                "trip"
             ]
         },
         {
@@ -2761,9 +2846,7 @@
             ],
             "tags": [
                 "airplay",
-                "apple",
                 "arrow",
-                "cast",
                 "connect",
                 "control",
                 "desktop",
@@ -2771,8 +2854,7 @@
                 "display",
                 "monitor",
                 "screen",
-                "signal",
-                "tv"
+                "signal"
             ]
         },
         {
@@ -2912,8 +2994,7 @@
                 "record",
                 "sound",
                 "storage",
-                "track",
-                "vinyl"
+                "track"
             ]
         },
         {
@@ -3256,9 +3337,10 @@
             "tags": [
                 "animation",
                 "circles",
+                "film",
                 "motion",
-                "movie",
-                "moving",
+                "movement",
+                "sequence",
                 "video"
             ]
         },
@@ -3374,7 +3456,9 @@
                 "Android",
                 "OS",
                 "app",
-                "applications",
+                "application",
+                "block",
+                "blocking",
                 "cancel",
                 "cell",
                 "device",
@@ -3383,6 +3467,7 @@
                 "mobile",
                 "phone",
                 "stop",
+                "stopped",
                 "tablet"
             ]
         },
@@ -3429,6 +3514,21 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "app",
+                "bookmarked",
+                "favorite",
+                "highlight",
+                "important",
+                "marked",
+                "mobile",
+                "save",
+                "saved",
+                "shortcut",
+                "software",
+                "special",
+                "star"
             ]
         },
         {
@@ -3488,9 +3588,13 @@
                 "apps",
                 "circles",
                 "collection",
+                "components",
                 "dots",
                 "grid",
-                "squares"
+                "interface",
+                "squares",
+                "ui",
+                "ux"
             ]
         },
         {
@@ -3503,6 +3607,21 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "all",
+                "applications",
+                "apps",
+                "circles",
+                "collection",
+                "components",
+                "dots",
+                "grid",
+                "interface",
+                "outage",
+                "squares",
+                "ui",
+                "ux"
             ]
         },
         {
@@ -3549,6 +3668,19 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "analytics",
+                "area",
+                "chart",
+                "data",
+                "diagram",
+                "graph",
+                "infographic",
+                "measure",
+                "metrics",
+                "statistics",
+                "tracking"
             ]
         },
         {
@@ -3871,15 +4003,11 @@
                 "app",
                 "application",
                 "arrow",
-                "back",
-                "backstack",
-                "backward",
                 "components",
                 "direction",
                 "interface",
                 "left",
                 "navigation",
-                "previous",
                 "screen",
                 "site",
                 "ui",
@@ -3904,9 +4032,7 @@
                 "application",
                 "arrow",
                 "components",
-                "continue",
                 "direction",
-                "forward",
                 "interface",
                 "navigation",
                 "right",
@@ -3996,11 +4122,9 @@
             ],
             "tags": [
                 "article",
-                "clarify",
                 "doc",
                 "document",
                 "file",
-                "news",
                 "page",
                 "paper",
                 "text",
@@ -4233,6 +4357,16 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "assured",
+                "compliance",
+                "confidential",
+                "federal",
+                "government",
+                "secure",
+                "sensitive regulatory",
+                "workload"
             ]
         },
         {
@@ -4394,6 +4528,16 @@
             "version": 1,
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "audio",
+                "doc",
+                "document",
+                "key",
+                "music",
+                "note",
+                "sound",
+                "track"
             ]
         },
         {
@@ -4422,16 +4566,12 @@
                 "image"
             ],
             "tags": [
+                "adjust",
                 "auto",
                 "awesome",
                 "edit",
                 "editing",
                 "enhance",
-                "filter",
-                "image",
-                "photography",
-                "photos",
-                "setting",
                 "stars"
             ]
         },
@@ -4445,20 +4585,16 @@
                 "image"
             ],
             "tags": [
+                "adjust",
                 "auto",
                 "awesome",
+                "collage",
                 "edit",
                 "editing",
-                "filter",
-                "grid",
+                "enhance",
                 "image",
-                "layout",
                 "mosaic",
-                "photographs",
-                "photography",
-                "photos",
-                "pictures",
-                "setting"
+                "photo"
             ]
         },
         {
@@ -4468,20 +4604,16 @@
                 "image"
             ],
             "tags": [
-                "animation",
+                "adjust",
                 "auto",
                 "awesome",
+                "collage",
                 "edit",
                 "editing",
-                "filter",
+                "enhance",
                 "image",
-                "live",
                 "motion",
-                "photographs",
-                "photography",
-                "photos",
-                "pictures",
-                "setting",
+                "photo",
                 "video"
             ]
         },
@@ -4512,16 +4644,16 @@
                 "image"
             ],
             "tags": [
+                "adjust",
                 "auto",
                 "edit",
-                "erase",
+                "editing",
+                "enhance",
                 "fix",
                 "high",
-                "magic",
-                "modify",
-                "star",
+                "pen",
                 "stars",
-                "wand"
+                "tool"
             ]
         },
         {
@@ -4594,19 +4726,45 @@
             ]
         },
         {
+            "name": "auto_mode",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "around",
+                "arrow",
+                "arrows",
+                "auto",
+                "direction",
+                "inprogress",
+                "load",
+                "loading refresh",
+                "mode",
+                "navigation",
+                "nest",
+                "renew",
+                "rotate",
+                "turn"
+            ]
+        },
+        {
             "name": "auto_stories",
             "version": 13,
             "categories": [
                 "image"
             ],
             "tags": [
-                "audiobook",
                 "auto",
                 "book",
-                "page",
-                "reading",
-                "stories",
-                "story"
+                "flipping",
+                "pages",
+                "stories"
             ]
         },
         {
@@ -4727,6 +4885,13 @@
             "version": 3,
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "back",
+                "fingers",
+                "gesture",
+                "hand",
+                "raised"
             ]
         },
         {
@@ -4856,6 +5021,17 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "balance",
+                "equal",
+                "equity",
+                "impartiality",
+                "justice",
+                "parity",
+                "stability. equilibrium",
+                "steadiness",
+                "symmetry"
             ]
         },
         {
@@ -4895,7 +5071,7 @@
             ],
             "tags": [
                 "ballot",
-                "bulllet",
+                "bullet",
                 "election",
                 "list",
                 "point",
@@ -5439,6 +5615,11 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "bedtime",
+                "nightime",
+                "sleep"
             ]
         },
         {
@@ -5449,6 +5630,12 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "bedtime",
+                "nightime",
+                "off",
+                "sleep"
             ]
         },
         {
@@ -5556,6 +5743,27 @@
                 "kitchen",
                 "machine",
                 "vitamix"
+            ]
+        },
+        {
+            "name": "blinds_closed",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "blinds",
+                "closed",
+                "cover",
+                "curtains",
+                "nest",
+                "shade",
+                "shutter",
+                "sunshade"
             ]
         },
         {
@@ -5908,7 +6116,6 @@
                 "archive",
                 "bookmark",
                 "favorite",
-                "follow",
                 "label",
                 "library",
                 "read",
@@ -6337,6 +6544,18 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "body",
+                "boy",
+                "gender",
+                "human",
+                "male",
+                "man",
+                "people",
+                "person",
+                "social",
+                "symbol"
             ]
         },
         {
@@ -6398,7 +6617,7 @@
                 "brightness",
                 "circle",
                 "control",
-                "cresent",
+                "crescent",
                 "level",
                 "moon",
                 "screen"
@@ -6418,7 +6637,7 @@
                 "brightness",
                 "circle",
                 "control",
-                "cresent",
+                "crescent",
                 "level",
                 "moon",
                 "screen"
@@ -6435,7 +6654,7 @@
                 "brightness",
                 "circle",
                 "control",
-                "cresent",
+                "crescent",
                 "level",
                 "moon",
                 "screen"
@@ -6455,7 +6674,7 @@
                 "brightness",
                 "circle",
                 "control",
-                "cresent",
+                "crescent",
                 "level",
                 "moon",
                 "screen",
@@ -6476,7 +6695,7 @@
                 "brightness",
                 "circle",
                 "control",
-                "cresent",
+                "crescent",
                 "level",
                 "moon",
                 "screen",
@@ -6497,7 +6716,7 @@
                 "brightness",
                 "circle",
                 "control",
-                "cresent",
+                "crescent",
                 "level",
                 "moon",
                 "screen",
@@ -6518,7 +6737,7 @@
                 "brightness",
                 "circle",
                 "control",
-                "cresent",
+                "crescent",
                 "level",
                 "moon",
                 "screen",
@@ -6674,6 +6893,25 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "Android",
+                "OS",
+                "arrow",
+                "browser",
+                "chrome",
+                "desktop",
+                "device",
+                "display",
+                "download",
+                "hardware",
+                "iOS",
+                "mac",
+                "monitor",
+                "screen",
+                "updated",
+                "web",
+                "window"
             ]
         },
         {
@@ -6685,7 +6923,7 @@
             "tags": [
                 "breakfast",
                 "brunch",
-                "champaign",
+                "champagne",
                 "dining",
                 "drink",
                 "food",
@@ -7280,15 +7518,12 @@
                 "image"
             ],
             "tags": [
-                "album",
                 "aperture",
                 "camera",
                 "lens",
                 "photo",
                 "photography",
                 "picture",
-                "record",
-                "screenshot",
                 "shutter"
             ]
         },
@@ -7553,6 +7788,20 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "analytics",
+                "candlestick",
+                "chart",
+                "data",
+                "diagram",
+                "finance",
+                "graph",
+                "infographic",
+                "measure",
+                "metrics",
+                "statistics",
+                "tracking"
             ]
         },
         {
@@ -7645,7 +7894,7 @@
                 "credit",
                 "currency",
                 "dollars",
-                "inance",
+                "finance",
                 "loyalty",
                 "membership",
                 "money",
@@ -7675,7 +7924,7 @@
                 "credit",
                 "currency",
                 "dollars",
-                "inance",
+                "finance",
                 "membership",
                 "miles",
                 "money",
@@ -7789,6 +8038,7 @@
                 "cast",
                 "chrome",
                 "connect",
+                "connected",
                 "desktop",
                 "device",
                 "display",
@@ -7916,6 +8166,16 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "broadcast",
+                "casting",
+                "cell",
+                "network",
+                "signal",
+                "tower",
+                "transmitting",
+                "wireless"
             ]
         },
         {
@@ -8168,7 +8428,6 @@
             ],
             "tags": [
                 "check",
-                "complete",
                 "confirm",
                 "correct",
                 "done",
@@ -8176,9 +8435,7 @@
                 "mark",
                 "ok",
                 "okay",
-                "purchased",
                 "select",
-                "success",
                 "tick",
                 "yes"
             ]
@@ -8252,13 +8509,10 @@
                 "circle",
                 "complete",
                 "done",
-                "download",
                 "mark",
                 "ok",
                 "select",
-                "success",
                 "tick",
-                "upload",
                 "validate",
                 "verified",
                 "yes"
@@ -8297,6 +8551,34 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "align",
+                "alignment",
+                "approve",
+                "check",
+                "checklist",
+                "complete",
+                "doc",
+                "done",
+                "edit",
+                "editing",
+                "editor",
+                "format",
+                "list",
+                "mark",
+                "notes",
+                "ok",
+                "select",
+                "sheet",
+                "spreadsheet",
+                "text",
+                "tick",
+                "type",
+                "validate",
+                "verified",
+                "writing",
+                "yes"
             ]
         },
         {
@@ -8309,6 +8591,35 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "align",
+                "alignment",
+                "approve",
+                "check",
+                "checklist",
+                "complete",
+                "doc",
+                "done",
+                "edit",
+                "editing",
+                "editor",
+                "format",
+                "list",
+                "mark",
+                "notes",
+                "ok",
+                "rtl",
+                "select",
+                "sheet",
+                "spreadsheet",
+                "text",
+                "tick",
+                "type",
+                "validate",
+                "verified",
+                "writing",
+                "yes"
             ]
         },
         {
@@ -8338,11 +8649,9 @@
             "tags": [
                 "arrow",
                 "arrows",
-                "back",
                 "chevron",
                 "direction",
-                "left",
-                "triangle"
+                "left"
             ]
         },
         {
@@ -8356,9 +8665,7 @@
                 "arrows",
                 "chevron",
                 "direction",
-                "forward",
-                "right",
-                "triangle"
+                "right"
             ]
         },
         {
@@ -8437,12 +8744,10 @@
                 "image"
             ],
             "tags": [
-                "button",
                 "circle",
                 "full",
                 "geometry",
-                "moon",
-                "radio"
+                "moon"
             ]
         },
         {
@@ -8845,6 +9150,28 @@
             ],
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "app",
+                "application",
+                "around",
+                "backup",
+                "cloud",
+                "connection",
+                "drive",
+                "files",
+                "folders",
+                "inprogress",
+                "internet",
+                "load",
+                "loading refresh",
+                "network",
+                "renew",
+                "rotate",
+                "sky",
+                "storage",
+                "turn",
+                "upload"
             ]
         },
         {
@@ -8883,6 +9210,18 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "arrow",
+                "co-present",
+                "presentation",
+                "screen",
+                "share",
+                "site",
+                "slides",
+                "togather",
+                "web",
+                "website"
             ]
         },
         {
@@ -8894,6 +9233,12 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "carbon",
+                "co2",
+                "dioxide",
+                "gas"
             ]
         },
         {
@@ -9107,6 +9452,22 @@
             "version": 3,
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "bubble",
+                "chat",
+                "comment",
+                "comments",
+                "communicate",
+                "disabled",
+                "enabled",
+                "feedback",
+                "message",
+                "off",
+                "offline",
+                "on",
+                "slash",
+                "speech"
             ]
         },
         {
@@ -9119,6 +9480,17 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "accomplish",
+                "bind",
+                "circle",
+                "commit",
+                "dedicate",
+                "execute",
+                "line",
+                "perform",
+                "pledge"
             ]
         },
         {
@@ -9222,6 +9594,23 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "bio",
+                "compost",
+                "compostable",
+                "decomposable",
+                "decompose",
+                "eco",
+                "green",
+                "leaf",
+                "leafs",
+                "nature",
+                "organic",
+                "plant",
+                "recycle",
+                "sustainability",
+                "sustainable"
             ]
         },
         {
@@ -9341,6 +9730,18 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "airplane",
+                "airplanes",
+                "airport",
+                "airports",
+                "connecting",
+                "flight",
+                "plane",
+                "transportation",
+                "travel",
+                "trip"
             ]
         },
         {
@@ -9472,10 +9873,10 @@
                 "message",
                 "punctuation",
                 "question",
+                "question mark",
                 "speech",
                 "support",
-                "symbol",
-                "vquestion mark"
+                "symbol"
             ]
         },
         {
@@ -9595,6 +9996,19 @@
             ],
             "categories": [
                 "content"
+            ],
+            "tags": [
+                "clipboard",
+                "content",
+                "disabled",
+                "doc",
+                "document",
+                "enabled",
+                "file",
+                "go",
+                "on",
+                "paste",
+                "slash"
             ]
         },
         {
@@ -9628,6 +10042,18 @@
             ],
             "categories": [
                 "content"
+            ],
+            "tags": [
+                "clipboard",
+                "content",
+                "doc",
+                "document",
+                "file",
+                "find",
+                "paste",
+                "search",
+                "trace",
+                "track"
             ]
         },
         {
@@ -9641,6 +10067,22 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "black",
+                "contrast",
+                "edit",
+                "editing",
+                "effect",
+                "filter",
+                "grayscale",
+                "image",
+                "images",
+                "photography",
+                "picture",
+                "pictures",
+                "settings",
+                "white"
             ]
         },
         {
@@ -9744,7 +10186,6 @@
                 "alphabet",
                 "c",
                 "character",
-                "circle",
                 "copyright",
                 "emblem",
                 "font",
@@ -10371,6 +10812,19 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "animal",
+                "bunny",
+                "cruelty",
+                "eco",
+                "free",
+                "nature",
+                "rabbit",
+                "social",
+                "sustainability",
+                "sustainable",
+                "testing"
             ]
         },
         {
@@ -10382,6 +10836,24 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alphabet",
+                "brackets",
+                "character",
+                "code",
+                "css",
+                "develop",
+                "developer",
+                "engineer",
+                "engineering",
+                "font",
+                "html",
+                "letter",
+                "platform",
+                "symbol",
+                "text",
+                "type"
             ]
         },
         {
@@ -10406,6 +10878,27 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "360",
+                "around",
+                "arrow",
+                "arrows",
+                "cash",
+                "coin",
+                "commerce",
+                "currency",
+                "direction",
+                "dollars",
+                "exchange",
+                "inprogress",
+                "money",
+                "pay",
+                "renew",
+                "rotate",
+                "sync",
+                "turn",
+                "universal"
             ]
         },
         {
@@ -10418,6 +10911,26 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "bill",
+                "card",
+                "cash",
+                "coin",
+                "commerce",
+                "cost",
+                "credit",
+                "currency",
+                "dollars",
+                "finance",
+                "franc",
+                "money",
+                "online",
+                "pay",
+                "payment",
+                "price",
+                "shopping",
+                "symbol"
             ]
         },
         {
@@ -10430,6 +10943,26 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "bill",
+                "card",
+                "cash",
+                "coin",
+                "commerce",
+                "cost",
+                "credit",
+                "currency",
+                "dollars",
+                "finance",
+                "lira",
+                "money",
+                "online",
+                "pay",
+                "payment",
+                "price",
+                "shopping",
+                "symbol"
             ]
         },
         {
@@ -10442,6 +10975,26 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "bill",
+                "card",
+                "cash",
+                "coin",
+                "commerce",
+                "cost",
+                "credit",
+                "currency",
+                "dollars",
+                "finance",
+                "money",
+                "online",
+                "pay",
+                "payment",
+                "pound",
+                "price",
+                "shopping",
+                "symbol"
             ]
         },
         {
@@ -10454,6 +11007,26 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "bill",
+                "card",
+                "cash",
+                "coin",
+                "commerce",
+                "cost",
+                "credit",
+                "currency",
+                "dollars",
+                "finance",
+                "money",
+                "online",
+                "pay",
+                "payment",
+                "price",
+                "ruble",
+                "shopping",
+                "symbol"
             ]
         },
         {
@@ -10466,6 +11039,26 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "bill",
+                "card",
+                "cash",
+                "coin",
+                "commerce",
+                "cost",
+                "credit",
+                "currency",
+                "dollars",
+                "finance",
+                "money",
+                "online",
+                "pay",
+                "payment",
+                "price",
+                "rupee",
+                "shopping",
+                "symbol"
             ]
         },
         {
@@ -10478,6 +11071,26 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "bill",
+                "card",
+                "cash",
+                "coin",
+                "commerce",
+                "cost",
+                "credit",
+                "currency",
+                "dollars",
+                "finance",
+                "money",
+                "online",
+                "pay",
+                "payment",
+                "price",
+                "shopping",
+                "symbol",
+                "yen"
             ]
         },
         {
@@ -10490,6 +11103,66 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "bill",
+                "card",
+                "cash",
+                "coin",
+                "commerce",
+                "cost",
+                "credit",
+                "currency",
+                "dollars",
+                "finance",
+                "money",
+                "online",
+                "pay",
+                "payment",
+                "price",
+                "shopping",
+                "symbol",
+                "yuan"
+            ]
+        },
+        {
+            "name": "curtains",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "blinds",
+                "cover",
+                "curtains",
+                "nest",
+                "open",
+                "shade",
+                "shutter",
+                "sunshade"
+            ]
+        },
+        {
+            "name": "curtains_closed",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "blinds",
+                "closed",
+                "cover",
+                "curtains",
+                "nest",
+                "shade",
+                "shutter",
+                "sunshade"
             ]
         },
         {
@@ -10605,6 +11278,20 @@
             "version": 3,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "analytics",
+                "arrow",
+                "chart",
+                "data",
+                "diagram",
+                "exploration",
+                "graph",
+                "infographic",
+                "measure",
+                "metrics",
+                "statistics",
+                "tracking"
             ]
         },
         {
@@ -10687,6 +11374,13 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "data",
+                "hidden",
+                "privacy",
+                "thresholding",
+                "thresold"
             ]
         },
         {
@@ -10744,6 +11438,19 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "adjust",
+                "deblur",
+                "edit",
+                "editing",
+                "enhance",
+                "face",
+                "image",
+                "lines",
+                "photo",
+                "photography",
+                "sharpen"
             ]
         },
         {
@@ -10884,6 +11591,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "density",
+                "horizontal",
+                "large",
+                "lines",
+                "rule",
+                "rules"
             ]
         },
         {
@@ -10896,6 +11611,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "density",
+                "horizontal",
+                "lines",
+                "medium",
+                "rule",
+                "rules"
             ]
         },
         {
@@ -10908,6 +11631,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "density",
+                "horizontal",
+                "lines",
+                "rule",
+                "rules",
+                "small"
             ]
         },
         {
@@ -11361,6 +12092,16 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "diamond",
+                "fashion",
+                "gems",
+                "jewelry",
+                "logo",
+                "retail",
+                "valuable",
+                "valuables"
             ]
         },
         {
@@ -11368,6 +12109,20 @@
             "version": 1,
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "compare",
+                "content",
+                "copy",
+                "cut",
+                "diff",
+                "difference",
+                "doc",
+                "document",
+                "duplicate",
+                "file",
+                "multiple",
+                "past"
             ]
         },
         {
@@ -11824,6 +12579,24 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "cancel",
+                "close",
+                "disabled",
+                "exit",
+                "eye",
+                "no",
+                "on",
+                "quit",
+                "remove",
+                "reveal",
+                "see",
+                "show",
+                "stop",
+                "view",
+                "visibility",
+                "visible"
             ]
         },
         {
@@ -11886,6 +12659,31 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "Android",
+                "OS",
+                "application",
+                "change",
+                "chrome",
+                "desktop",
+                "details",
+                "device",
+                "display",
+                "gear",
+                "hardware",
+                "iOS",
+                "info",
+                "information",
+                "mac",
+                "monitor",
+                "options",
+                "personal",
+                "screen",
+                "service",
+                "settings",
+                "web",
+                "window"
             ]
         },
         {
@@ -12186,6 +12984,25 @@
             "version": 3,
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "article",
+                "data",
+                "doc",
+                "document",
+                "drive",
+                "file",
+                "folder",
+                "folders",
+                "notes",
+                "page",
+                "paper",
+                "scan",
+                "scanner",
+                "sheet",
+                "slide",
+                "text",
+                "writing"
             ]
         },
         {
@@ -12224,6 +13041,27 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "+",
+                "add",
+                "apartment",
+                "architecture",
+                "building",
+                "business",
+                "domain",
+                "estate",
+                "home",
+                "new",
+                "place",
+                "plus",
+                "real",
+                "residence",
+                "residential",
+                "shelter",
+                "symbol",
+                "web",
+                "www"
             ]
         },
         {
@@ -12716,6 +13554,20 @@
             "version": 6,
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "compose",
+                "create",
+                "design",
+                "draft",
+                "draw",
+                "edit",
+                "editing",
+                "input",
+                "pen",
+                "pencil",
+                "write",
+                "writing"
             ]
         },
         {
@@ -12749,19 +13601,15 @@
             ],
             "tags": [
                 "arrow",
-                "arrows",
                 "data",
-                "direction",
                 "doc",
                 "document",
                 "drive",
                 "file",
                 "folder",
-                "folders",
                 "move",
                 "right",
                 "sheet",
-                "side",
                 "slide",
                 "storage"
             ]
@@ -12773,9 +13621,23 @@
                 "file"
             ],
             "tags": [
+                "arrow",
+                "arrows",
+                "data",
+                "direction",
+                "doc",
+                "document",
                 "drive",
                 "file",
-                "move"
+                "folder",
+                "folders",
+                "left",
+                "move",
+                "rtl",
+                "sheet",
+                "side",
+                "slide",
+                "storage"
             ]
         },
         {
@@ -12917,11 +13779,9 @@
                 "content"
             ],
             "tags": [
-                "dynamic",
-                "feed",
-                "layer",
-                "multiple",
-                "post"
+                "'mail_outline'",
+                "'markunread'. Keep 'mail' and remove others.",
+                "Duplicate of 'email'"
             ]
         },
         {
@@ -13138,6 +13998,23 @@
             "version": 5,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "calendar",
+                "compose",
+                "create",
+                "date",
+                "day",
+                "draft",
+                "edit",
+                "editing",
+                "event",
+                "month",
+                "pen",
+                "pencil",
+                "schedule",
+                "write",
+                "writing"
             ]
         },
         {
@@ -13183,6 +14060,21 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "compose",
+                "create",
+                "draft",
+                "edit",
+                "editing",
+                "input",
+                "lines",
+                "note",
+                "pen",
+                "pencil",
+                "text",
+                "write",
+                "writing"
             ]
         },
         {
@@ -13272,6 +14164,12 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "breakfast",
+                "brunch",
+                "egg",
+                "food"
             ]
         },
         {
@@ -13283,6 +14181,12 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "breakfast",
+                "brunch",
+                "egg",
+                "food"
             ]
         },
         {
@@ -13333,6 +14237,24 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "body",
+                "cane",
+                "elderly",
+                "female",
+                "gender",
+                "girl",
+                "human",
+                "lady",
+                "old",
+                "people",
+                "person",
+                "senior",
+                "social",
+                "symbol",
+                "woman",
+                "women"
             ]
         },
         {
@@ -13346,15 +14268,35 @@
                 "maps"
             ],
             "tags": [
-                "automobile",
                 "bike",
-                "car",
-                "cars",
+                "electric",
+                "electricity",
                 "maps",
                 "scooter",
                 "transportation",
-                "vehicle",
+                "travel",
                 "vespa"
+            ]
+        },
+        {
+            "name": "electric_bolt",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "bolt",
+                "electric",
+                "energy",
+                "fast",
+                "lightning",
+                "nest",
+                "thunderbolt"
             ]
         },
         {
@@ -13371,7 +14313,32 @@
                 "electricity",
                 "maps",
                 "transportation",
+                "travel",
                 "vehicle"
+            ]
+        },
+        {
+            "name": "electric_meter",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "bolt",
+                "electric",
+                "energy",
+                "fast",
+                "lightning",
+                "measure",
+                "meter",
+                "nest",
+                "thunderbolt",
+                "usage",
+                "voltage",
+                "volts"
             ]
         },
         {
@@ -13385,9 +14352,12 @@
                 "bike",
                 "car",
                 "cars",
+                "electric",
                 "maps",
+                "moped",
                 "scooter",
                 "transportation",
+                "travel",
                 "vehicle",
                 "vespa"
             ]
@@ -13402,9 +14372,12 @@
                 "automobile",
                 "car",
                 "cars",
+                "electric",
                 "india",
                 "maps",
+                "rickshaw",
                 "transportation",
+                "truck",
                 "vehicle"
             ]
         },
@@ -13419,10 +14392,8 @@
                 "maps"
             ],
             "tags": [
-                "automobile",
                 "bike",
-                "car",
-                "cars",
+                "electric",
                 "maps",
                 "scooter",
                 "transportation",
@@ -13489,6 +14460,16 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "asterisk",
+                "clinic",
+                "emergency",
+                "health",
+                "hospital",
+                "maps",
+                "medical",
+                "symbol"
             ]
         },
         {
@@ -13724,6 +14705,22 @@
                 "transportation",
                 "travel",
                 "vehicle"
+            ]
+        },
+        {
+            "name": "energy_savings_leaf",
+            "version": 1,
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "eco",
+                "energy",
+                "leaf",
+                "leaves",
+                "nest",
+                "savings",
+                "usage"
             ]
         },
         {
@@ -14062,6 +15059,21 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "around",
+                "calendar",
+                "date",
+                "day",
+                "event",
+                "inprogress",
+                "load",
+                "loading refresh",
+                "month",
+                "renew",
+                "rotate",
+                "schedule",
+                "turn"
             ]
         },
         {
@@ -14107,6 +15119,7 @@
                 "mobile",
                 "monitor",
                 "move",
+                "output",
                 "phone",
                 "screen",
                 "site",
@@ -14145,6 +15158,19 @@
             ],
             "categories": [
                 "navigation"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "chevron",
+                "circle",
+                "collapse",
+                "direction",
+                "down",
+                "expand",
+                "expandable",
+                "list",
+                "more"
             ]
         },
         {
@@ -14204,9 +15230,6 @@
                 "media",
                 "movies",
                 "music",
-                "parent",
-                "rating",
-                "supervision",
                 "symbol",
                 "text",
                 "type"
@@ -14595,6 +15618,12 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "factory",
+                "industry",
+                "manufacturing",
+                "warehouse"
             ]
         },
         {
@@ -14632,7 +15661,6 @@
             "tags": [
                 "control",
                 "fast",
-                "ff",
                 "forward",
                 "media",
                 "music",
@@ -14731,6 +15759,13 @@
             "version": 2,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "fax",
+                "machine",
+                "office",
+                "phone",
+                "send"
             ]
         },
         {
@@ -14758,7 +15793,7 @@
             ],
             "tags": [
                 "advertised",
-                "advertisment",
+                "advertisement",
                 "featured",
                 "highlighted",
                 "recommended",
@@ -15071,6 +16106,17 @@
             "version": 1,
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "arrow",
+                "doc",
+                "document",
+                "drive",
+                "file",
+                "left",
+                "open",
+                "page",
+                "paper"
             ]
         },
         {
@@ -15442,6 +16488,19 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "[offline]",
+                "alt",
+                "disabled",
+                "edit",
+                "filter",
+                "funnel",
+                "off",
+                "options",
+                "refine",
+                "sift",
+                "slash"
             ]
         },
         {
@@ -15598,6 +16657,19 @@
             ],
             "categories": [
                 "content"
+            ],
+            "tags": [
+                "[offline]",
+                "alt",
+                "disabled",
+                "edit",
+                "filter",
+                "list",
+                "off",
+                "options",
+                "refine",
+                "sift",
+                "slash"
             ]
         },
         {
@@ -15825,6 +16897,14 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "athlete",
+                "athletic",
+                "exercise",
+                "fitbit",
+                "fitness",
+                "hobby"
             ]
         },
         {
@@ -15871,6 +16951,17 @@
             ],
             "categories": [
                 "content"
+            ],
+            "tags": [
+                "circle",
+                "country",
+                "flag",
+                "goal",
+                "mark",
+                "nation",
+                "report",
+                "round",
+                "start"
             ]
         },
         {
@@ -15945,7 +17036,6 @@
                 "a",
                 "auto",
                 "bolt",
-                "camera",
                 "electric",
                 "fast",
                 "flash",
@@ -15961,7 +17051,6 @@
             ],
             "tags": [
                 "bolt",
-                "camera",
                 "disabled",
                 "electric",
                 "enabled",
@@ -15982,7 +17071,6 @@
             ],
             "tags": [
                 "bolt",
-                "camera",
                 "disabled",
                 "electric",
                 "enabled",
@@ -16084,6 +17172,19 @@
             "version": 2,
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "airplane",
+                "business",
+                "class",
+                "first",
+                "flight",
+                "plane",
+                "seat",
+                "transportation",
+                "travel",
+                "trip",
+                "window"
             ]
         },
         {
@@ -16279,7 +17380,8 @@
             "tags": [
                 "bird",
                 "dash",
-                "flutter"
+                "flutter",
+                "mascot"
             ]
         },
         {
@@ -16366,6 +17468,24 @@
             "version": 1,
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "bin",
+                "can",
+                "data",
+                "delete",
+                "doc",
+                "document",
+                "drive",
+                "file",
+                "folder",
+                "folders",
+                "garbage",
+                "remove",
+                "sheet",
+                "slide",
+                "storage",
+                "trash"
             ]
         },
         {
@@ -16373,6 +17493,24 @@
             "version": 1,
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "[online]",
+                "data",
+                "disabled",
+                "doc",
+                "document",
+                "drive",
+                "enabled",
+                "file",
+                "folder",
+                "folders",
+                "off",
+                "on",
+                "sheet",
+                "slash",
+                "slide",
+                "storage"
             ]
         },
         {
@@ -16460,6 +17598,21 @@
             "version": 1,
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "compress",
+                "data",
+                "doc",
+                "document",
+                "drive",
+                "file",
+                "folder",
+                "folders",
+                "open",
+                "sheet",
+                "slide",
+                "storage",
+                "zip"
             ]
         },
         {
@@ -16565,6 +17718,15 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "forest",
+                "jungle",
+                "nature",
+                "plantation",
+                "plants",
+                "trees",
+                "woodland"
             ]
         },
         {
@@ -16577,6 +17739,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "fork",
+                "left",
+                "maps",
+                "navigation",
+                "path",
+                "route",
+                "sign",
+                "traffic"
             ]
         },
         {
@@ -16589,6 +17765,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "fork",
+                "maps",
+                "navigation",
+                "path",
+                "right",
+                "route",
+                "sign",
+                "traffic"
             ]
         },
         {
@@ -16630,13 +17820,16 @@
             "tags": [
                 "align",
                 "alignment",
+                "density",
                 "doc",
                 "edit",
                 "editing",
                 "editor",
+                "extra",
                 "format",
                 "justify",
                 "sheet",
+                "small",
                 "spreadsheet",
                 "text",
                 "type",
@@ -17054,6 +18247,27 @@
             ],
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "alphabet",
+                "character",
+                "doc",
+                "edit",
+                "editing",
+                "editor",
+                "font",
+                "format",
+                "letter",
+                "line",
+                "overline",
+                "sheet",
+                "spreadsheet",
+                "style",
+                "symbol",
+                "text",
+                "type",
+                "under",
+                "writing"
             ]
         },
         {
@@ -17459,6 +18673,33 @@
             "version": 5,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "approve",
+                "calendar",
+                "cancel",
+                "cancellation",
+                "check",
+                "complete",
+                "date",
+                "day",
+                "done",
+                "event",
+                "exit",
+                "free",
+                "mark",
+                "month",
+                "no",
+                "ok",
+                "remove",
+                "schedule",
+                "select",
+                "stop",
+                "tick",
+                "validate",
+                "verified",
+                "x",
+                "yes"
             ]
         },
         {
@@ -17466,6 +18707,15 @@
             "version": 3,
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "fingers",
+                "front",
+                "gesture",
+                "hand",
+                "hello",
+                "palm",
+                "stop"
             ]
         },
         {
@@ -17664,6 +18914,23 @@
             ]
         },
         {
+            "name": "gas_meter",
+            "version": 1,
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "droplet",
+                "energy",
+                "gas",
+                "measure",
+                "meter",
+                "nest",
+                "usage",
+                "water"
+            ]
+        },
+        {
             "name": "gavel",
             "version": 14,
             "categories": [
@@ -17694,6 +18961,15 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "access",
+                "api",
+                "coin",
+                "generating",
+                "shape",
+                "stars",
+                "tokens"
             ]
         },
         {
@@ -17767,6 +19043,22 @@
             "version": 3,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alphabet",
+                "animated",
+                "animation",
+                "bitmap",
+                "character",
+                "font",
+                "format",
+                "gif",
+                "graphics",
+                "interchange",
+                "letter",
+                "symbol",
+                "text",
+                "type"
             ]
         },
         {
@@ -17779,6 +19071,20 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "body",
+                "female",
+                "gender",
+                "girl",
+                "human",
+                "lady",
+                "people",
+                "person",
+                "social",
+                "symbol",
+                "woman",
+                "women"
             ]
         },
         {
@@ -18007,16 +19313,10 @@
                 "action"
             ],
             "tags": [
-                "achievement",
-                "grade",
-                "important",
-                "marked",
-                "rate",
-                "reward",
-                "saved",
-                "shape",
-                "special",
-                "star"
+                "'favorite_news'  .",
+                "'star_outline'",
+                "Duplicate of 'star_boarder'",
+                "star_border_purple500'"
             ]
         },
         {
@@ -18051,24 +19351,13 @@
                 "action"
             ],
             "tags": [
-                "approve",
-                "check",
-                "complete",
-                "document",
-                "done",
-                "feedback",
-                "grade",
-                "grading",
-                "mark",
-                "ok",
-                "review",
-                "reviewed",
-                "select",
-                "tick",
-                "validate",
-                "verified",
-                "writing",
-                "yes"
+                "'favorite'_new'.  ' Remove this icon & keep 'star'.",
+                "'star_boarder'",
+                "'star_border_purple500'",
+                "'star_outline'",
+                "'star_purple500'",
+                "'star_rate'",
+                "Same as 'star'"
             ]
         },
         {
@@ -18330,6 +19619,21 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "body",
+                "club",
+                "collaboration",
+                "crowd",
+                "gathering",
+                "group",
+                "human",
+                "meeting",
+                "off",
+                "people",
+                "person",
+                "social",
+                "teams"
             ]
         },
         {
@@ -18340,6 +19644,23 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "accounts",
+                "committee",
+                "face",
+                "family",
+                "friends",
+                "group",
+                "humans",
+                "network",
+                "people",
+                "persons",
+                "profiles",
+                "remove",
+                "social",
+                "team",
+                "users"
             ]
         },
         {
@@ -18521,14 +19842,12 @@
                 "letter",
                 "movie",
                 "movies",
-                "quality",
                 "resolution",
                 "screen",
                 "symbol",
                 "text",
                 "tv",
-                "type",
-                "video"
+                "type"
             ]
         },
         {
@@ -18852,7 +20171,6 @@
                 "audio",
                 "device",
                 "ear",
-                "earbuds",
                 "earphone",
                 "headphones",
                 "headset",
@@ -19021,6 +20339,36 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "break",
+                "broken",
+                "core",
+                "crush",
+                "health",
+                "heart",
+                "nucleus",
+                "split"
+            ]
+        },
+        {
+            "name": "heat_pump",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "air conditioner",
+                "cool",
+                "energy",
+                "furnance",
+                "heat",
+                "nest",
+                "pump",
+                "usage"
             ]
         },
         {
@@ -19156,6 +20504,11 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "hexagon",
+                "shape",
+                "six sides"
             ]
         },
         {
@@ -19418,6 +20771,21 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alphabet",
+                "character",
+                "develop",
+                "developer",
+                "engineer",
+                "engineering",
+                "font",
+                "hls",
+                "letter",
+                "platform",
+                "symbol",
+                "text",
+                "type"
             ]
         },
         {
@@ -19429,6 +20797,27 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "[offline]",
+                "alphabet",
+                "character",
+                "develop",
+                "developer",
+                "disabled",
+                "enabled",
+                "engineer",
+                "engineering",
+                "font",
+                "hls",
+                "letter",
+                "off",
+                "on",
+                "platform",
+                "slash",
+                "symbol",
+                "text",
+                "type"
             ]
         },
         {
@@ -19478,8 +20867,6 @@
                 "design",
                 "estate",
                 "home",
-                "homepage",
-                "house",
                 "interface",
                 "layout",
                 "place",
@@ -19702,6 +21089,26 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "achievement",
+                "bookmark",
+                "class",
+                "favorite",
+                "highlight",
+                "hotel",
+                "important",
+                "marked",
+                "rank",
+                "ranking",
+                "rate",
+                "rating",
+                "reward",
+                "save",
+                "saved",
+                "shape",
+                "special",
+                "star"
             ]
         },
         {
@@ -19948,6 +21355,24 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alphabet",
+                "brackets",
+                "character",
+                "code",
+                "css",
+                "develop",
+                "developer",
+                "engineer",
+                "engineering",
+                "font",
+                "html",
+                "letter",
+                "platform",
+                "symbol",
+                "text",
+                "type"
             ]
         },
         {
@@ -20002,6 +21427,16 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "center",
+                "connection",
+                "core",
+                "focal point",
+                "hub",
+                "network",
+                "nucleus",
+                "topology"
             ]
         },
         {
@@ -20064,14 +21499,19 @@
                 "image"
             ],
             "tags": [
-                "frame",
+                "disabled",
+                "enabled",
+                "hide",
                 "image",
                 "landscape",
                 "mountain",
                 "mountains",
+                "off",
+                "on",
                 "photo",
                 "photography",
-                "picture"
+                "picture",
+                "slash"
             ]
         },
         {
@@ -20242,6 +21682,11 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "chart",
+                "circle",
+                "incomplete"
             ]
         },
         {
@@ -20287,7 +21732,7 @@
             ],
             "tags": [
                 "alert",
-                "announcment",
+                "announcement",
                 "assistance",
                 "details",
                 "help",
@@ -20469,6 +21914,14 @@
             "version": 2,
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "break",
+                "doc",
+                "document",
+                "file",
+                "page",
+                "paper"
             ]
         },
         {
@@ -20525,6 +21978,25 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "Android",
+                "OS",
+                "chrome",
+                "desktop",
+                "device",
+                "display",
+                "fix",
+                "hardware",
+                "iOS",
+                "install",
+                "mac",
+                "monitor",
+                "place",
+                "pwa",
+                "screen",
+                "web",
+                "window"
             ]
         },
         {
@@ -20532,6 +22004,19 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "Android",
+                "OS",
+                "cell",
+                "device",
+                "hardware",
+                "iOS",
+                "install",
+                "mobile",
+                "phone",
+                "pwa",
+                "tablet"
             ]
         },
         {
@@ -20565,6 +22050,15 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "circle",
+                "heart",
+                "interests",
+                "shapes",
+                "social",
+                "square",
+                "triangle"
             ]
         },
         {
@@ -20575,6 +22069,15 @@
             ],
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "interpreter",
+                "language",
+                "microphone",
+                "mode",
+                "person",
+                "speaking",
+                "symbol"
             ]
         },
         {
@@ -20584,16 +22087,18 @@
                 "content"
             ],
             "tags": [
-                "buy",
-                "check",
+                "archive",
+                "box",
                 "clipboard",
-                "commerce",
-                "e-commerce",
+                "doc",
+                "document",
+                "file",
                 "inventory",
-                "list",
-                "purchase",
-                "shop",
-                "store"
+                "organize",
+                "packages",
+                "product",
+                "stock",
+                "supply"
             ]
         },
         {
@@ -20677,20 +22182,10 @@
                 "social"
             ],
             "tags": [
-                "arrow",
-                "arrows",
-                "button",
-                "direction",
-                "internet",
+                "export",
                 "ios",
-                "link",
                 "send",
-                "share",
-                "sharing",
-                "social",
-                "up",
-                "web",
-                "website"
+                "share"
             ]
         },
         {
@@ -20744,6 +22239,25 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alphabet",
+                "brackets",
+                "character",
+                "code",
+                "css",
+                "develop",
+                "developer",
+                "engineer",
+                "engineering",
+                "font",
+                "html",
+                "javascript",
+                "letter",
+                "platform",
+                "symbol",
+                "text",
+                "type"
             ]
         },
         {
@@ -20756,6 +22270,17 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "circle",
+                "combine",
+                "command",
+                "full",
+                "join",
+                "left",
+                "outter",
+                "right",
+                "sql"
             ]
         },
         {
@@ -20768,6 +22293,15 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "circle",
+                "command",
+                "inner",
+                "join",
+                "matching",
+                "sql",
+                "values"
             ]
         },
         {
@@ -20780,6 +22314,15 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "circle",
+                "command",
+                "join",
+                "left",
+                "matching",
+                "sql",
+                "values"
             ]
         },
         {
@@ -20792,6 +22335,15 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "circle",
+                "command",
+                "join",
+                "matching",
+                "right",
+                "sql",
+                "values"
             ]
         },
         {
@@ -20853,9 +22405,9 @@
                 "communication"
             ],
             "tags": [
-                "blackout",
-                "restricted",
-                "secret",
+                "key",
+                "lock",
+                "password",
                 "unlock"
             ]
         },
@@ -20867,6 +22419,18 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "[offline]",
+                "disabled",
+                "enabled",
+                "key",
+                "lock",
+                "off",
+                "on",
+                "password",
+                "slash",
+                "unlock"
             ]
         },
         {
@@ -21018,6 +22582,12 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "button",
+                "command key",
+                "control",
+                "keyboard"
             ]
         },
         {
@@ -21030,6 +22600,10 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "control key",
+                "keyboard"
             ]
         },
         {
@@ -21042,6 +22616,15 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "double",
+                "down",
+                "multiple",
+                "navigation"
             ]
         },
         {
@@ -21054,6 +22637,15 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "double",
+                "left",
+                "multiple",
+                "navigation"
             ]
         },
         {
@@ -21066,6 +22658,15 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "double",
+                "multiple",
+                "navigation",
+                "right"
             ]
         },
         {
@@ -21078,6 +22679,15 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "double",
+                "multiple",
+                "navigation",
+                "up"
             ]
         },
         {
@@ -21109,6 +22719,13 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "alt key",
+                "key",
+                "keyboard",
+                "modifier key",
+                "option"
             ]
         },
         {
@@ -21309,6 +22926,15 @@
             ],
             "categories": [
                 "device"
+            ],
+            "tags": [
+                "computer",
+                "connection",
+                "data",
+                "internet",
+                "lan",
+                "network",
+                "service"
             ]
         },
         {
@@ -21371,18 +22997,13 @@
                 "OS",
                 "chrome",
                 "computer",
-                "connect",
                 "desktop",
                 "device",
-                "display",
                 "hardware",
                 "iOS",
                 "laptop",
-                "link",
                 "mac",
                 "monitor",
-                "smart",
-                "tv",
                 "web",
                 "windows"
             ]
@@ -21507,9 +23128,7 @@
                 "arrow",
                 "box",
                 "components",
-                "core",
                 "interface",
-                "internal",
                 "launch",
                 "new",
                 "open",
@@ -21542,8 +23161,7 @@
                 "on",
                 "overlay",
                 "pages",
-                "slash",
-                "stack"
+                "slash"
             ]
         },
         {
@@ -21736,7 +23354,6 @@
                 "music",
                 "new",
                 "plus",
-                "save",
                 "stacked",
                 "symbol",
                 "video"
@@ -21797,7 +23414,6 @@
             "tags": [
                 "add",
                 "album",
-                "audio",
                 "collection",
                 "library",
                 "music",
@@ -21841,7 +23457,7 @@
                 "light",
                 "lighting",
                 "mode",
-                "mornng",
+                "morning",
                 "sky",
                 "sun",
                 "sunny"
@@ -21859,11 +23475,8 @@
                 "idea",
                 "info",
                 "information",
-                "learning",
                 "light",
-                "lightbulb",
-                "mode",
-                "on"
+                "lightbulb"
             ]
         },
         {
@@ -21874,6 +23487,15 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alert",
+                "announcement",
+                "idea",
+                "info",
+                "information",
+                "light",
+                "lightbulb"
             ]
         },
         {
@@ -21886,6 +23508,14 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "axis",
+                "dash",
+                "horizontal",
+                "line",
+                "stroke",
+                "vertical"
             ]
         },
         {
@@ -21971,13 +23601,10 @@
                 "chain",
                 "clip",
                 "connection",
-                "external",
-                "hyperlink",
                 "link",
                 "linked",
                 "links",
                 "multimedia",
-                "unlisted",
                 "url"
             ]
         },
@@ -22001,7 +23628,6 @@
                 "off",
                 "on",
                 "slash",
-                "unlink",
                 "url"
             ]
         },
@@ -22445,6 +24071,18 @@
             "version": 13,
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "body",
+                "hotel",
+                "human",
+                "local",
+                "people",
+                "person",
+                "sleep",
+                "stay",
+                "travel",
+                "trip"
             ]
         },
         {
@@ -22824,15 +24462,12 @@
             "tags": [
                 "destination",
                 "direction",
-                "disabled",
-                "enabled",
                 "location",
                 "maps",
                 "off",
-                "on",
                 "pin",
                 "place",
-                "slash",
+                "room",
                 "stop"
             ]
         },
@@ -22848,15 +24483,12 @@
             "tags": [
                 "destination",
                 "direction",
-                "disabled",
-                "enabled",
                 "location",
                 "maps",
-                "off",
                 "on",
                 "pin",
                 "place",
-                "slash",
+                "room",
                 "stop"
             ]
         },
@@ -22951,6 +24583,24 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "around",
+                "inprogress",
+                "load",
+                "loading refresh",
+                "lock",
+                "locked",
+                "password",
+                "privacy",
+                "private",
+                "protection",
+                "renew",
+                "rotate",
+                "safety",
+                "secure",
+                "security",
+                "turn"
             ]
         },
         {
@@ -22996,6 +24646,11 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "dev",
+                "dev.to",
+                "logo"
             ]
         },
         {
@@ -23317,6 +24972,34 @@
             ]
         },
         {
+            "name": "lyrics",
+            "version": 3,
+            "unsupported_families": [
+                "sharp",
+                "round"
+            ],
+            "categories": [
+                "av"
+            ],
+            "tags": [
+                "audio",
+                "bubble",
+                "chat",
+                "comment",
+                "communicate",
+                "feedback",
+                "key",
+                "lyrics",
+                "message",
+                "music",
+                "note",
+                "song",
+                "sound",
+                "speech",
+                "track"
+            ]
+        },
+        {
             "name": "mail",
             "version": 16,
             "categories": [
@@ -23325,11 +25008,33 @@
             "tags": [
                 "email",
                 "envelop",
-                "envelope",
-                "inbox",
                 "letter",
                 "mail",
                 "message",
+                "send"
+            ]
+        },
+        {
+            "name": "mail_lock",
+            "version": 1,
+            "categories": [
+                "communication"
+            ],
+            "tags": [
+                "email",
+                "envelop",
+                "letter",
+                "lock",
+                "locked",
+                "mail",
+                "message",
+                "password",
+                "privacy",
+                "private",
+                "protection",
+                "safety",
+                "secure",
+                "security",
                 "send"
             ]
         },
@@ -23382,6 +25087,14 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "boy",
+                "gender",
+                "male",
+                "man",
+                "social",
+                "symbol"
             ]
         },
         {
@@ -23788,12 +25501,12 @@
                 "action"
             ],
             "tags": [
-                "alternative",
-                "compromise",
+                "arrow",
+                "arrows",
+                "direction",
+                "dots",
                 "mediation",
-                "negotiation",
-                "party",
-                "structure"
+                "right"
             ]
         },
         {
@@ -23977,6 +25690,19 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "maps",
+                "merge",
+                "navigation",
+                "path",
+                "route",
+                "sign",
+                "traffic"
             ]
         },
         {
@@ -24028,9 +25754,7 @@
                 "microphone",
                 "noise",
                 "record",
-                "search",
                 "sound",
-                "speech",
                 "voice"
             ]
         },
@@ -24435,6 +26159,16 @@
             ]
         },
         {
+            "name": "mode_fan_off",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "home"
+            ]
+        },
+        {
             "name": "mode_night",
             "version": 10,
             "unsupported_families": [
@@ -24462,6 +26196,21 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "destination",
+                "direction",
+                "location",
+                "maps",
+                "mode",
+                "of",
+                "pin",
+                "place",
+                "stop",
+                "transportation",
+                "travel",
+                "trip"
             ]
         },
         {
@@ -24768,13 +26517,10 @@
             ],
             "tags": [
                 "automobile",
+                "bike",
                 "car",
                 "cars",
-                "direction",
                 "maps",
-                "moped",
-                "motorized",
-                "public",
                 "scooter",
                 "transportation",
                 "vehicle",
@@ -24985,6 +26731,15 @@
             ],
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "animation",
+                "circle",
+                "motion",
+                "pause",
+                "paused",
+                "photos",
+                "video"
             ]
         },
         {
@@ -25057,6 +26812,15 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "arrow",
+                "direction",
+                "down",
+                "jump",
+                "move",
+                "navigation",
+                "transfer"
             ]
         },
         {
@@ -25089,6 +26853,15 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "arrow",
+                "direction",
+                "jump",
+                "move",
+                "navigation",
+                "transfer",
+                "up"
             ]
         },
         {
@@ -25261,7 +27034,7 @@
                 "explore",
                 "local",
                 "museum",
-                "palces",
+                "places",
                 "real",
                 "see",
                 "shop",
@@ -25321,7 +27094,6 @@
             "tags": [
                 "band",
                 "music",
-                "mv",
                 "recording",
                 "screen",
                 "tv",
@@ -25550,6 +27322,30 @@
             ]
         },
         {
+            "name": "nest_cam_wired_stand",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "camera",
+                "film",
+                "filming",
+                "hardware",
+                "image",
+                "motion",
+                "nest",
+                "picture",
+                "stand",
+                "video",
+                "videography",
+                "wired"
+            ]
+        },
+        {
             "name": "network_cell",
             "version": 16,
             "unsupported_families": [
@@ -25701,6 +27497,24 @@
             "version": 3,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "+",
+                "add",
+                "archive",
+                "bookmark",
+                "favorite",
+                "label",
+                "library",
+                "new",
+                "plus",
+                "read",
+                "reading",
+                "remember",
+                "ribbon",
+                "save",
+                "symbol",
+                "tag"
             ]
         },
         {
@@ -25741,6 +27555,27 @@
             ],
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "article",
+                "data",
+                "doc",
+                "document",
+                "drive",
+                "file",
+                "folder",
+                "folders",
+                "magazine",
+                "media",
+                "news",
+                "newspaper",
+                "notes",
+                "page",
+                "paper",
+                "sheet",
+                "slide",
+                "text",
+                "writing"
             ]
         },
         {
@@ -26794,10 +28629,50 @@
             ]
         },
         {
+            "name": "oil_barrel",
+            "version": 1,
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "barrel",
+                "droplet",
+                "gas",
+                "gasoline",
+                "nest",
+                "oil",
+                "water"
+            ]
+        },
+        {
             "name": "on_device_training",
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrow",
+                "bulb",
+                "call",
+                "cell",
+                "contact",
+                "device",
+                "hardware",
+                "idea",
+                "inprogress",
+                "light",
+                "load",
+                "loading",
+                "mobile",
+                "model",
+                "phone",
+                "refresh",
+                "renew",
+                "restore",
+                "reverse",
+                "rotate",
+                "telephone",
+                "training"
             ]
         },
         {
@@ -27037,6 +28912,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrow",
+                "circle",
+                "directional",
+                "outbound",
+                "right",
+                "up"
             ]
         },
         {
@@ -27539,7 +29422,6 @@
                 "media",
                 "music",
                 "pause",
-                "player",
                 "video"
             ]
         },
@@ -27551,6 +29433,15 @@
             ],
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "circle",
+                "control",
+                "controls",
+                "media",
+                "music",
+                "pause",
+                "video"
             ]
         },
         {
@@ -27705,11 +29596,16 @@
                 "bike",
                 "car",
                 "cars",
+                "direction",
+                "human",
                 "maps",
                 "pedal",
                 "public",
+                "route",
+                "scooter",
                 "transportation",
-                "vehicle"
+                "vehicle",
+                "vespa"
             ]
         },
         {
@@ -27762,6 +29658,11 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "five sides",
+                "pentagon",
+                "shape"
             ]
         },
         {
@@ -27773,11 +29674,9 @@
             "tags": [
                 "accounts",
                 "committee",
-                "community",
                 "face",
                 "family",
                 "friends",
-                "group",
                 "humans",
                 "network",
                 "people",
@@ -27841,6 +29740,12 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "math",
+                "number",
+                "percent",
+                "symbol"
             ]
         },
         {
@@ -28052,7 +29957,6 @@
                 "add",
                 "avatar",
                 "face",
-                "friend",
                 "human",
                 "new",
                 "people",
@@ -28282,6 +30186,26 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "accident",
+                "aid",
+                "arm",
+                "bandage",
+                "body",
+                "broke",
+                "cast",
+                "fracture",
+                "health",
+                "human",
+                "injury",
+                "medical",
+                "patient",
+                "people",
+                "person",
+                "personal",
+                "sling",
+                "social"
             ]
         },
         {
@@ -28373,6 +30297,14 @@
             ],
             "categories": [
                 "device"
+            ],
+            "tags": [
+                "fish",
+                "fishing",
+                "fraud",
+                "hook",
+                "phishing",
+                "scam"
             ]
         },
         {
@@ -29020,6 +30952,25 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alphabet",
+                "brackets",
+                "character",
+                "code",
+                "css",
+                "develop",
+                "developer",
+                "engineer",
+                "engineering",
+                "font",
+                "html",
+                "letter",
+                "php",
+                "platform",
+                "symbol",
+                "text",
+                "type"
             ]
         },
         {
@@ -29225,6 +31176,13 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "action",
+                "arrow",
+                "dot",
+                "end",
+                "pin"
             ]
         },
         {
@@ -29235,6 +31193,13 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "action",
+                "arrow",
+                "dot",
+                "invoke",
+                "pin"
             ]
         },
         {
@@ -29242,6 +31207,20 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "compress",
+                "direction",
+                "finger",
+                "grasp",
+                "hand",
+                "navigation",
+                "nip",
+                "pinch",
+                "squeeze",
+                "tweak"
             ]
         },
         {
@@ -29287,6 +31266,18 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "bill",
+                "brazil",
+                "card",
+                "cash",
+                "commerce",
+                "credit",
+                "currency",
+                "finance",
+                "money",
+                "payment"
             ]
         },
         {
@@ -29340,8 +31331,6 @@
                 "media",
                 "music",
                 "play",
-                "player",
-                "start",
                 "video"
             ]
         },
@@ -29353,6 +31342,16 @@
             ],
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "arrow",
+                "circle",
+                "control",
+                "controls",
+                "media",
+                "music",
+                "play",
+                "video"
             ]
         },
         {
@@ -29526,6 +31525,23 @@
             ],
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "add",
+                "album",
+                "artist",
+                "audio",
+                "cd",
+                "check",
+                "circle",
+                "collection",
+                "list",
+                "mark",
+                "music",
+                "playlist",
+                "record",
+                "sound",
+                "track"
             ]
         },
         {
@@ -29536,6 +31552,23 @@
             ],
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "add",
+                "album",
+                "artist",
+                "audio",
+                "cd",
+                "check",
+                "circle",
+                "collection",
+                "list",
+                "mark",
+                "music",
+                "playlist",
+                "record",
+                "sound",
+                "track"
             ]
         },
         {
@@ -29550,7 +31583,7 @@
                 "av"
             ],
             "tags": [
-                "arow",
+                "arrow",
                 "collection",
                 "list",
                 "music",
@@ -29568,6 +31601,15 @@
             ],
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "-",
+                "collection",
+                "list",
+                "minus",
+                "music",
+                "playlist",
+                "remove"
             ]
         },
         {
@@ -30150,7 +32192,7 @@
             ],
             "tags": [
                 "alert",
-                "announcment",
+                "announcement",
                 "assistance",
                 "certified",
                 "details",
@@ -30175,6 +32217,18 @@
             "version": 5,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "connectivity",
+                "lock",
+                "locked",
+                "password",
+                "privacy",
+                "private",
+                "protection",
+                "safety",
+                "secure",
+                "security"
             ]
         },
         {
@@ -30218,6 +32272,36 @@
                 "shopping",
                 "symbol",
                 "warning"
+            ]
+        },
+        {
+            "name": "propane",
+            "version": 1,
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "gas",
+                "nest",
+                "propane"
+            ]
+        },
+        {
+            "name": "propane_tank",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "bbq",
+                "gas",
+                "grill",
+                "nest",
+                "propane",
+                "tank"
             ]
         },
         {
@@ -30485,6 +32569,28 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "analytics",
+                "chart",
+                "data",
+                "diagram",
+                "find",
+                "glass",
+                "graph",
+                "infographic",
+                "line",
+                "look",
+                "magnify",
+                "magnifying",
+                "measure",
+                "metrics",
+                "query",
+                "search",
+                "see",
+                "statistics",
+                "stats",
+                "tracking"
             ]
         },
         {
@@ -30517,6 +32623,17 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "?",
+                "assistance",
+                "help",
+                "info",
+                "information",
+                "punctuation",
+                "question mark",
+                "support",
+                "symbol"
             ]
         },
         {
@@ -30833,6 +32950,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "left",
+                "maps",
+                "navigation",
+                "path",
+                "ramp",
+                "route",
+                "sign",
+                "traffic"
             ]
         },
         {
@@ -30845,6 +32976,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "maps",
+                "navigation",
+                "path",
+                "ramp",
+                "right",
+                "route",
+                "sign",
+                "traffic"
             ]
         },
         {
@@ -30948,6 +33093,23 @@
             "name": "real_estate_agent",
             "version": 3,
             "categories": [
+                "social"
+            ],
+            "tags": [
+                "agent",
+                "architecture",
+                "broker",
+                "estate",
+                "hand",
+                "home",
+                "house",
+                "loan",
+                "mortgage",
+                "property",
+                "real",
+                "residence",
+                "residential",
+                "sales",
                 "social"
             ]
         },
@@ -31070,6 +33232,14 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "four sides",
+                "parallelograms",
+                "polygons",
+                "quadrilaterals",
+                "recangle",
+                "shape"
             ]
         },
         {
@@ -31082,6 +33252,19 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "bio",
+                "eco",
+                "green",
+                "loop",
+                "recyclable",
+                "recycle",
+                "recycling",
+                "rotate",
+                "sustainability",
+                "sustainable",
+                "trash"
             ]
         },
         {
@@ -31399,6 +33582,26 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "-",
+                "cancel",
+                "close",
+                "destination",
+                "direction",
+                "exit",
+                "highway",
+                "maps",
+                "minus",
+                "new",
+                "no",
+                "remove",
+                "road",
+                "stop",
+                "street",
+                "symbol",
+                "traffic",
+                "x"
             ]
         },
         {
@@ -32060,6 +34263,11 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "rocket",
+                "space",
+                "spaceship"
             ]
         },
         {
@@ -32067,6 +34275,55 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "launch",
+                "rocket",
+                "space",
+                "spaceship",
+                "takeoff"
+            ]
+        },
+        {
+            "name": "roller_shades",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "blinds",
+                "cover",
+                "curtains",
+                "nest",
+                "open",
+                "roller",
+                "shade",
+                "shutter",
+                "sunshade"
+            ]
+        },
+        {
+            "name": "roller_shades_closed",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "blinds",
+                "closed",
+                "cover",
+                "curtains",
+                "nest",
+                "roller",
+                "shade",
+                "shutter",
+                "sunshade"
             ]
         },
         {
@@ -32194,6 +34451,20 @@
             "version": 2,
             "categories": [
                 "image"
+            ],
+            "tags": [
+                "90",
+                "arrow",
+                "arrows",
+                "ccw",
+                "degrees",
+                "direction",
+                "edit",
+                "editing",
+                "image",
+                "photo",
+                "rotate",
+                "turn"
             ]
         },
         {
@@ -32251,6 +34522,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "left",
+                "maps",
+                "navigation",
+                "path",
+                "roundabout",
+                "route",
+                "sign",
+                "traffic"
             ]
         },
         {
@@ -32262,6 +34547,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "maps",
+                "navigation",
+                "path",
+                "right",
+                "roundabout",
+                "route",
+                "sign",
+                "traffic"
             ]
         },
         {
@@ -32293,6 +34592,14 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "directions",
+                "maps",
+                "path",
+                "route",
+                "sign",
+                "traffic"
             ]
         },
         {
@@ -32669,6 +34976,15 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alternative",
+                "artificial",
+                "communication",
+                "satellite",
+                "space",
+                "space station",
+                "television"
             ]
         },
         {
@@ -32712,6 +35028,27 @@
             "version": 2,
             "categories": [
                 "content"
+            ],
+            "tags": [
+                "compose",
+                "create",
+                "data",
+                "disk",
+                "document",
+                "draft",
+                "drive",
+                "edit",
+                "editing",
+                "file",
+                "floppy",
+                "input",
+                "multimedia",
+                "pen",
+                "pencil",
+                "save",
+                "storage",
+                "write",
+                "writing"
             ]
         },
         {
@@ -32770,6 +35107,12 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "measure",
+                "monitor",
+                "scale",
+                "weight"
             ]
         },
         {
@@ -32857,6 +35200,20 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "analytics",
+                "chart",
+                "data",
+                "diagram",
+                "flow",
+                "graph",
+                "infographic",
+                "measure",
+                "metrics",
+                "schema",
+                "statistics",
+                "tracking"
             ]
         },
         {
@@ -33113,6 +35470,33 @@
                 "screen",
                 "screenshot",
                 "tablet"
+            ]
+        },
+        {
+            "name": "screenshot_monitor",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "device"
+            ],
+            "tags": [
+                "Android",
+                "OS",
+                "chrome",
+                "desktop",
+                "device",
+                "display",
+                "hardware",
+                "iOS",
+                "mac",
+                "monitor",
+                "screen",
+                "screengrab",
+                "screenshot",
+                "web",
+                "window"
             ]
         },
         {
@@ -33517,6 +35901,17 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "deliver",
+                "dispatch",
+                "envelop",
+                "extension",
+                "mail",
+                "message",
+                "schedule",
+                "send",
+                "time"
             ]
         },
         {
@@ -33546,6 +35941,16 @@
         {
             "name": "sensor_door",
             "version": 8,
+            "categories": [
+                "home"
+            ]
+        },
+        {
+            "name": "sensor_occupied",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
             "categories": [
                 "home"
             ]
@@ -34224,7 +36629,6 @@
                 "multiple",
                 "network",
                 "options",
-                "send",
                 "share",
                 "shared",
                 "sharing",
@@ -34277,7 +36681,6 @@
                 "private",
                 "protect",
                 "protection",
-                "secure",
                 "security",
                 "shield",
                 "verified"
@@ -34327,6 +36730,18 @@
             "version": 9,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "2",
+                "add",
+                "arrow",
+                "buy",
+                "cart",
+                "google",
+                "play",
+                "purchase",
+                "shop",
+                "shopping"
             ]
         },
         {
@@ -34455,6 +36870,22 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrow",
+                "cart",
+                "cash",
+                "checkout",
+                "coin",
+                "commerce",
+                "currency",
+                "dollars",
+                "money",
+                "online",
+                "pay",
+                "payment",
+                "right",
+                "shopping"
             ]
         },
         {
@@ -35269,6 +37700,17 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "direction",
+                "left",
+                "maps",
+                "right",
+                "signal",
+                "signs",
+                "street",
+                "traffic"
             ]
         },
         {
@@ -35431,13 +37873,11 @@
                 "arrow",
                 "control",
                 "controls",
-                "forward",
                 "music",
                 "next",
                 "play",
                 "previous",
                 "skip",
-                "transport",
                 "video"
             ]
         },
@@ -35449,7 +37889,6 @@
             ],
             "tags": [
                 "arrow",
-                "backward",
                 "control",
                 "controls",
                 "music",
@@ -35457,7 +37896,6 @@
                 "play",
                 "previous",
                 "skip",
-                "transport",
                 "video"
             ]
         },
@@ -35859,6 +38297,7 @@
                 "snowshoeing",
                 "sports",
                 "travel",
+                "walking",
                 "winter"
             ]
         },
@@ -35900,6 +38339,26 @@
                 "person",
                 "social",
                 "space"
+            ]
+        },
+        {
+            "name": "solar_power",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "eco",
+                "energy",
+                "heat",
+                "nest",
+                "power",
+                "solar",
+                "sun",
+                "sunny"
             ]
         },
         {
@@ -35961,6 +38420,16 @@
             "version": 2,
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "breakfast",
+                "brunch",
+                "dining",
+                "food",
+                "kitchen",
+                "lunch",
+                "meal",
+                "soup"
             ]
         },
         {
@@ -36015,6 +38484,13 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "continent",
+                "landscape",
+                "place",
+                "region",
+                "south america"
             ]
         },
         {
@@ -36104,6 +38580,19 @@
             "version": 3,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "cards",
+                "dashboard",
+                "format",
+                "grid",
+                "layout",
+                "rectangle",
+                "shapes",
+                "space",
+                "squares",
+                "web",
+                "website"
             ]
         },
         {
@@ -36330,6 +38819,12 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "connection",
+                "network",
+                "radius",
+                "spoke"
             ]
         },
         {
@@ -36346,8 +38841,6 @@
             "tags": [
                 "athlete",
                 "athletic",
-                "ball",
-                "basketball",
                 "blowing",
                 "coach",
                 "entertainment",
@@ -36355,13 +38848,10 @@
                 "game",
                 "hobby",
                 "instrument",
-                "live",
                 "referee",
-                "soccer",
                 "social",
                 "sound",
                 "sports",
-                "trophy",
                 "warning",
                 "whistle"
             ]
@@ -36630,6 +39120,21 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "arts",
+                "athlete",
+                "athletic",
+                "entertainment",
+                "exercise",
+                "hobby",
+                "human",
+                "karate",
+                "martial",
+                "people",
+                "person",
+                "social",
+                "sports"
             ]
         },
         {
@@ -36804,6 +39309,13 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "draw",
+                "four",
+                "shape quadrangle",
+                "sides",
+                "square"
             ]
         },
         {
@@ -36839,6 +39351,14 @@
             ],
             "categories": [
                 "device"
+            ],
+            "tags": [
+                "chart",
+                "graph",
+                "lines",
+                "network",
+                "ssid",
+                "wifi"
             ]
         },
         {
@@ -36896,6 +39416,18 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "activity",
+                "amphitheater",
+                "arena",
+                "coliseum",
+                "event",
+                "local",
+                "stadium",
+                "star",
+                "things",
+                "ticket"
             ]
         },
         {
@@ -36994,8 +39526,6 @@
                 "toggle"
             ],
             "tags": [
-                "0.5",
-                "1/2",
                 "achievement",
                 "bookmark",
                 "favorite",
@@ -37005,7 +39535,6 @@
                 "marked",
                 "ranking",
                 "rate",
-                "rating",
                 "rating rank",
                 "reward",
                 "save",
@@ -37129,6 +39658,13 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "arrow",
+                "keyboard",
+                "next",
+                "right",
+                "start"
             ]
         },
         {
@@ -37259,7 +39795,6 @@
                 "music",
                 "pause",
                 "play",
-                "player",
                 "square",
                 "stop",
                 "video"
@@ -37273,6 +39808,17 @@
             ],
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "circle",
+                "control",
+                "controls",
+                "music",
+                "pause",
+                "play",
+                "square",
+                "stop",
+                "video"
             ]
         },
         {
@@ -37432,6 +39978,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "maps",
+                "navigation",
+                "path",
+                "route",
+                "sign",
+                "straight",
+                "traffic",
+                "up"
             ]
         },
         {
@@ -37662,7 +40222,6 @@
                 "order",
                 "play",
                 "signup",
-                "subs",
                 "subscribe",
                 "subscriptions"
             ]
@@ -38037,6 +40596,21 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrows",
+                "direction",
+                "disable",
+                "down",
+                "enable",
+                "finger",
+                "hands",
+                "hit",
+                "navigation",
+                "strike",
+                "swing",
+                "swpie",
+                "take"
             ]
         },
         {
@@ -38047,6 +40621,22 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alt",
+                "arrows",
+                "direction",
+                "disable",
+                "down",
+                "enable",
+                "finger",
+                "hands",
+                "hit",
+                "navigation",
+                "strike",
+                "swing",
+                "swpie",
+                "take"
             ]
         },
         {
@@ -38054,6 +40644,20 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "finger",
+                "hand",
+                "hit",
+                "left",
+                "navigation",
+                "reject",
+                "strike",
+                "swing",
+                "swipe",
+                "take"
             ]
         },
         {
@@ -38064,6 +40668,21 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alt",
+                "arrow",
+                "arrows",
+                "finger",
+                "hand",
+                "hit",
+                "left",
+                "navigation",
+                "reject",
+                "strike",
+                "swing",
+                "swipe",
+                "take"
             ]
         },
         {
@@ -38071,6 +40690,20 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "accept",
+                "arrows",
+                "direction",
+                "finger",
+                "hands",
+                "hit",
+                "navigation",
+                "right",
+                "strike",
+                "swing",
+                "swpie",
+                "take"
             ]
         },
         {
@@ -38081,6 +40714,21 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "accept",
+                "alt",
+                "arrows",
+                "direction",
+                "finger",
+                "hands",
+                "hit",
+                "navigation",
+                "right",
+                "strike",
+                "swing",
+                "swpie",
+                "take"
             ]
         },
         {
@@ -38088,6 +40736,21 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrows",
+                "direction",
+                "disable",
+                "enable",
+                "finger",
+                "hands",
+                "hit",
+                "navigation",
+                "strike",
+                "swing",
+                "swpie",
+                "take",
+                "up"
             ]
         },
         {
@@ -38098,6 +40761,22 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alt",
+                "arrows",
+                "direction",
+                "disable",
+                "enable",
+                "finger",
+                "hands",
+                "hit",
+                "navigation",
+                "strike",
+                "swing",
+                "swpie",
+                "take",
+                "up"
             ]
         },
         {
@@ -38105,6 +40784,19 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "arrows",
+                "direction",
+                "finger",
+                "hands",
+                "hit",
+                "navigation",
+                "strike",
+                "swing",
+                "swpie",
+                "take",
+                "verticle"
             ]
         },
         {
@@ -38116,6 +40808,20 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "access",
+                "arrow",
+                "arrows",
+                "direction",
+                "navigation",
+                "new",
+                "north",
+                "shortcut",
+                "star",
+                "switch",
+                "symbol",
+                "up"
             ]
         },
         {
@@ -38127,6 +40833,23 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "+",
+                "access",
+                "add",
+                "arrow",
+                "arrows",
+                "direction",
+                "navigation",
+                "new",
+                "north",
+                "plus",
+                "shortcut",
+                "star",
+                "switch",
+                "symbol",
+                "up"
             ]
         },
         {
@@ -38311,6 +41034,24 @@
             ],
             "categories": [
                 "notification"
+            ],
+            "tags": [
+                "around",
+                "arrow",
+                "arrows",
+                "lock",
+                "locked",
+                "password",
+                "privacy",
+                "private",
+                "protection",
+                "renew",
+                "rotate",
+                "safety",
+                "secure",
+                "security",
+                "sync",
+                "turn"
             ]
         },
         {
@@ -38912,6 +41653,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "application",
+                "code",
+                "emulator",
+                "program",
+                "software",
+                "terminal"
             ]
         },
         {
@@ -38940,6 +41689,21 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "-",
+                "alphabet",
+                "character",
+                "decrease",
+                "font",
+                "letter",
+                "minus",
+                "remove",
+                "resize",
+                "subtract",
+                "symbol",
+                "text",
+                "type"
             ]
         },
         {
@@ -39000,6 +41764,21 @@
             ],
             "categories": [
                 "editor"
+            ],
+            "tags": [
+                "+",
+                "add",
+                "alphabet",
+                "character",
+                "font",
+                "increase",
+                "letter",
+                "new",
+                "plus",
+                "resize",
+                "symbol",
+                "text",
+                "type"
             ]
         },
         {
@@ -39277,7 +42056,6 @@
                 "ate",
                 "dislike",
                 "down",
-                "downvote",
                 "favorite",
                 "fingers",
                 "gesture",
@@ -39320,21 +42098,20 @@
                 "action"
             ],
             "tags": [
-                "bad",
-                "decline",
-                "disapprove",
                 "dislike",
                 "down",
-                "feedback",
-                "hate",
-                "negative",
-                "no",
-                "reject",
-                "sad",
-                "social",
-                "thumb",
-                "veto",
-                "vote"
+                "favorite",
+                "filled",
+                "fingers",
+                "gesture",
+                "hand",
+                "hands",
+                "like",
+                "rank",
+                "ranking",
+                "rate",
+                "rating",
+                "thumb"
             ]
         },
         {
@@ -39355,8 +42132,7 @@
                 "rate",
                 "rating",
                 "thumb",
-                "up",
-                "upvote"
+                "up"
             ]
         },
         {
@@ -39392,23 +42168,20 @@
                 "action"
             ],
             "tags": [
-                "agreed",
-                "approved",
-                "confirm",
-                "correct",
+                "alt",
                 "favorite",
-                "feedback",
-                "good",
-                "happy",
+                "fingers",
+                "gesture",
+                "hand",
+                "hands",
                 "like",
-                "okay",
-                "positive",
-                "satisfaction",
-                "social",
+                "off",
+                "rank",
+                "ranking",
+                "rate",
+                "rating",
                 "thumb",
-                "up",
-                "vote",
-                "yes"
+                "up"
             ]
         },
         {
@@ -39667,6 +42440,20 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alert",
+                "and",
+                "announcement",
+                "electricity",
+                "idea",
+                "info",
+                "information",
+                "light",
+                "lightbulb",
+                "stars",
+                "tips",
+                "updates"
             ]
         },
         {
@@ -39820,6 +42607,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "badge",
+                "hexagon",
+                "mark",
+                "shield",
+                "sign",
+                "symbol"
             ]
         },
         {
@@ -39891,6 +42686,26 @@
                 "slide",
                 "storage",
                 "topic"
+            ]
+        },
+        {
+            "name": "tornado",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "social"
+            ],
+            "tags": [
+                "crisis",
+                "disaster",
+                "natural",
+                "rain",
+                "storm",
+                "tornado",
+                "weather",
+                "wind"
             ]
         },
         {
@@ -40090,8 +42905,9 @@
                 "gender",
                 "lgbt",
                 "male",
-                "neutrual",
+                "neutral",
                 "social",
+                "symbol",
                 "transgender"
             ]
         },
@@ -40363,6 +43179,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "left",
+                "maps",
+                "navigation",
+                "path",
+                "route",
+                "sign",
+                "traffic",
+                "turn"
             ]
         },
         {
@@ -40374,6 +43204,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "maps",
+                "navigation",
+                "path",
+                "right",
+                "route",
+                "sign",
+                "traffic",
+                "turn"
             ]
         },
         {
@@ -40385,6 +43229,21 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "left",
+                "maps",
+                "navigation",
+                "path",
+                "route",
+                "sharp",
+                "sign",
+                "traffic",
+                "turn"
             ]
         },
         {
@@ -40396,6 +43255,21 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "maps",
+                "navigation",
+                "path",
+                "right",
+                "route",
+                "sharp",
+                "sign",
+                "traffic",
+                "turn"
             ]
         },
         {
@@ -40407,6 +43281,21 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "maps",
+                "navigation",
+                "path",
+                "right",
+                "route",
+                "sign",
+                "slight",
+                "traffic",
+                "turn"
             ]
         },
         {
@@ -40418,6 +43307,22 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "maps",
+                "navigation",
+                "path",
+                "right",
+                "route",
+                "sharp",
+                "sign",
+                "slight",
+                "traffic",
+                "turn"
             ]
         },
         {
@@ -40485,8 +43390,6 @@
             "tags": [
                 "device",
                 "display",
-                "linear",
-                "living room",
                 "monitor",
                 "screen",
                 "screencast",
@@ -40543,7 +43446,7 @@
                 "sport",
                 "transportation",
                 "travel",
-                "twom wheeler",
+                "two wheeler",
                 "vehicle"
             ]
         },
@@ -40557,6 +43460,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "left",
+                "maps",
+                "navigation",
+                "path",
+                "route",
+                "sign",
+                "traffic",
+                "u-turn"
             ]
         },
         {
@@ -40569,6 +43486,20 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "direction",
+                "directions",
+                "maps",
+                "navigation",
+                "path",
+                "right",
+                "route",
+                "sign",
+                "traffic",
+                "u-turn"
             ]
         },
         {
@@ -40723,7 +43654,6 @@
                 "close",
                 "email",
                 "envelop",
-                "esubscribe",
                 "letter",
                 "mail",
                 "message",
@@ -40731,6 +43661,7 @@
                 "off",
                 "remove",
                 "send",
+                "subscribe",
                 "unsubscribe"
             ]
         },
@@ -40903,6 +43834,26 @@
             "version": 2,
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "aid",
+                "covid",
+                "doctor",
+                "drug",
+                "emergency",
+                "hospital",
+                "immunity",
+                "injection",
+                "medical",
+                "medication",
+                "medicine",
+                "needle",
+                "pharmacy",
+                "sick",
+                "syringe",
+                "vaccination",
+                "vaccines",
+                "vial"
             ]
         },
         {
@@ -41095,6 +44046,49 @@
             ]
         },
         {
+            "name": "vertical_shades",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "blinds",
+                "cover",
+                "curtains",
+                "nest",
+                "open",
+                "shade",
+                "shutter",
+                "sunshade",
+                "vertical"
+            ]
+        },
+        {
+            "name": "vertical_shades_closed",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "blinds",
+                "closed",
+                "cover",
+                "curtains",
+                "nest",
+                "roller",
+                "shade",
+                "shutter",
+                "sunshade"
+            ]
+        },
+        {
             "name": "vertical_split",
             "version": 15,
             "unsupported_families": [
@@ -41219,6 +44213,19 @@
             "version": 1,
             "categories": [
                 "av"
+            ],
+            "tags": [
+                "camera",
+                "doc",
+                "document",
+                "film",
+                "filming",
+                "hardware",
+                "image",
+                "motion",
+                "picture",
+                "video",
+                "videography"
             ]
         },
         {
@@ -41485,6 +44492,16 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alt",
+                "comfy",
+                "cozy",
+                "design",
+                "format",
+                "layout",
+                "view",
+                "web"
             ]
         },
         {
@@ -41510,6 +44527,15 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "alt",
+                "compact",
+                "design",
+                "format",
+                "layout dense",
+                "view",
+                "web"
             ]
         },
         {
@@ -41517,6 +44543,15 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "comfy",
+                "cozy",
+                "design",
+                "format",
+                "layout",
+                "view",
+                "web"
             ]
         },
         {
@@ -41585,6 +44620,14 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "grid",
+                "kanban",
+                "layout",
+                "pattern",
+                "squares",
+                "view"
             ]
         },
         {
@@ -41698,6 +44741,14 @@
             "version": 1,
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "grid",
+                "layout",
+                "pattern",
+                "squares",
+                "timeline",
+                "view"
             ]
         },
         {
@@ -41898,13 +44949,9 @@
             ],
             "tags": [
                 "audio",
-                "av",
                 "control",
                 "down",
                 "music",
-                "quieter",
-                "shh",
-                "soft",
                 "sound",
                 "speaker",
                 "tv",
@@ -41939,13 +44986,11 @@
             ],
             "tags": [
                 "audio",
-                "av",
                 "control",
                 "disabled",
                 "enabled",
                 "low",
                 "music",
-                "mute",
                 "off",
                 "on",
                 "slash",
@@ -42023,6 +45068,22 @@
             ],
             "categories": [
                 "communication"
+            ],
+            "tags": [
+                "[offline]",
+                "code",
+                "disabled",
+                "enabled",
+                "key",
+                "lock",
+                "network",
+                "off",
+                "on",
+                "passcode",
+                "password",
+                "slash",
+                "unlock",
+                "vpn"
             ]
         },
         {
@@ -42098,6 +45159,13 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "garage",
+                "industry",
+                "manufacturing",
+                "storage",
+                "warehouse"
             ]
         },
         {
@@ -42215,6 +45283,23 @@
             ],
             "categories": [
                 "hardware"
+            ],
+            "tags": [
+                "Android",
+                "OS",
+                "ar",
+                "clock",
+                "close",
+                "gadget",
+                "iOS",
+                "off",
+                "shut",
+                "time",
+                "vr",
+                "watch",
+                "wearables",
+                "web",
+                "wristwatch"
             ]
         },
         {
@@ -42270,6 +45355,18 @@
             "version": 3,
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "drink",
+                "drop",
+                "droplet",
+                "eco",
+                "liquid",
+                "nature",
+                "ocean",
+                "rain",
+                "social",
+                "water"
             ]
         },
         {
@@ -42322,6 +45419,18 @@
             "version": 3,
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "bye",
+                "fingers",
+                "gesture",
+                "goodbye",
+                "greetings",
+                "hand",
+                "hello",
+                "palm",
+                "wave",
+                "waving"
             ]
         },
         {
@@ -42569,6 +45678,14 @@
             ],
             "categories": [
                 "action"
+            ],
+            "tags": [
+                "api",
+                "developer",
+                "development",
+                "enterprise",
+                "software",
+                "webhook"
             ]
         },
         {
@@ -42633,6 +45750,16 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "calls",
+                "chat",
+                "messaging",
+                "messenger",
+                "platform",
+                "video",
+                "voice",
+                "whatsapp"
             ]
         },
         {
@@ -42829,6 +45956,20 @@
             ],
             "categories": [
                 "device"
+            ],
+            "tags": [
+                "(scan)",
+                "[cellular",
+                "channel",
+                "connection",
+                "data",
+                "internet",
+                "mobile]",
+                "network",
+                "service",
+                "signal",
+                "wifi",
+                "wireless"
             ]
         },
         {
@@ -42839,6 +45980,26 @@
             ],
             "categories": [
                 "device"
+            ],
+            "tags": [
+                "(scan)",
+                "[cellular",
+                "connection",
+                "data",
+                "detect",
+                "discover",
+                "find",
+                "internet",
+                "look",
+                "magnifying glass",
+                "mobile]",
+                "network",
+                "notice",
+                "search",
+                "service",
+                "signal",
+                "wifi",
+                "wireless"
             ]
         },
         {
@@ -42902,6 +46063,22 @@
             "version": 1,
             "categories": [
                 "device"
+            ],
+            "tags": [
+                "(scan)",
+                "[cellular",
+                "connection",
+                "data",
+                "internet",
+                "lock",
+                "mobile]",
+                "network",
+                "password",
+                "secure",
+                "service",
+                "signal",
+                "wifi",
+                "wireless"
             ]
         },
         {
@@ -43044,6 +46221,21 @@
             ]
         },
         {
+            "name": "wind_power",
+            "version": 1,
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "eco",
+                "energy",
+                "nest",
+                "power",
+                "wind",
+                "windy"
+            ]
+        },
+        {
             "name": "window",
             "version": 9,
             "unsupported_families": [
@@ -43133,13 +46325,46 @@
                 "action"
             ],
             "tags": [
-                "-briefcase",
                 "bag",
                 "baggage",
+                "briefcase",
                 "business",
                 "case",
                 "job",
                 "suitcase",
+                "work"
+            ]
+        },
+        {
+            "name": "work_history",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "action"
+            ],
+            "tags": [
+                "arrow",
+                "back",
+                "backwards",
+                "bag",
+                "baggage",
+                "briefcase",
+                "business",
+                "case",
+                "clock",
+                "date",
+                "history",
+                "job",
+                "refresh",
+                "renew",
+                "reverse",
+                "rotate",
+                "schedule",
+                "suitcase",
+                "time",
+                "turn",
                 "work"
             ]
         },
@@ -43190,6 +46415,18 @@
             ],
             "categories": [
                 "social"
+            ],
+            "tags": [
+                "certification",
+                "degree",
+                "ecommerce",
+                "guarantee",
+                "medal",
+                "permit",
+                "premium",
+                "ribbon",
+                "verification",
+                "workspace"
             ]
         },
         {
@@ -43201,6 +46438,17 @@
             ],
             "categories": [
                 "file"
+            ],
+            "tags": [
+                "circles",
+                "collaboration",
+                "dot",
+                "filled",
+                "group",
+                "space",
+                "team",
+                "work",
+                "workspaces"
             ]
         },
         {
@@ -43366,6 +46614,18 @@
             ],
             "categories": [
                 "maps"
+            ],
+            "tags": [
+                "arrow",
+                "arrows",
+                "destination",
+                "in",
+                "location",
+                "maps",
+                "move",
+                "place",
+                "stop",
+                "zoom"
             ]
         },
         {
