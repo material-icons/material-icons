@@ -255,6 +255,13 @@
             ]
         },
         {
+            "name": "18_up_rating",
+            "version": 1,
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "18mp",
             "version": 10,
             "categories": [
@@ -5759,6 +5766,27 @@
             ]
         },
         {
+            "name": "blinds",
+            "version": 3,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "home"
+            ],
+            "tags": [
+                "blinds",
+                "cover",
+                "curtains",
+                "nest",
+                "open",
+                "shade",
+                "shutter",
+                "sunshade"
+            ]
+        },
+        {
             "name": "blinds_closed",
             "version": 1,
             "unsupported_families": [
@@ -6838,6 +6866,27 @@
                 "monitor",
                 "phone",
                 "sun"
+            ]
+        },
+        {
+            "name": "broadcast_on_home",
+            "version": 1,
+            "unsupported_families": [
+                "outline"
+            ],
+            "categories": [
+                "home"
+            ]
+        },
+        {
+            "name": "broadcast_on_personal",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "round"
+            ],
+            "categories": [
+                "home"
             ]
         },
         {
@@ -10211,7 +10260,7 @@
         },
         {
             "name": "coronavirus",
-            "version": 6,
+            "version": 7,
             "unsupported_families": [
                 "round"
             ],
@@ -11718,6 +11767,17 @@
             "version": 12,
             "categories": [
                 "maps"
+            ]
+        },
+        {
+            "name": "desk",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline"
+            ],
+            "categories": [
+                "places"
             ]
         },
         {
@@ -18048,7 +18108,7 @@
         },
         {
             "name": "format_color_text",
-            "version": 16,
+            "version": 17,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -24659,6 +24719,16 @@
             ]
         },
         {
+            "name": "lock_person",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
             "name": "lock_reset",
             "version": 1,
             "unsupported_families": [
@@ -27894,6 +27964,19 @@
                 "unidentifiable",
                 "unknown",
                 "user"
+            ]
+        },
+        {
+            "name": "no_adult_content",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "round",
+                "twotone"
+            ],
+            "categories": [
+                "social"
             ]
         },
         {
@@ -45344,6 +45427,17 @@
             ]
         },
         {
+            "name": "wallet",
+            "version": 1,
+            "unsupported_families": [
+                "outline",
+                "round"
+            ],
+            "categories": [
+                "social"
+            ]
+        },
+        {
             "name": "wallpaper",
             "version": 13,
             "unsupported_families": [
@@ -46065,6 +46159,36 @@
                 "squares",
                 "ui",
                 "widgets"
+            ]
+        },
+        {
+            "name": "width_full",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "width_normal",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "action"
+            ]
+        },
+        {
+            "name": "width_wide",
+            "version": 1,
+            "unsupported_families": [
+                "round"
+            ],
+            "categories": [
+                "action"
             ]
         },
         {
