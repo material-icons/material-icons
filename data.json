@@ -1683,7 +1683,7 @@
         },
         {
             "name": "account_box",
-            "version": 12,
+            "version": 13,
             "unsupported_families": [
                 "round"
             ],
@@ -1706,7 +1706,7 @@
         },
         {
             "name": "account_circle",
-            "version": 17,
+            "version": 18,
             "unsupported_families": [
                 "sharp",
                 "round"
