@@ -70,7 +70,7 @@ Iconify project uses a new innovative approach to loading icons. Unlike fonts an
 You are no longer limited to this icon set, but can choose various icons from other icon sets that follow Material Design guidelines:
 
 - [Templarian's Material Design Icons](https://icon-sets.iconify.design/mdi/)
-- [Material Design Light](https://https://icon-sets.iconify.design/mdi-light/)
+- [Material Design Light](https://icon-sets.iconify.design/mdi-light/)
 - [Unicons](https://icon-sets.iconify.design/uil/)
 - [Box Icons](https://icon-sets.iconify.design/bx/)
 - [Remix Icons](https://icon-sets.iconify.design/ri/)
