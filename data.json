@@ -2314,11 +2314,17 @@
             ],
             "tags": [
                 "add",
+                "app",
+                "application",
                 "backup",
-                "data",
+                "cloud",
                 "drive",
+                "files",
+                "folders",
+                "gdrive",
                 "google",
                 "recovery",
+                "shortcut",
                 "storage"
             ]
         },
@@ -18150,6 +18156,23 @@
             ]
         },
         {
+            "name": "fluorescent",
+            "version": 1,
+            "unsupported_families": [
+                "sharp"
+            ],
+            "categories": [
+                "device"
+            ],
+            "tags": [
+                "bright",
+                "fluorescent",
+                "lamp",
+                "light",
+                "lightbulb"
+            ]
+        },
+        {
             "name": "flutter_dash",
             "version": 5,
             "unsupported_families": [
@@ -21153,7 +21176,10 @@
                 "add",
                 "and",
                 "certified",
+                "cross",
                 "health",
+                "home",
+                "nest",
                 "plus",
                 "privacy",
                 "private",
@@ -29316,7 +29342,7 @@
         },
         {
             "name": "noise_aware",
-            "version": 1,
+            "version": 2,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -29337,27 +29363,28 @@
         },
         {
             "name": "noise_control_off",
-            "version": 1,
+            "version": 2,
             "unsupported_families": [
                 "sharp",
                 "outline",
-                "round",
                 "twotone"
             ],
             "categories": [
                 "action"
             ],
             "tags": [
-                "[offline]",
                 "audio",
                 "aware",
+                "cancel",
                 "cancellation",
+                "control",
                 "disabled",
                 "enabled",
                 "music",
                 "noise",
                 "note",
                 "off",
+                "offline",
                 "on",
                 "slash",
                 "sound"
@@ -36070,8 +36097,9 @@
         },
         {
             "name": "rounded_corner",
-            "version": 14,
+            "version": 15,
             "unsupported_families": [
+                "sharp",
                 "outline",
                 "round",
                 "twotone"
@@ -44978,11 +45006,23 @@
             ],
             "tags": [
                 "adjust",
+                "audio",
+                "controls",
+                "custom",
+                "customize",
                 "edit",
                 "editing",
+                "filter",
+                "filters",
+                "instant",
+                "mix",
+                "music",
                 "options",
                 "setting",
                 "settings",
+                "slider",
+                "sliders",
+                "switches",
                 "tune"
             ]
         },
