@@ -1683,7 +1683,7 @@
         },
         {
             "name": "account_box",
-            "version": 13,
+            "version": 14,
             "unsupported_families": [
                 "round"
             ],
@@ -1706,7 +1706,7 @@
         },
         {
             "name": "account_circle",
-            "version": 18,
+            "version": 19,
             "unsupported_families": [
                 "sharp",
                 "round"
@@ -9554,6 +9554,7 @@
             ],
             "tags": [
                 "carbon",
+                "chemical",
                 "co2",
                 "dioxide",
                 "gas"
@@ -12799,7 +12800,7 @@
         },
         {
             "name": "directions_off",
-            "version": 12,
+            "version": 13,
             "categories": [
                 "notification"
             ],
@@ -24949,7 +24950,7 @@
         },
         {
             "name": "local_fire_department",
-            "version": 14,
+            "version": 15,
             "unsupported_families": [
                 "sharp"
             ],
@@ -41102,7 +41103,12 @@
         },
         {
             "name": "stacked_bar_chart",
-            "version": 11,
+            "version": 12,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
             "categories": [
                 "content"
             ],
@@ -44567,6 +44573,7 @@
                 "car",
                 "games",
                 "kids",
+                "toy",
                 "toys",
                 "windmill"
             ]
@@ -44894,7 +44901,7 @@
         },
         {
             "name": "troubleshoot",
-            "version": 9,
+            "version": 10,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -46183,6 +46190,27 @@
             ]
         },
         {
+            "name": "video_chat",
+            "version": 1,
+            "categories": [
+                "notification"
+            ],
+            "tags": [
+                "bubble",
+                "cam",
+                "camera",
+                "chat",
+                "comment",
+                "communicate",
+                "facetime",
+                "feedback",
+                "message",
+                "speech",
+                "video",
+                "voice"
+            ]
+        },
+        {
             "name": "video_file",
             "version": 1,
             "categories": [
@@ -46445,7 +46473,7 @@
         },
         {
             "name": "view_comfy",
-            "version": 13,
+            "version": 14,
             "unsupported_families": [
                 "sharp"
             ],
@@ -46831,7 +46859,7 @@
         },
         {
             "name": "voice_chat",
-            "version": 12,
+            "version": 13,
             "categories": [
                 "notification"
             ],
