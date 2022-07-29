@@ -3758,6 +3758,7 @@
                 "back",
                 "components",
                 "direction",
+                "disable_ios",
                 "interface",
                 "left",
                 "navigation",
@@ -3784,6 +3785,7 @@
                 "chevron",
                 "components",
                 "direction",
+                "disable_ios",
                 "interface",
                 "ios",
                 "left",
@@ -3816,6 +3818,7 @@
                 "chevron",
                 "components",
                 "direction",
+                "disable_ios",
                 "interface",
                 "ios",
                 "left",
@@ -5209,7 +5212,12 @@
         },
         {
             "name": "bar_chart",
-            "version": 12,
+            "version": 13,
+            "unsupported_families": [
+                "sharp",
+                "outline",
+                "twotone"
+            ],
             "categories": [
                 "editor"
             ],
@@ -5696,10 +5704,7 @@
         },
         {
             "name": "bed",
-            "version": 9,
-            "unsupported_families": [
-                "outline"
-            ],
+            "version": 10,
             "categories": [
                 "search"
             ],
@@ -7276,8 +7281,11 @@
                 "adjust",
                 "build",
                 "fix",
+                "home",
+                "nest",
                 "repair",
                 "tool",
+                "tools",
                 "wrench"
             ]
         },
@@ -7492,6 +7500,7 @@
                 "social"
             ],
             "tags": [
+                "add",
                 "baked",
                 "birthday",
                 "cake",
@@ -7500,11 +7509,14 @@
                 "dessert",
                 "food",
                 "frosting",
+                "new",
                 "party",
                 "pastries",
                 "pastry",
+                "plus",
                 "social",
-                "sweet"
+                "sweet",
+                "symbol"
             ]
         },
         {
@@ -8728,6 +8740,7 @@
                 "check",
                 "confirm",
                 "correct",
+                "disable_ios",
                 "done",
                 "enter",
                 "mark",
@@ -8949,6 +8962,7 @@
                 "arrows",
                 "chevron",
                 "direction",
+                "disable_ios",
                 "left"
             ]
         },
@@ -10841,9 +10855,10 @@
         },
         {
             "name": "crop_16_9",
-            "version": 12,
+            "version": 13,
             "unsupported_families": [
                 "outline",
+                "round",
                 "twotone"
             ],
             "categories": [
@@ -10872,9 +10887,10 @@
         },
         {
             "name": "crop_3_2",
-            "version": 12,
+            "version": 13,
             "unsupported_families": [
                 "outline",
+                "round",
                 "twotone"
             ],
             "categories": [
@@ -10903,9 +10919,10 @@
         },
         {
             "name": "crop_5_4",
-            "version": 12,
+            "version": 13,
             "unsupported_families": [
                 "outline",
+                "round",
                 "twotone"
             ],
             "categories": [
@@ -10933,9 +10950,10 @@
         },
         {
             "name": "crop_7_5",
-            "version": 12,
+            "version": 13,
             "unsupported_families": [
                 "outline",
+                "round",
                 "twotone"
             ],
             "categories": [
@@ -12218,10 +12236,7 @@
         },
         {
             "name": "desktop_windows",
-            "version": 12,
-            "unsupported_families": [
-                "outline"
-            ],
+            "version": 13,
             "categories": [
                 "hardware"
             ],
@@ -12787,7 +12802,7 @@
         },
         {
             "name": "directions_off",
-            "version": 13,
+            "version": 14,
             "categories": [
                 "notification"
             ],
@@ -13698,6 +13713,7 @@
                 "approve",
                 "check",
                 "complete",
+                "disable_ios",
                 "done",
                 "mark",
                 "ok",
@@ -17370,7 +17386,7 @@
         },
         {
             "name": "filter_list",
-            "version": 12,
+            "version": 13,
             "unsupported_families": [
                 "sharp",
                 "outline",
@@ -18034,6 +18050,7 @@
             "tags": [
                 "android",
                 "camera",
+                "disable_ios",
                 "edit",
                 "editing",
                 "flip",
@@ -19584,6 +19601,7 @@
                 "average",
                 "calculate",
                 "count",
+                "custom",
                 "doc",
                 "edit",
                 "editing",
@@ -24876,11 +24894,16 @@
             ],
             "tags": [
                 "911",
+                "climate",
                 "department",
                 "fire",
                 "firefighter",
                 "flame",
-                "hot"
+                "heat",
+                "home",
+                "hot",
+                "nest",
+                "thermostat"
             ]
         },
         {
@@ -27631,6 +27654,7 @@
                 "app",
                 "application",
                 "components",
+                "disable_ios",
                 "dots",
                 "etc",
                 "horiz",
@@ -27689,6 +27713,7 @@
                 "app",
                 "application",
                 "components",
+                "disable_ios",
                 "dots",
                 "etc",
                 "interface",
@@ -38046,6 +38071,7 @@
                 "android",
                 "connect",
                 "contect",
+                "disable_ios",
                 "link",
                 "media",
                 "multimedia",
@@ -46296,9 +46322,10 @@
         },
         {
             "name": "view_compact",
-            "version": 12,
+            "version": 13,
             "unsupported_families": [
-                "sharp"
+                "sharp",
+                "round"
             ],
             "categories": [
                 "image"
@@ -48169,9 +48196,8 @@
         },
         {
             "name": "window",
-            "version": 9,
+            "version": 10,
             "unsupported_families": [
-                "outline",
                 "round"
             ],
             "categories": [
