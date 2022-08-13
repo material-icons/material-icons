@@ -12211,10 +12211,7 @@
         },
         {
             "name": "desktop_mac",
-            "version": 16,
-            "unsupported_families": [
-                "outline"
-            ],
+            "version": 17,
             "categories": [
                 "hardware"
             ],
@@ -12648,7 +12645,7 @@
         },
         {
             "name": "directions",
-            "version": 12,
+            "version": 14,
             "categories": [
                 "maps"
             ],
@@ -21945,7 +21942,7 @@
         },
         {
             "name": "hotel",
-            "version": 18,
+            "version": 19,
             "categories": [
                 "maps"
             ],
@@ -21963,7 +21960,7 @@
         },
         {
             "name": "hotel_class",
-            "version": 5,
+            "version": 6,
             "unsupported_families": [
                 "sharp"
             ],
@@ -23158,7 +23155,8 @@
                 "full",
                 "join",
                 "left",
-                "outter",
+                "outer",
+                "overlap",
                 "right",
                 "sql"
             ]
@@ -23180,6 +23178,7 @@
                 "inner",
                 "join",
                 "matching",
+                "overlap",
                 "sql",
                 "values"
             ]
@@ -23201,6 +23200,7 @@
                 "join",
                 "left",
                 "matching",
+                "overlap",
                 "sql",
                 "values"
             ]
@@ -23221,6 +23221,7 @@
                 "command",
                 "join",
                 "matching",
+                "overlap",
                 "right",
                 "sql",
                 "values"
@@ -23581,7 +23582,7 @@
         },
         {
             "name": "keyboard_hide",
-            "version": 12,
+            "version": 13,
             "categories": [
                 "hardware"
             ],
@@ -23695,7 +23696,7 @@
         },
         {
             "name": "kitchen",
-            "version": 11,
+            "version": 12,
             "categories": [
                 "places"
             ],
@@ -34429,15 +34430,6 @@
             ],
             "categories": [
                 "action"
-            ],
-            "tags": [
-                "bill",
-                "credit",
-                "invoice",
-                "paper",
-                "payment",
-                "receipt",
-                "sale"
             ]
         },
         {
@@ -41004,7 +40996,7 @@
         },
         {
             "name": "star",
-            "version": 20,
+            "version": 22,
             "categories": [
                 "toggle"
             ],
